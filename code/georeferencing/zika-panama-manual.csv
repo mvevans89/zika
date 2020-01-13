@@ -1,0 +1,80 @@
+location,location_type,NAME_0,NAME_1,NAME_2,NAME_3,GID_2,GID_3,lat,long,Notes
+Panama-Bocas_del_Toro-Bastimento,county,Panama,BOCAS DEL TORO,BOCAS DEL TORO,BASTIMENTOS,,PAN.1.1.1_1,,,
+Panama-Bocas_del_Toro-Bocas_del_Toro,county,Panama,BOCAS DEL TORO,BOCAS DEL TORO,BOCAS DEL TORO,,PAN.1.1.2_1,,,
+Panama-Cocle-Rio_Hato,county,Panama,COCLE,ANTON,RIO HATO,,PAN.3.2.8_1,,,
+Panama-Colon-Salamanca,county,Panama,COLON,COLON,SALAMANCA,,PAN.4.2.12_1,,,
+Panama-Colon-San_Juan,county,Panama,COLON,COLON,SAN JUAN,,PAN.4.2.13_1,,,
+Panama-Costa_del_Este,county,Panama,PANAMA,,,,,9.015397,-79.467587,I think this is panama city
+Panama-Darien-Rio_Congo,county,Panama,DARIEN,CHEPIGANA,RIO CONGO,,PAN.5.1.9_1,,,
+Panama-Herrera-Chitre,county,Panama,HERRERA,CHITRE,CHITRE,,PAN.7.1.1_1,,,
+Panama-Kuna_Yala-Achutupu,county,Panama,KUNA YALA,,,,,9.198338,-77.987023,
+Panama-Kuna_Yala-Acuatupu,county,Panama,KUNA YALA,,,,,9.59379,-78.746595,part of san blas islands
+Panama-Kuna_Yala-Ailigandi,county,Panama,KUNA YALA,KUNA YALA,AILIGANDI,,PAN.8.1.1_1,,,
+Panama-Kuna_Yala-Ailitupu,county,Panama,KUNA YALA,,,,,9.59379,-78.746595,part of san blas islands
+Panama-Kuna_Yala-Carti_Sugdup,county,Panama,KUNA YALA,,,,,9.59379,-78.746595,part of san blas islands
+Panama-Kuna_Yala-Corazon_de_Jesus,county,Panama,KUNA YALA,,,,,9.444002,-78.585049,
+Panama-Kuna_Yala-Mamitupu,county,Panama,KUNA YALA,,,,,9.185278,-77.984167,
+Panama-Kuna_Yala-Mulatupu,county,Panama,KUNA YALA,NA,NA,NA,NA,8.953633,-77.767427,
+Panama-Kuna_Yala-Nalugena,county,Panama,KUNA YALA,,,,,9.59379,-78.746595,part of san blas islands
+Panama-Kuna_Yala-Naranjo_Chico,county,Panama,KUNA YALA,,,,,9.59379,-78.746595,part of san blas islands
+Panama-Kuna_Yala-Nargana,county,Panama,KUNA YALA,KUNA YALA,NARGANA,,PAN.8.1.2_1,,,
+Panama-Kuna_Yala-Ogobsucum,county,Panama,KUNA YALA,,,,,9.133103,-77.927656,this is the same place as ustupo
+Panama-Kuna_Yala-Playon_Chico,county,Panama,KUNA YALA,,,,,9.309722,-78.234722,also called ukupseni
+Panama-Kuna_Yala-Pto_Obaldia,county,Panama,KUNA YALA,KUNA YALA,PUERTO OBALDIA,,PAN.8.1.3_1,,,Puerto Obaldia
+Panama-Kuna_Yala-Rio_Azucar,county,Panama,KUNA YALA,,,,,9.425379,-78.629581,
+Panama-Kuna_Yala-Rio_Sidra,county,Panama,KUNA YALA,,,,,9.59379,-78.746595,part of san blas islands
+Panama-Kuna_Yala-Soledad_Miria,county,Panama,,,,,,9.444987,-78.899896,
+Panama-Kuna_Yala-Soledad_Miriam,county,Panama,,,,,,9.444987,-78.899896,"I think this is a typo, should be miria"
+Panama-Kuna_Yala-Ustupu,county,Panama,KUNA YALA,,,,,9.133103,-77.927656,
+Panama-Kuna_Yala-Wichubhula,county,Panama,,,,,,9.59379,-78.746595,part of san blas islands
+Panama-Metro-24_de_Diciembre,county,Panama,PANAMA,,,,,9.096245,-79.359686,barriada
+Panama-Metro-Ancon,county,Panama,PANAMA,PANAMA,ANCON,,PAN.12.6.1_1,,,
+Panama-Metro-Arnulfo_Arias,county,Panama,PANAMA,SAN MIGUELITO,ARNULFO ARIAS,,PAN.12.7.2_1,,,
+Panama-Metro-Bella_Vista,county,Panama,PANAMA,PANAMA,BELLA VISTA,,PAN.12.6.2_1,,,
+Panama-Metro-Bethania,county,Panama,PANAMA,PANAMA,BETANIA,,PAN.12.6.3_1,,,
+Panama-Metro-Calidonia,county,Panama,PANAMA,PANAMA,LA EXPOSICION O CALIDONIA,,PAN.12.6.8_1,,,
+Panama-Metro-Chorrillo,county,Panama,PANAMA,PANAMA,EL CHORRILLO,,PAN.12.6.6_1,,,
+Panama-Metro-Clayton,county,Panama,PANAMA,,,,,9.004439,-79.575702,
+Panama-Metro-Costa_del_Este,county,Panama,PANAMA,,,,,9.015397,-79.467587,
+Panama-Metro-Gamboa,county,Panama,,,,,,9.117785,-79.694964,
+Panama-Metro-Juan_Diaz,county,Panama,PANAMA,PANAMA,JUAN DIAZ,,PAN.12.6.7_1,,,
+Panama-Metro-Las_Garzas,county,Panama,,,,,,,,near the palace de las garzas?
+Panama-Metro-Man_anitas,county,Panama,PANAMA,PANAMA,,,,9.095763,-79.405123,
+Panama-Metro-Parque_Lefevre,county,Panama,PANAMA,PANAMA,PARQUE LEFEVRE,,PAN.12.6.11_1,,,
+Panama-Metro-Pedregal,county,Panama,PANAMA,PANAMA,PEDREGAL,,PAN.12.6.12_1,,,
+Panama-Metro-Pueblo_Nuevo,county,Panama,PANAMA,PANAMA,PUEBLO NUEVO,,PAN.12.6.13_1,,,
+Panama-Metro-Rio_Abajo,county,Panama,PANAMA,PANAMA,RIO ABAJO,,PAN.12.6.14_1,,,
+Panama-Metro-San_Felipe,county,Panama,PANAMA,PANAMA,SAN FELIPE,,PAN.12.6.15_1,,,
+Panama-Metro-SanFrancisco,county,Panama,PANAMA,PANAMA,SAN FRANCISCO,,PAN.12.6.16_1,,,
+Panama-Metro-Santa_Ana,county,Panama,PANAMA,PANAMA,SANTA ANA,,PAN.12.6.18_1,,,
+Panama-Metro-Taboga,county,Panama,PANAMA OESTE,TABOGA,TABOGA,,PAN.11.7.3_1,,,
+Panama-Metro-Tocumen,county,Panama,PANAMA,PANAMA,TOCUMEN,,PAN.12.6.19_1,,,
+Panama-Metro-Veracruz,county,Panama,PANAMA OESTE,ARRAIJAN,VERACRUZ,,PAN.11.1.5_1,,,
+Panama-P.Este-Las_Margaritas,county,Panama,PANAMA,CHEPO,LAS MARGARITAS,,PAN.12.2.6_1,,,
+Panama-Panama_Norte-Chilibre,county,Panama,PANAMA,PANAMA,CHILIBRE,,PAN.12.6.4_1,,,
+Panama-Panama_Norte-Ernesto_Cordoba,county,Panama,PANAMA,PANAMA,,,,9.092784,-79.494208,corregimiento
+Panama-Panama_Norte-las_cumbres,county,Panama,PANAMA,PANAMA,LAS CUMBRES,,PAN.12.6.9_1,,,corregimiento
+Panama-Panama_Oeste-Arraija_n,county,Panama,PANAMA OESTE,ARRAIJAN,ARRAIJAN,,PAN.11.1.1_1,,,
+Panama-Panama_Oeste-El_Coco,county,Panama,PANAMA OESTE,LA CHORRERA,EL COCO,,PAN.11.4.6_1,,,
+Panama-Panama_Oeste-Gorgona,county,Panama,PANAMA OESTE,CHAME,NUEVA GORGONA,,PAN.11.3.8_1,,,
+Panama-Panama_Oeste-Guadalupe,county,Panama,PANAMA OESTE,LA CHORRERA,GUADALUPE,,PAN.11.4.8_1,,,
+Panama-Panama_Oeste-La_Chorrera,county,Panama,PANAMA OESTE,LA CHORRERA,,PAN.11.4_1,,,,
+Panama-Panama_Oeste-La_Mitra,county,Panama,PANAMA,,,,,8.843508,-79.781845,
+Panama-Panama_Oeste-Playa_Leona,county,Panama,PANAMA OESTE,LA CHORRERA,PLAYA LEONA,,PAN.11.4.16_1,,,
+Panama-Panama_Oeste-Vista_Alegre,county,Panama,PANAMA OESTE,ARRAIJAN,VISTA ALEGRE,,PAN.11.1.6_1,,,
+Panama-San_Los_Santos-La_Villa,county,Panama,LOS SANTOS,LOS SANTOS,LA VILLA DE LOS SANTOS,,PAN.9.3.5_1,,,
+Panama-San_Miguelito-Altos_de_Panama,county,Panama,PANAMA,SAN MIGUELITO,,,,9.039574,-79.527074,
+Panama-San_Miguelito-Brisas_del_Golf,county,Panama,PANAMA,SAN MIGUELITO,,,,9.075529,-79.454139,
+Panama-San_Miguelito-Camino_Real,county,Panama,,,,,,9.065108,-79.440795,
+Panama-San_Miguelito-Condado_del_Rey,county,Panama,PANAMA,SAN MIGUELITO,,,,9.034404,-79.522613,
+Panama-San_Miguelito-Mano_de_Piedra,county,Panama,PANAMA,SAN MIGUELITO,ARNULFO ARIAS,,PAN.12.7.2_1,,,in Arnulfo Arias
+Panama-San_Miguelito-Ojo_de_Agua,county,Panama,PANAMA,SAN MIGUELITO,,,,9.055907,-79.50975,
+Panama-San_Miguelito-Omar_Torrijos,county,Panama,PANAMA,SAN MIGUELITO,OMAR TORRIJOS,,PAN.12.7.7_1,,,
+Panama-San_Miguelito-Quintas_de_Montichello,county,Panama,PANAMA,SAN MIGUELITO,,,,9.075529,-79.454139,in Brisas del Golf
+Panama-San_Miguelito-Samaria,county,Panama,PANAMA,SAN MIGUELITO,BELISARIO PORRAS,,PAN.12.7.4_1,,,in Belisario Porras
+Panama-San_Miguelito-San_Jose,county,Panama,PANAMA,SAN MIGUELITO,,,,9.043911,-79.507198,
+Panama-San_Miguelito-Victoriano_Lorenzo,county,Panama,PANAMA,SAN MIGUELITO,VICTORIANO LORENZO,,PAN.12.7.9_1,,,
+Panama-San_Miguelito-Villa_Guadalupe,county,Panama,PANAMA,SAN MIGUELITO,,,,9.033333,-79.48333,
+Panama-San_Miguelito-Villa_Lucre,county,Panama,PANAMA,SAN MIGUELITO,,,,9.038,-79.481,
+Panama-San_Miguelito-Villas_del_Golf,county,Panama,PANAMA,SAN MIGUELITO,,,,9.054,-79.466,
+Panama-Veraguas-Santiago,county,Panama,VERAGUES,SANTIAGO,SANTIAGO,PAN.13.10_1,PAN.13.10.8_1,,,don't know if it is smaller or not
