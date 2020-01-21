@@ -12,23 +12,22 @@
 library(tidyr)
 library(sp)
 library(rgdal)
-library(dplyr)
 library(maps)
 library(stringr)
 
+library(dplyr)
+
 #set wd to source file location
 
-#read in data
-zika.all <- read.csv("cdcZikaAll.csv") #change to use Places file for each
-
-# load gadm table (Version 3.6, original GADM_maptable.txt is out of date)
-# gadm.data <- read.csv("gadm-data-36/gadm36-table.csv")
+# # load gadm table (Version 3.6, original GADM_maptable.txt is out of date)
+#  gadm.data <- read.csv("../../../code/gadm-data-36/gadm36-table.csv")
 # # #save smaller version of only countries in zika epi
 # gadm.zika <- filter(gadm.data, GID_0 %in% c("ARG","ECU", "BRA", "COL", "DOM", "SLV",
-#                                             "GTM", "HTI", "MEX", "PAN", "NIC", "VIR",
+#                                             "GTM", "HTI", "MAF", "BLM", "MTQ", "GUF", 
+#                                             "GLP", "MEX", "PAN", "NIC", "VIR",
 #                                             "USA", "PRI", "ASM"))
-# write.csv(gadm.zika, "gadm-data-36/gadm36-table-subset.csv", row.names = F)
-
+# write.csv(gadm.zika, "../../../code/gadm-data-36/gadm36-table-subset.csv", row.names = F)
+# 
 gadm.data <- read.csv("gadm36-table-subset.csv")
 
 #leaflet function to investigate
@@ -48,59 +47,7 @@ mapLeaflet <- function(shapefile){
     label = labels)
 }
 
-#### Ecuador ####
 
-# This data goes down to ADM level 2 (canton)
-
-zika.ecu <- read.csv("../../Ecuador/EC_Places.csv") %>%
-  tidyr::separate(location, into=c("NAME_0", "NAME_1", "NAME_2"), sep = "-", remove = F) %>%
-  filter(location_type == "county") %>%
-  # fix province to match GADM data
-  mutate(NAME_1 = gsub("_", " ", NAME_1)) %>%
-  mutate(NAME_2 = gsub("_", " ", NAME_2)) %>%
-  mutate(NAME_1 = toupper(NAME_1)) %>%
-  mutate(NAME_2 = toupper(NAME_2)) %>%
-  #manual adjustments
-  mutate(NAME_2 = case_when(
-    NAME_1 == "ORELLANA JOYA DE LOS SACHAS" ~ "LA JOYA DE LOS SACHAS",
-    NAME_2 == "RIOVERDE" ~ "RIO VERDE",
-    TRUE ~ NAME_2
-  )) %>%
-  mutate(NAME_1 = case_when(
-    NAME_1 == "ORELLANA JOYA DE LOS SACHAS" ~ "ORELLANA",
-    NAME_1 == "LOS RIOS" & NAME_2 == "JARAMIJO" ~ "MANABI",
-    TRUE ~ NAME_1
-  ))
-  
-gadm.ecu <- gadm.data %>%
-  filter(GID_0 == "ECU") %>%
-  select(NAME_0, NAME_1, NAME_2, GID_2) %>%
-  distinct() %>%
-  #drop accents and capitalize
-  mutate(NAME_1 = toupper(gsub("`|\\'", "", iconv(NAME_1, to="ASCII//TRANSLIT")))) %>%
-  mutate(NAME_1 = gsub("~", "", NAME_1)) %>%
-  mutate(NAME_2 = toupper(gsub("`|\\'", "", iconv(NAME_2, to="ASCII//TRANSLIT")))) %>%
-  mutate(NAME_2 = gsub("\\~", "", NAME_2)) 
-
-# join on the finest scale possible for each row
-
-zika.ecu.join <- left_join(zika.ecu, gadm.ecu, 
-                           by = c("NAME_0" = "NAME_0", "NAME_1" = "NAME_1","NAME_2" = "NAME_2"))
-
-#check it worked
-sum(is.na(zika.ecu.join$GID_2)) #success == 0
-
-#simple plot to check if cumulative
-# ggplot(data = zika.ecu.2, aes(x = report_date, y = value)) +
-#   geom_point()+
-#   facet_wrap(~NAME_2)
-
-# get unique key and save
-key.ecu <- zika.ecu.join %>%
-  select(location, NAME_0, NAME_1, NAME_2, GID_2) %>%
-  distinct()
-
-write.csv(key.ecu, "../../Ecuador/EC_GADM_Key.csv", row.names = F)
 
 #### Argentina ####
 
@@ -308,6 +255,7 @@ zika.dom <- read.csv("../../Dominican_Republic/DO_Places.csv") %>%
     NAME_1 == "SANTO DOMINGO OESTE" ~ "SANTO DOMINGO OESTE",
     NAME_2 == "BARAHONA" ~ "SANTA CRUZ DE BARAHONA",
     NAME_2 == "CABALLEROS" ~ "SANTIAGO DE LOS CABALLEROS",
+    NAME_2 == "ENSUENO" ~ "SANTIAGO DE LOS CABALLEROS",
     NAME_2 == "PUERTO PLATA" ~ "LUPERON",
     NAME_2 == "COMPOSTELA" ~ "AZUA DE COMPOSTELA",
     TRUE ~ NAME_2
@@ -343,24 +291,72 @@ key.dom <- zika.dom.join %>%
   select(location, NAME_0, NAME_1, NAME_2, GID_2) %>%
   distinct()
 
-write.csv(key.dom, "join-keys/dominicanrepublic-join-key.csv", row.names = F)
+write.csv(key.dom, "../../Dominican_Republic/DO_GADM_Key.csv", row.names = F)
+
+#### Ecuador ####
+
+# This data goes down to ADM level 2 (canton)
+
+zika.ecu <- read.csv("../../Ecuador/EC_Places.csv") %>%
+  tidyr::separate(location, into=c("NAME_0", "NAME_1", "NAME_2"), sep = "-", remove = F) %>%
+  filter(location_type == "county") %>%
+  # fix province to match GADM data
+  mutate(NAME_1 = gsub("_", " ", NAME_1)) %>%
+  mutate(NAME_2 = gsub("_", " ", NAME_2)) %>%
+  mutate(NAME_1 = toupper(NAME_1)) %>%
+  mutate(NAME_2 = toupper(NAME_2)) %>%
+  #manual adjustments
+  mutate(NAME_2 = case_when(
+    NAME_1 == "ORELLANA JOYA DE LOS SACHAS" ~ "LA JOYA DE LOS SACHAS",
+    NAME_2 == "RIOVERDE" ~ "RIO VERDE",
+    TRUE ~ NAME_2
+  )) %>%
+  mutate(NAME_1 = case_when(
+    NAME_1 == "ORELLANA JOYA DE LOS SACHAS" ~ "ORELLANA",
+    NAME_1 == "LOS RIOS" & NAME_2 == "JARAMIJO" ~ "MANABI",
+    TRUE ~ NAME_1
+  ))
+
+gadm.ecu <- gadm.data %>%
+  filter(GID_0 == "ECU") %>%
+  select(NAME_0, NAME_1, NAME_2, GID_2) %>%
+  distinct() %>%
+  #drop accents and capitalize
+  mutate(NAME_1 = toupper(gsub("`|\\'", "", iconv(NAME_1, to="ASCII//TRANSLIT")))) %>%
+  mutate(NAME_1 = gsub("~", "", NAME_1)) %>%
+  mutate(NAME_2 = toupper(gsub("`|\\'", "", iconv(NAME_2, to="ASCII//TRANSLIT")))) %>%
+  mutate(NAME_2 = gsub("\\~", "", NAME_2)) 
+
+# join on the finest scale possible for each row
+
+zika.ecu.join <- left_join(zika.ecu, gadm.ecu, 
+                           by = c("NAME_0" = "NAME_0", "NAME_1" = "NAME_1","NAME_2" = "NAME_2"))
+
+#check it worked
+sum(is.na(zika.ecu.join$GID_2)) #success == 0
+
+#simple plot to check if cumulative
+# ggplot(data = zika.ecu.2, aes(x = report_date, y = value)) +
+#   geom_point()+
+#   facet_wrap(~NAME_2)
+
+# get unique key and save
+key.ecu <- zika.ecu.join %>%
+  select(location, NAME_0, NAME_1, NAME_2, GID_2) %>%
+  distinct()
+
+write.csv(key.ecu, "../../Ecuador/EC_GADM_Key.csv", row.names = F)
 
 #### El Salvador ####
 
 # Cases are reported at department level (NAME_1)
 
-zika.slv <- zika.all %>%
-  tidyr::separate(location, into=c("NAME_0", "NAME_1", "NAME_2"), sep = "-", remove = F) %>% #ignore miriti-paran warnings
-  dplyr::filter(NAME_0 == "El_Salvador") %>%
+zika.slv <- read.csv("../../El_Salvador/SV_Places.csv", stringsAsFactors = F) %>%
+  tidyr::separate(location, into=c("NAME_0", "NAME_1"), sep = "-", remove = F) %>% 
   dplyr::filter(location_type == "department") %>%
-  mutate(NAME_0 = "El Salvador") %>%
-  # fix cabanas issue (this will fail if there are more than one NAs in the names)
   mutate(NAME_1 = toupper(gsub("`|\\'", "", iconv(NAME_1, to="ASCII//TRANSLIT")))) %>%
-  mutate(NAME_1 = case_when(
-    is.na(NAME_1) ~ "CABANAS",
-    TRUE ~ NAME_1
-  )) %>%
   mutate(NAME_1 = gsub("_", " ", NAME_1)) %>%
+  mutate(NAME_0 = gsub("_", " ", NAME_0)) %>%
   #drop imported (I think) from Guatemala and Honduras
   filter(!(NAME_1 %in% c("GUATEMALA", "HONDURAS")))
 
@@ -384,8 +380,98 @@ key.slv <- zika.slv.join %>%
   select(location, NAME_0, NAME_1, GID_1) %>%
   distinct()
 
-write.csv(key.slv, "join-keys/elsalvador-join-key.csv", row.names = F)
+write.csv(key.slv, "../../El_Salvador/SV_GADM_Key.csv", row.names = F)
 
+#### France ####
+#French colonies in the Carribean, only 5 so just set manually
+#all five are actually considered seperate ADM level 0 in the GADM data
+
+
+zika.fra <- read.csv("../../France/FR_Places.csv", stringsAsFactors = F) %>%
+  tidyr::separate(location, into=c("NAME_0", "NAME_1"), sep = "-", remove = F) %>%
+  mutate(GID_0 = case_when(
+    NAME_1 == "Guadeloupe" ~ "GLP",
+    NAME_1 == "Guyane" ~ "GUF",
+    NAME_1 == "Martinique" ~ "MTQ",
+    NAME_1 == "St_Barthelemy" ~ "BLM",
+    NAME_1 == "St_Martin" ~ "MAF"
+  )) %>%
+  select(location, NAME_0 = NAME_1, GID_0)
+
+write.csv(zika.fra, "../../France/FR_GADM_Key.csv", row.names = F)
+
+#### Guatemala ####
+
+# Guatemala has some places that do not match a GADM, they are manually corrected
+# many of these are the regions of the health system zones, corrected following:
+# https://guiadeguatemala.wordpress.com/guia-general-de-guatemala/
+# One issue is the region Peten matches the municipality Peten, so these cases could be double counted
+
+zika.gua <- read.csv("../../Guatemala/GT_Places.csv", stringsAsFactors = F) %>%
+  tidyr::separate(location, into=c("NAME_0", "NAME_1"), sep = "-", remove = F) %>%
+  mutate(NAME_1 = gsub("_", " ", NAME_1)) %>%
+  mutate(NAME_1 = toupper(NAME_1)) %>%
+  filter(location_type == "municipality") %>%
+  #drop regions
+  filter(!(NAME_1 %in% c("NOR OCCIDENTE", "NOR ORIENTE", "SUR", "CENTRAL"))) %>%
+  #aggregate smaller places to the municipality
+  mutate(NAME_1 = case_when(
+    NAME_1 %in% c("EL QUICHE", "IXCAN", "IXIL") ~ "QUICHE",
+    NAME_1 %in% c("PETEN NORTE", "PETEN SUR OCCIDENTAL", "PETEN SUR ORIENTAL") ~ "PETEN",
+    #spelling error
+    NAME_1 == "QUETZALTENANGO" ~ "QUEZALTENANGO",
+    TRUE ~ NAME_1
+  ))
+
+gadm.gua <- gadm.data %>%
+  filter(GID_0 == "GTM") %>%
+  select(NAME_0, NAME_1, GID_1) %>%
+  distinct() %>%
+  #drop accents and capitalize
+  mutate(NAME_1 = toupper(gsub("`|\\'", "", iconv(NAME_1, to="ASCII//TRANSLIT")))) %>%
+  mutate(NAME_1 = gsub("~", "", NAME_1))
+
+zika.gua.join <- left_join(zika.gua, gadm.gua, 
+                           by = c("NAME_0" = "NAME_0", "NAME_1" = "NAME_1"))
+#check it worked
+sum(is.na(zika.gua.join$GID_1)) #success == 0 
+
+#select appropriate columns and save
+key.gua <- select(zika.gua.join, location, NAME_0, NAME_1, GID_1)
+
+write.csv(key.gua, "../../Guatemala/GT_GADM_Key.csv", row.names = F)
+
+#### Haiti ####
+
+zika.hti <- read.csv("../../Haiti/HA_Places.csv", stringsAsFactors = F) %>%
+  tidyr::separate(location, into=c("NAME_0", "NAME_1", "NAME_2"), sep = "-", remove = F) %>%
+  mutate(NAME_1 = toupper(gsub("_", " ", NAME_1))) %>%
+  mutate(NAME_2 = toupper(gsub("_", " ", NAME_2))) %>%
+  filter(location_type == "municipality") %>%
+  mutate(NAME_1 = case_when(
+    NAME_1 == "ARTIBONITE" ~ "LARTIBONITE",
+    NAME_1 == "GRANDE ANSE" ~ "GRANDANSE",
+    
+  ))
+
+gadm.hti <- gadm.data %>%
+  filter(GID_0 == "HTI") %>%
+  select(NAME_0, NAME_1, NAME_2, GID_2) %>%
+  distinct() %>%
+  #drop accents and capitalize
+  mutate(NAME_1 = toupper(gsub("`|\\'", "", iconv(NAME_1, to="ASCII//TRANSLIT")))) %>%
+  mutate(NAME_1 = gsub("~", "", NAME_1)) %>%
+  mutate(NAME_2 = toupper(gsub("`|\\'", "", iconv(NAME_2, to="ASCII//TRANSLIT")))) %>%
+  mutate(NAME_2 = gsub("\\~", "", NAME_2)) 
+
+# join on the finest scale possible for each row
+zika.hti.join <- left_join(zika.hti, gadm.hti, 
+                           by = c("NAME_0" = "NAME_0", "NAME_1" = "NAME_1","NAME_2" = "NAME_2"))
+
+#check it worked
+sum(is.na(zika.hti.join$GID_2)) #success == 0, many of these just do not match AT ALL, will need to look into it
+
+#### Nicaragua ####
 
 #### Panama ####
 
@@ -395,24 +481,16 @@ write.csv(key.slv, "join-keys/elsalvador-join-key.csv", row.names = F)
 #' been georeferenced. These coordinates are then used to find out what GID3 shapefile they fall within
 #' and summed up to get ADM level 3 values.
 
-zika.pan <- zika.all %>%
-  tidyr::separate(location, into=c("NAME_0", "NAME_1", "NAME_2", "NAME_3"), sep = "-", remove = F) %>% #ignore miriti-paran warnings
-  dplyr::filter(NAME_0 == "Panama") %>%
+zika.pan <- read.csv("../../Panama/PA_Places.csv", stringsAsFactors = F) %>%
   dplyr::filter(location_type == "county") %>%
+  #the second bit of the name is actually NAME_3 for Panama becuase they are counties
+  tidyr::separate(location, into=c("NAME_0", "NAME_1", "NAME_3"), sep = "-", remove = F) %>% 
   # fix accent issue
+  mutate(NAME_0 = toupper(NAME_0)) %>%
   mutate(NAME_1 = toupper(gsub("`|\\'", "", iconv(NAME_1, to="ASCII//TRANSLIT")))) %>%
   mutate(NAME_1 = gsub("_", " ", NAME_1)) %>%
-  mutate(NAME_2 = toupper(gsub("`|\\'", "", iconv(NAME_2, to="ASCII//TRANSLIT")))) %>%
-  mutate(NAME_2 = gsub("_", " ", NAME_2)) %>%
   mutate(NAME_3 = toupper(gsub("`|\\'", "", iconv(NAME_3, to="ASCII//TRANSLIT")))) %>%
   mutate(NAME_3 = gsub("_", " ", NAME_3))
-
-zika.pan.all <- zika.all %>% 
-  mutate(country = substr(location, 1, 6)) %>%
-  filter(country == "Panama") %>%
-  filter(location_type == "county") %>%
-  select(location, location_type) %>%
-  distinct()
 
 # get panama data from gadm
 gadm.pan <- gadm.data %>%
@@ -420,41 +498,54 @@ gadm.pan <- gadm.data %>%
   select(NAME_0, NAME_1, NAME_2, NAME_3, GID_3) %>%
   distinct() %>%
   #drop accents and capitalize
+  mutate(NAME_0 = toupper(NAME_0)) %>%
   mutate(NAME_1 = toupper(gsub("`|\\'", "", iconv(NAME_1, to="ASCII//TRANSLIT")))) %>%
   mutate(NAME_1 = gsub("~", "", NAME_1)) %>%
-  mutate(NAME_2 = toupper(gsub("`|\\'", "", iconv(NAME_2, to="ASCII//TRANSLIT")))) %>%
-  mutate(NAME_2 = gsub("~", "", NAME_2)) %>%
   mutate(NAME_3 = toupper(gsub("`|\\'", "", iconv(NAME_3, to="ASCII//TRANSLIT")))) %>%
   mutate(NAME_3 = gsub("~", "", NAME_3)) 
 
-#load manual join file with coordinates
+#load manual join file (created from zika.pan and then georeferenced) with coordinates
 pan.coords <- read.csv("zika-panama-manual.csv", stringsAsFactors = F)
 #get those missing and make spatial
 pan.missing.gid <- filter(pan.coords, is.na(GID_3) | GID_3=="") %>%
   #drop ones without coordinates (one I couldn't find, another is GID level 2)
   filter(!is.na(lat))
+
 pan.missing.gid.shp <- SpatialPointsDataFrame(coords = pan.missing.gid[,c("long", "lat")], data = pan.missing.gid,
                                           proj4string = CRS("+proj=longlat +datum=WGS84 +no_defs +ellps=WGS84 +towgs84=0,0,0"))
 
 #load panama shapefile
-pan.shp <- readOGR("gadm-data-36/shapefiles/gadm36_PAN_3.shp")
+pan.shp <- readOGR("shapefiles/gadm36_PAN_3.shp")
 
 #find GID3 codes for missing coordinates based on spatial location
 georef.gid <- over(pan.missing.gid.shp, pan.shp) %>%
   select(NAME_0, NAME_1, NAME_2, NAME_3,GID_3) %>%
   mutate(location = pan.missing.gid.shp$location) %>%
-  filter(!(is.na(GID_3))) #drop san blas islands
+  filter(!(is.na(GID_3))) #drop san blas islands 
+  
 
 #' note that this still misses some islands on the san blas archipelago which are not included in gadm
-
 #add georeferenced back to others that already had a gid_3
-key.pan <- pan.coords %>%
+pan.ref <- pan.coords %>%
   filter(!(is.na(GID_3)|GID_3 == "")) %>%
   select(NAME_0, NAME_1, NAME_2, NAME_3, GID_3, location) %>%
   bind_rows(georef.gid) %>%
-  select(location, NAME_0, NAME_1, NAME_2, NAME_3, GID_3) 
+  select(location, NAME_0, NAME_1, NAME_2, NAME_3, GID_3) %>%
+  mutate(NAME_0 = toupper(NAME_0))
 
-write.csv(key.pan, "join-keys/panama-join-key.csv", row.names = F)
+#join with places
+zika.pan.join <- left_join(zika.pan, pan.ref, 
+                           by = c("location" = "location"))
+
+#check it worked
+#there are some NAs due to the not specified places and the San Blas Islands
+sum(is.na(zika.pan.join$GID_3)) #success == 0
+
+#select only the wanted columns
+key.pan <- select(zika.pan.join, location, NAME_0 = NAME_0.y, NAME_1 = NAME_1.y, NAME_2, NAME_3 = NAME_3.y, GID_3) %>%
+  filter(!is.na(GID_3))
+
+write.csv(key.pan, "../../Panama/PA_GADM_Key.csv", row.names = F)
 
 #### US ####
 
