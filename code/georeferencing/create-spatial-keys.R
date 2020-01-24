@@ -1,5 +1,5 @@
 ## Georeference CDC Zika Data
-## MV Evans, 2018 July 11
+## MV Evans, Jan 2020
 
 # This document joins the CDC Zika data downloaded from https://github.com/cdcepi/zika 
 # with a GADM shapefile for the finest administrative sub-level possible.
@@ -442,40 +442,137 @@ key.gua <- select(zika.gua.join, location, NAME_0, NAME_1, GID_1)
 write.csv(key.gua, "../../Guatemala/GT_GADM_Key.csv", row.names = F)
 
 #### Haiti ####
+#These match up with GADM3 levels
 
 zika.hti <- read.csv("../../Haiti/HA_Places.csv", stringsAsFactors = F) %>%
-  tidyr::separate(location, into=c("NAME_0", "NAME_1", "NAME_2"), sep = "-", remove = F) %>%
+  tidyr::separate(location, into=c("NAME_0", "NAME_1", "NAME_3"), sep = "-", remove = F) %>%
   mutate(NAME_1 = toupper(gsub("_", " ", NAME_1))) %>%
-  mutate(NAME_2 = toupper(gsub("_", " ", NAME_2))) %>%
+  mutate(NAME_3 = toupper(gsub("_", " ", NAME_3))) %>%
   filter(location_type == "municipality") %>%
+  #adjust typos & spellings
   mutate(NAME_1 = case_when(
     NAME_1 == "ARTIBONITE" ~ "LARTIBONITE",
     NAME_1 == "GRANDE ANSE" ~ "GRANDANSE",
-    
+    TRUE ~ NAME_1
+  )) %>%
+  #more typos and spellings
+  mutate(NAME_3 = case_when(
+    NAME_3 == "DESSSALINES MARCHAND" ~ "DESSALINES",
+    NAME_3 == "VERRETTES" ~ "VERETTES",
+    #Fond des Negres is in Miragoâne Arrondissement
+    NAME_3 == "FOND DES NEGRES" ~ "MIRAGOANE",
+    NAME_3 == "ANSE A PITRES" ~ "ANSE A PITRE",
+    TRUE ~ NAME_3
   ))
 
 gadm.hti <- gadm.data %>%
   filter(GID_0 == "HTI") %>%
-  select(NAME_0, NAME_1, NAME_2, GID_2) %>%
+  select(NAME_0, NAME_1, NAME_2, NAME_3, GID_3) %>%
   distinct() %>%
   #drop accents and capitalize
   mutate(NAME_1 = toupper(gsub("`|\\'", "", iconv(NAME_1, to="ASCII//TRANSLIT")))) %>%
   mutate(NAME_1 = gsub("~", "", NAME_1)) %>%
   mutate(NAME_2 = toupper(gsub("`|\\'", "", iconv(NAME_2, to="ASCII//TRANSLIT")))) %>%
-  mutate(NAME_2 = gsub("\\~", "", NAME_2)) 
+  mutate(NAME_2 = gsub("\\~", "", NAME_2)) %>%
+  mutate(NAME_3 = toupper(gsub("`|\\'", "", iconv(NAME_3, to="ASCII//TRANSLIT")))) %>%
+  mutate(NAME_3 = gsub("\\~", "", NAME_3)) %>%
+  mutate(NAME_1 = gsub("-", " ", NAME_1)) %>%
+  mutate(NAME_3 = gsub("-", " ", NAME_3))
 
 # join on the finest scale possible for each row
 zika.hti.join <- left_join(zika.hti, gadm.hti, 
-                           by = c("NAME_0" = "NAME_0", "NAME_1" = "NAME_1","NAME_2" = "NAME_2"))
+                           by = c("NAME_0" = "NAME_0", "NAME_1" = "NAME_1","NAME_3" = "NAME_3"))
 
 #check it worked
-sum(is.na(zika.hti.join$GID_2)) #success == 0, many of these just do not match AT ALL, will need to look into it
+sum(is.na(zika.hti.join$GID_3)) #success==0
+
+#select columns and save
+hti.key <- select(zika.hti.join, location, NAME_0, NAME_1, NAME_2, NAME_3, GID_3)
+
+write.csv(hti.key, "../../Haiti/HA_GADM_Key.csv", row.names = F)
+
+#### Mexico ####
+
+zika.mex <- read.csv("../../Mexico/MX_Places.csv", stringsAsFactors = F) %>%
+  tidyr::separate(location, into=c("NAME_0", "NAME_1"), sep = "-", remove = F) %>%
+  mutate(NAME_1 = toupper(gsub("_", " ", NAME_1))) %>%
+  #spelling and name errors
+  mutate(NAME_1 = case_when(
+    NAME_1 == "COAHUILA DE ZARAGOZA" ~ "COAHUILA",
+    NAME_1 == "QUERETARO DE ARTEAGA" ~ "QUERETARO",
+    NAME_1 == "MICHOACAN DE OCAMPO" ~ "MICHOACAN",
+    NAME_1 == "VERACRUZ DE IGNACIO DE LA LLAVE" ~ "VERACRUZ",
+    TRUE ~  NAME_1
+  ))
+
+gadm.mex <- gadm.data %>%
+  filter(GID_0 == "MEX") %>%
+  select(NAME_0, NAME_1, GID_1) %>%
+  distinct() %>%
+  #drop accents and capitalize
+  mutate(NAME_1 = toupper(gsub("`|\\'", "", iconv(NAME_1, to="ASCII//TRANSLIT")))) %>%
+  mutate(NAME_1 = gsub("\\~", "", NAME_1)) %>%
+  mutate(NAME_1 = gsub("\\^", "", NAME_1))
+
+# join on the finest scale possible for each row
+zika.mex.join <- left_join(zika.mex, gadm.mex, 
+                           by = c("NAME_0" = "NAME_0", "NAME_1" = "NAME_1"))
+
+#check it worked
+sum(is.na(zika.mex.join$GID_1)) #success==0
+
+#save
+key.mex <- select(zika.mex.join,location, NAME_0, NAME_1, GID_1)
+
+write.csv(key.mex, "../../Mexico/MX_GADM_Key.csv", row.names = F)
+
 
 #### Nicaragua ####
+#this doesn't include the 'cities'
+
+zika.nic <- read.csv("../../Nicaragua/NI_Places.csv", stringsAsFactors = F) %>%
+  filter(location_type == "municipality") %>%
+  tidyr::separate(location, into=c("NAME_0", "NAME_1", "NAME_2"), sep = "-", remove = F) %>%
+  mutate(NAME_1 = toupper(gsub("_", " ", NAME_1))) %>%
+  mutate(NAME_2 = toupper(gsub("_", " ", NAME_2))) %>%
+  #drop the Other category
+  filter(NAME_1 != "OTHER") %>%
+  #spelling errors
+  mutate(NAME_2 = case_when(
+    NAME_2 == "QUETZALGUAQUE" ~ "QUEZALGUAQUE",
+    NAME_2 == "CIUDAD SANDINO" ~ "MANAGUA", #in managua city
+    NAME_2 == "CARDENAS" ~ "TOLA",
+    TRUE ~ NAME_2
+  ))
+
+gadm.nic <- gadm.data %>%
+  filter(GID_0 == "NIC") %>%
+  select(NAME_0, NAME_1, NAME_2,GID_2) %>%
+  distinct() %>%
+  #drop accents and capitalize
+  mutate(NAME_1 = toupper(gsub("`|\\'", "", iconv(NAME_1, to="ASCII//TRANSLIT")))) %>%
+  mutate(NAME_1 = gsub("\\~", "", NAME_1)) %>%
+  mutate(NAME_1 = gsub("\\^", "", NAME_1)) %>%
+  #drop accents and capitalize
+  mutate(NAME_2 = toupper(gsub("`|\\'", "", iconv(NAME_2, to="ASCII//TRANSLIT")))) %>%
+  mutate(NAME_2 = gsub("\\~", "", NAME_2)) %>%
+  mutate(NAME_2 = gsub("\\^", "", NAME_2)) 
+
+
+# join on the finest scale possible for each row
+zika.nic.join <- left_join(zika.nic, gadm.nic, 
+                           by = c("NAME_0" = "NAME_0", "NAME_1" = "NAME_1", "NAME_2" = "NAME_2"))
+
+#check it worked
+sum(is.na(zika.nic.join$GID_2)) #success==0
+
+#save
+key.nic <- select(zika.nic.join,location, NAME_0, NAME_1, NAME_2, GID_2)
+
+write.csv(key.nic, "../../Nicaragua/NI_GADM_Key.csv", row.names = F)
 
 #### Panama ####
 
-#' this has the miriti-pana issues. Parana gets dropped, but full municipality name is Miriti-Parana
 #' The Panama data has an issue in that some data is reported at the level of GID3 and others at GID2,
 #' and others at the level of a small town or neighborhood. For small towns/islands, the places have 
 #' been georeferenced. These coordinates are then used to find out what GID3 shapefile they fall within
@@ -547,61 +644,90 @@ key.pan <- select(zika.pan.join, location, NAME_0 = NAME_0.y, NAME_1 = NAME_1.y,
 
 write.csv(key.pan, "../../Panama/PA_GADM_Key.csv", row.names = F)
 
+#### Puerto Rico ####
+
+zika.pr <- read.csv("../../Puerto_Rico/PR_Places.csv", stringsAsFactors = F) %>%
+  filter(location_type == "municipality") %>%
+  tidyr::separate(location, into=c("country", "NAME_0", "NAME_1"), sep = "-", remove = F) %>%
+  mutate(NAME_1 = toupper(gsub("`|\\'", "", iconv(NAME_1, to="ASCII//TRANSLIT", sub = NA)))) %>%
+  mutate(NAME_1 = gsub("_", " ", NAME_1))  %>%
+  mutate(NAME_0 = toupper(gsub("_", " ", NAME_0)))  %>%
+  select(-country)
+  
+#there are weird issues with accents that I can't get to work in R, so I fixing them manually (poor form, I know)
+zika.pr$NAME_1[6] <- "AÑASCO"
+zika.pr$NAME_1[11] <- "BAYAMÓN"
+zika.pr$NAME_1[15] <- "CANÓVANAS"
+zika.pr$NAME_1[17] <- "CATAÑO"
+zika.pr$NAME_1[23] <- "COMERÍO"
+zika.pr$NAME_1[29] <- "GUÁNICA"
+zika.pr$NAME_1[39] <- "JUANA DÍAZ"
+zika.pr$NAME_1[43] <- "LAS MARÍAS"
+zika.pr$NAME_1[45] <- "LOÍZA"
+zika.pr$NAME_1[47] <- "MANATÍ"
+zika.pr$NAME_1[50] <- "MAYAGÜEZ"
+zika.pr$NAME_1[57] <- "PEÑUELAS"
+zika.pr$NAME_1[60] <- "RINCÓN"
+zika.pr$NAME_1[61] <- "RÍO GRANDE"
+zika.pr$NAME_1[62] <- "SABANA GRANDE"
+zika.pr$NAME_1[64] <- "SAN GERMÁN"
+zika.pr$NAME_1[67] <- "SAN SEBASTIÁN"
+
+
+gadm.pr <- gadm.data %>%
+  filter(GID_0 == "PRI") %>%
+  select(NAME_0, GID_0, NAME_1, GID_1) %>%
+  distinct() %>%
+  #drop accents and capitalize
+  mutate(NAME_0 = toupper(NAME_0)) %>%
+  mutate(NAME_1 = toupper(NAME_1))
+
+#join
+zika.pr.join <- left_join(zika.pr, gadm.pr, 
+                           by = c( "NAME_0", "NAME_1" = "NAME_1")) 
+
+sum(is.na(zika.pr.join$GID_1)) # success == 0
+
+#select columns and save
+pri.key <- select(zika.pr.join, location, NAME_0, NAME_1,  GID_1)
+
+write.csv(pri.key, "../../Puerto_Rico/PR_GADM_Key.csv", row.names = F)
+
 #### US ####
 
-# county-level data is all imported travel cases (as of 2018-07-01)
-# state level data has zika_reported_local (probably not very legit, like 1 in arkansas??)
-
-zika.usa <- zika.all %>%
-  tidyr::separate(location, into=c("NAME_0", "NAME_1"), sep = "-", remove = F) %>% #ignore miriti-paran warnings
-  dplyr::filter(NAME_0 == "United_States") %>%
-  dplyr::filter(location_type %in% c("state")) %>%
+zika.usa <- read.csv("../../United_States/US_Places.csv") %>%
+  dplyr::filter(location_type %in% c("county")) %>%
+  dplyr::filter(alt_name1 != "Not Reported") %>%
   mutate(NAME_0 = "United States") %>%
-  mutate(NAME_1 = toupper(gsub("`|\\'", "", iconv(NAME_1, to="ASCII//TRANSLIT")))) %>%
-  mutate(NAME_1 = gsub("_", " ", NAME_1)) 
+  rename(NAME_1 = "state_province") %>%
+  mutate(NAME_2 = gsub(" County", "", alt_name1)) %>%
+  mutate(NAME_2 = gsub("St", "Saint", NAME_2)) %>%
+  mutate(NAME_2 = ifelse(NAME_2 == "DeSoto", "Desoto", NAME_2))
+
 
 gadm.usa <- gadm.data %>%
   filter(GID_0 == "USA") %>%
-  select(NAME_0, NAME_1, GID_1) %>%
-  distinct() %>%
-  #drop accents and capitalize
-  mutate(NAME_1 = toupper(gsub("`|\\'", "", iconv(NAME_1, to="ASCII//TRANSLIT")))) %>%
-  mutate(NAME_1 = gsub("~", "", NAME_1)) 
+  select(NAME_0, NAME_1, NAME_2, GID_2) %>%
+  distinct() 
 
 #join
 zika.usa.join <- left_join(zika.usa, gadm.usa, 
-                           by = c("NAME_0" = "NAME_0", "NAME_1" = "NAME_1")) 
+                           by = c("NAME_0" = "NAME_0", "NAME_1" = "NAME_1", "NAME_2" = "NAME_2")) 
 
 sum(is.na(zika.usa.join$GID_2)) # success == 0
 
 # get unique key and save
 key.usa <- zika.usa.join %>%
-  select(location, NAME_0, NAME_1, GID_1) %>%
+  select(location, NAME_0, NAME_1, NAME_2, GID_2) %>%
   distinct()
 
-write.csv(key.usa, "join-keys/unitedstates-join-key.csv", row.names = F)
+write.csv(key.usa, "../../United_States/US_GADM_Key.csv", row.names = F)
   
 #### US Minor Islands ####
+# Puerto Rico and Virgin Islands have their own section, so this is just American Somoa
+zika.asm <- read.csv("../../United_States/US_Places.csv") %>%
+  dplyr::filter(location == "United_States-US_Virgin_Islands")
 
-#this is seperated in GADM data even though PR (and other places) are PART OF THE US!
-
-zika.terr <- zika.all %>%
-  tidyr::separate(location, into=c("NAME_0", "NAME_1"), sep = "-", remove = F) %>% #ignore miriti-paran warnings
-  dplyr::filter(NAME_0 == "United_States") %>%
-  dplyr::filter(location_type %in% c("territory")) %>%
-  mutate(NAME_0 = "United States") %>%
-  mutate(NAME_1 = toupper(gsub("`|\\'", "", iconv(NAME_1, to="ASCII//TRANSLIT")))) %>%
-  mutate(NAME_1 = gsub("_", " ", NAME_1)) %>%
-  #save VI for later
-  filter(NAME_1 != "US VIRGIN ISLANDS")
-
-#puerto rico
-gadm.pri <- gadm.data %>%
-  filter(GID_0 == "PRI") %>%
-  select(NAME_0, GID_0) %>%
-  distinct() %>%
-  #drop accents and capitalize
-  mutate(NAME_0 = toupper(NAME_0))
 
 #other islands!
 gadm.asm <- gadm.data %>%
@@ -611,19 +737,11 @@ gadm.asm <- gadm.data %>%
   #drop accents and capitalize
   mutate(NAME_0 = toupper(NAME_0))
 
-#join it all up
+
 #join
-zika.usaterr.join <- left_join(zika.terr, rbind(gadm.pri, gadm.asm), 
-                           by = c("NAME_1" = "NAME_0")) 
+zika.asm.join <- data.frame(location = zika.asm$location, NAME_0 = "American Somoa", GID_0 = "ASM")
 
-sum(is.na(zika.usaterr.join$GID_0)) 
-
-# get unique key and save
-key.usaterr <- zika.usaterr.join %>%
-  select(location, NAME_0, GID_0) %>%
-  distinct()
-
-write.csv(key.usaterr, "join-keys/usaterritories-join-key.csv", row.names = F)
+#not sure where this should be saved to
 
 
 #### US VI ####
@@ -631,12 +749,11 @@ write.csv(key.usaterr, "join-keys/usaterritories-join-key.csv", row.names = F)
 # Unlike PR and American Somoa, which don't go any further than GID_, virgin island data
 # goes down to NAME_1 (individual islands)
 
-zika.vir <- zika.all %>%
-  tidyr::separate(location, into=c("NAME_0", "NAME_1", "NAME_2"), sep = "-", remove = F) %>% #ignore miriti-paran warnings
-  dplyr::filter(NAME_0 == "United_States_Virgin_Islands") %>%
+zika.vir <- read.csv("../../USVI/USVI_Places.csv") %>%
   dplyr::filter(location_type %in% c("county")) %>%
+  mutate(NAME_0 = "United States") %>%
   mutate(NAME_0 = toupper("Virgin Islands, U.S.")) %>%
-  mutate(NAME_1 = toupper(gsub("_", " ", NAME_1)))
+  mutate(NAME_1 = toupper(gsub("_", " ", district_county_municipality)))
 
 gadm.vir <- gadm.data %>%
   filter(GID_0 == "VIR") %>%
@@ -658,4 +775,4 @@ key.vir <- zika.vir.join %>%
   select(location, NAME_0, NAME_1, GID_1) %>%
   distinct()
 
-write.csv(key.vir, "join-keys/usvirginislands-join-key.csv", row.names = F)
+write.csv(key.vir, "../../USVI/USVI_GADM_Key.csv", row.names = F)
