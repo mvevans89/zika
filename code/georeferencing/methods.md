@@ -1,6 +1,6 @@
 # Georeferencing Methods
 
-All of the georeferencing is done automatically through the `create-spatial-keys.R` script. This creates an individual csv of the GADM ID keys for each country in the respective folder (Ex: `/Guatemala/GT_GADM_Key.csv)`. Each country has different spatial resolution, so please pay attention to the level of GADM ID (v. 3.6). See FILENAME for instructions on how to plot data in R.
+All of the georeferencing is done automatically through the `create-spatial-keys.R` script. This creates an individual csv of the GADM ID keys for each country in the respective folder (Ex: `/Guatemala/GT_GADM_Key.csv)`. Each country has different spatial resolution, so please note the level of GADM ID (v. 3.6). See `map_data_by_country` folder for instructions on how to plot data in R.
 
 GADM ID levels and any special notes are noted by country below.
 
