@@ -54,11 +54,8 @@ mapLeaflet <- function(shapefile){
 # Cases are by province (NAME_1)
 
 zika.arg <- read.csv("../../Argentina/AR_Places.csv") %>%
-  tidyr::separate(location, into=c("NAME_0", "NAME_1", "NAME_2"), sep = "-", remove = F) %>%
-  dplyr::filter(NAME_0 == "Argentina") %>%
+  tidyr::separate(location, into=c("NAME_0", "NAME_1"), sep = "-", remove = F) %>%
   filter(location_type == "province") %>%
-  # cases are only by province so can drop NAME_2 column
-  select(-NAME_2) %>%
   mutate(NAME_1 = gsub("_", " ", NAME_1)) %>%
   #adjust names to match gadm
   mutate(NAME_1 = case_when(
@@ -101,10 +98,7 @@ write.csv(key.arg, "../../Argentina/AR_GADM_Key.csv", row.names = F)
 zika.bra <- read.csv("../../Brazil/BR_Places.csv") %>%
   tidyr::separate(location, into = c("NAME_0", "NAME_1", "NAME_2"), 
                   sep = "-", remove = F) %>% 
-  dplyr::filter(NAME_0 == "Brazil") %>%
   filter(location_type == "state") %>%
-  # cases are only by state so can drop NAME_2 column
-  select(-NAME_2) %>%
   mutate(NAME_1 = gsub("_", " ", NAME_1)) %>%
   mutate(NAME_1 = toupper(NAME_1))
 
@@ -239,7 +233,6 @@ write.csv(col.key, "../../Colombia/CO_GADM_Key.csv", row.names = F)
 zika.dom <- read.csv("../../Dominican_Republic/DO_Places.csv") %>%
   tidyr::separate(location, into = c("NAME_0", "NAME_1", "NAME_2"), 
                   sep = "-", remove = F) %>% #ignore miriti-paran warnings
-  dplyr::filter(NAME_0 == "Dominican_Republic") %>%
   mutate(NAME_0 = "Dominican Republic") %>%
   filter(location_type == "municipality") %>%
   mutate(NAME_1 = gsub("_", " ", NAME_1)) %>%
@@ -334,11 +327,6 @@ zika.ecu.join <- left_join(zika.ecu, gadm.ecu,
 
 #check it worked
 sum(is.na(zika.ecu.join$GID_2)) #success == 0
-
-#simple plot to check if cumulative
-# ggplot(data = zika.ecu.2, aes(x = report_date, y = value)) +
-#   geom_point()+
-#   facet_wrap(~NAME_2)
 
 # get unique key and save
 key.ecu <- zika.ecu.join %>%
