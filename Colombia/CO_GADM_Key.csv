@@ -1,1201 +1,1189 @@
-"location","NAME_0","NAME_1","NAME_2","GID_2"
-"Colombia-Antioquia-Medellin","Colombia","ANTIOQUIA","MEDELLIN","COL.2.68_1"
-"Colombia-Antioquia-Abejorral","Colombia","ANTIOQUIA","ABEJORRAL","COL.2.1_1"
-"Colombia-Antioquia-Abriaqui","Colombia","ANTIOQUIA","ABRIAQUI","COL.2.2_1"
-"Colombia-Antioquia-Alejandria","Colombia","ANTIOQUIA","ALEJANDRIA","COL.2.3_1"
-"Colombia-Antioquia-Amaga","Colombia","ANTIOQUIA","AMAGA","COL.2.4_1"
-"Colombia-Antioquia-Amalfi","Colombia","ANTIOQUIA","AMALFI","COL.2.5_1"
-"Colombia-Antioquia-Andes","Colombia","ANTIOQUIA","ANDES","COL.2.6_1"
-"Colombia-Antioquia-Angelopolis","Colombia","ANTIOQUIA","ANGELOPOLIS","COL.2.7_1"
-"Colombia-Antioquia-Angostura","Colombia","ANTIOQUIA","ANGOSTURA","COL.2.8_1"
-"Colombia-Antioquia-Anori","Colombia","ANTIOQUIA","ANORI","COL.2.9_1"
-"Colombia-Antioquia-Anza","Colombia","ANTIOQUIA","ANZA","COL.2.10_1"
-"Colombia-Antioquia-Apartado","Colombia","ANTIOQUIA","APARTADO","COL.2.11_1"
-"Colombia-Antioquia-Arboletes","Colombia","ANTIOQUIA","ARBOLETES","COL.2.12_1"
-"Colombia-Antioquia-Argelia","Colombia","ANTIOQUIA","ARGELIA","COL.2.13_1"
-"Colombia-Antioquia-Armenia","Colombia","ANTIOQUIA","ARMENIA","COL.2.14_1"
-"Colombia-Antioquia-Barbosa","Colombia","ANTIOQUIA","BARBOSA","COL.2.15_1"
-"Colombia-Antioquia-Belmira","Colombia","ANTIOQUIA","BELMIRA","COL.2.17_1"
-"Colombia-Antioquia-Bello","Colombia","ANTIOQUIA","BELLO","COL.2.16_1"
-"Colombia-Antioquia-Betania","Colombia","ANTIOQUIA","BETANIA","COL.2.18_1"
-"Colombia-Antioquia-Betulia","Colombia","ANTIOQUIA","BETULIA","COL.2.19_1"
-"Colombia-Antioquia-Briceno","Colombia","ANTIOQUIA","BRICENO","COL.2.21_1"
-"Colombia-Antioquia-Buritica","Colombia","ANTIOQUIA","BURITICA","COL.2.22_1"
-"Colombia-Antioquia-Caceres","Colombia","ANTIOQUIA","CACERES","COL.2.23_1"
-"Colombia-Antioquia-Caicedo","Colombia","ANTIOQUIA","CAICEDO","COL.2.24_1"
-"Colombia-Antioquia-Caldas","Colombia","ANTIOQUIA","CALDAS","COL.2.25_1"
-"Colombia-Antioquia-Campamento","Colombia","ANTIOQUIA","CAMPAMENTO","COL.2.26_1"
-"Colombia-Antioquia-Canasgordas","Colombia","ANTIOQUIA","CANASGORDAS","COL.2.27_1"
-"Colombia-Antioquia-Caracoli","Colombia","ANTIOQUIA","CARACOLI","COL.2.28_1"
-"Colombia-Antioquia-Caramanta","Colombia","ANTIOQUIA","CARAMANTA","COL.2.29_1"
-"Colombia-Antioquia-Carepa","Colombia","ANTIOQUIA","CAREPA","COL.2.30_1"
-"Colombia-Antioquia-El_Carmen_De_Viboral","Colombia","ANTIOQUIA","EL CARMEN DE VIBORAL","COL.2.43_1"
-"Colombia-Antioquia-Caucasia","Colombia","ANTIOQUIA","CAUCASIA","COL.2.32_1"
-"Colombia-Antioquia-Chigorodo","Colombia","ANTIOQUIA","CHIGORODO","COL.2.33_1"
-"Colombia-Antioquia-Cisneros","Colombia","ANTIOQUIA","CISNEROS","COL.2.34_1"
-"Colombia-Antioquia-Cocorna","Colombia","ANTIOQUIA","COCORNA","COL.2.35_1"
-"Colombia-Antioquia-Concepcion","Colombia","ANTIOQUIA","CONCEPCION","COL.2.36_1"
-"Colombia-Antioquia-Concordia","Colombia","ANTIOQUIA","CONCORDIA","COL.2.37_1"
-"Colombia-Antioquia-Copacabana","Colombia","ANTIOQUIA","COPACABANA","COL.2.38_1"
-"Colombia-Antioquia-Dabeiba","Colombia","ANTIOQUIA","DABEIBA","COL.2.39_1"
-"Colombia-Antioquia-Don_Matias","Colombia","ANTIOQUIA","DON MATIAS","COL.2.40_1"
-"Colombia-Antioquia-Ebejico","Colombia","ANTIOQUIA","EBEJICO","COL.2.41_1"
-"Colombia-Antioquia-El_Bagre","Colombia","ANTIOQUIA","EL BAGRE","COL.2.42_1"
-"Colombia-Antioquia-Entrerrios","Colombia","ANTIOQUIA","ENTRERRIOS","COL.2.45_1"
-"Colombia-Antioquia-Envigado","Colombia","ANTIOQUIA","ENVIGADO","COL.2.46_1"
-"Colombia-Antioquia-Fredonia","Colombia","ANTIOQUIA","FREDONIA","COL.2.47_1"
-"Colombia-Antioquia-Frontino","Colombia","ANTIOQUIA","FRONTINO","COL.2.48_1"
-"Colombia-Antioquia-Giraldo","Colombia","ANTIOQUIA","GIRALDO","COL.2.49_1"
-"Colombia-Antioquia-Girardota","Colombia","ANTIOQUIA","GIRARDOTA","COL.2.50_1"
-"Colombia-Antioquia-Gomez_Plata","Colombia","ANTIOQUIA","GOMEZ PLATA","COL.2.51_1"
-"Colombia-Antioquia-Granada","Colombia","ANTIOQUIA","GRANADA","COL.2.52_1"
-"Colombia-Antioquia-Guadalupe","Colombia","ANTIOQUIA","GUADALUPE","COL.2.53_1"
-"Colombia-Antioquia-Guarne","Colombia","ANTIOQUIA","GUARNE","COL.2.54_1"
-"Colombia-Antioquia-Guatape","Colombia","ANTIOQUIA","GUATAPE","COL.2.55_1"
-"Colombia-Antioquia-Heliconia","Colombia","ANTIOQUIA","HELICONIA","COL.2.56_1"
-"Colombia-Antioquia-Hispania","Colombia","ANTIOQUIA","HISPANIA","COL.2.57_1"
-"Colombia-Antioquia-Itagui","Colombia","ANTIOQUIA","ITAGUI","COL.2.58_1"
-"Colombia-Antioquia-Ituango","Colombia","ANTIOQUIA","ITUANGO","COL.2.59_1"
-"Colombia-Antioquia-Jardin","Colombia","ANTIOQUIA","JARDIN","COL.2.60_1"
-"Colombia-Antioquia-Jerico","Colombia","ANTIOQUIA","JERICO","COL.2.61_1"
-"Colombia-Antioquia-La_Ceja","Colombia","ANTIOQUIA","LA CEJA","COL.2.62_1"
-"Colombia-Antioquia-La_Estrella","Colombia","ANTIOQUIA","LA ESTRELLA","COL.2.63_1"
-"Colombia-Antioquia-Liborina","Colombia","ANTIOQUIA","LIBORINA","COL.2.65_1"
-"Colombia-Antioquia-Maceo","Colombia","ANTIOQUIA","MACEO","COL.2.66_1"
-"Colombia-Antioquia-Marinilla","Colombia","ANTIOQUIA","MARINILLA","COL.2.67_1"
-"Colombia-Antioquia-Montebello","Colombia","ANTIOQUIA","MONTEBELLO","COL.2.69_1"
-"Colombia-Antioquia-Murindo","Colombia","ANTIOQUIA","MURINDO","COL.2.70_1"
-"Colombia-Antioquia-Mutata","Colombia","ANTIOQUIA","MUTATA","COL.2.71_1"
-"Colombia-Antioquia-Narino","Colombia","ANTIOQUIA","NARINO","COL.2.72_1"
-"Colombia-Antioquia-Necocli","Colombia","ANTIOQUIA","NECOCLI","COL.2.74_1"
-"Colombia-Antioquia-Nechi","Colombia","ANTIOQUIA","NECHI","COL.2.73_1"
-"Colombia-Antioquia-Olaya","Colombia","ANTIOQUIA","OLAYA","COL.2.75_1"
-"Colombia-Antioquia-Penol","Colombia","ANTIOQUIA","PENOL","COL.2.76_1"
-"Colombia-Antioquia-Peque","Colombia","ANTIOQUIA","PEQUE","COL.2.77_1"
-"Colombia-Antioquia-Pueblorrico","Colombia","ANTIOQUIA","PUEBLORRICO","COL.2.78_1"
-"Colombia-Antioquia-Puerto_Berrio","Colombia","ANTIOQUIA","PUERTO BERRIO","COL.2.79_1"
-"Colombia-Antioquia-Puerto_Nare","Colombia","ANTIOQUIA","PUERTO NARE","COL.2.80_1"
-"Colombia-Antioquia-Puerto_Triunfo","Colombia","ANTIOQUIA","PUERTO TRIUNFO","COL.2.81_1"
-"Colombia-Antioquia-Remedios","Colombia","ANTIOQUIA","REMEDIOS","COL.2.82_1"
-"Colombia-Antioquia-Retiro","Colombia","ANTIOQUIA","RETIRO","COL.2.83_1"
-"Colombia-Antioquia-Rionegro","Colombia","ANTIOQUIA","RIONEGRO","COL.2.84_1"
-"Colombia-Antioquia-Sabanalarga","Colombia","ANTIOQUIA","SABANALARGA","COL.2.85_1"
-"Colombia-Antioquia-Sabaneta","Colombia","ANTIOQUIA","SABANETA","COL.2.86_1"
-"Colombia-Antioquia-Salgar","Colombia","ANTIOQUIA","SALGAR","COL.2.87_1"
-"Colombia-Antioquia-San_Andres_De_Cuerquia","Colombia","ANTIOQUIA","SAN ANDRES DE CUERQUIA","COL.2.88_1"
-"Colombia-Antioquia-San_Carlos","Colombia","ANTIOQUIA","SAN CARLOS","COL.2.89_1"
-"Colombia-Antioquia-San_Francisco","Colombia","ANTIOQUIA","SAN FRANCISCO","COL.2.90_1"
-"Colombia-Antioquia-San_Jeronimo","Colombia","ANTIOQUIA","SAN JERONIMO","COL.2.91_1"
-"Colombia-Antioquia-San_Jose_De_La_Montana","Colombia","ANTIOQUIA","SAN JOSE DE LA MONTANA","COL.2.92_1"
-"Colombia-Antioquia-San_Juan_De_Uraba","Colombia","ANTIOQUIA","SAN JUAN DE URABA","COL.2.93_1"
-"Colombia-Antioquia-San_Luis","Colombia","ANTIOQUIA","SAN LUIS","COL.2.94_1"
-"Colombia-Antioquia-San_Pedro_De_Uraba","Colombia","ANTIOQUIA","SAN PEDRO DE URABA","COL.2.96_1"
-"Colombia-Antioquia-San_Rafael","Colombia","ANTIOQUIA","SAN RAFAEL","COL.2.97_1"
-"Colombia-Antioquia-San_Roque","Colombia","ANTIOQUIA","SAN ROQUE","COL.2.98_1"
-"Colombia-Antioquia-San_Vicente","Colombia","ANTIOQUIA","SAN VICENTE","COL.2.99_1"
-"Colombia-Antioquia-Santa_Barbara","Colombia","ANTIOQUIA","SANTA BARBARA","COL.2.100_1"
-"Colombia-Antioquia-Santa_Rosa_De_Osos","Colombia","ANTIOQUIA","SANTA ROSA DE OSOS","COL.2.102_1"
-"Colombia-Antioquia-Santo_Domingo","Colombia","ANTIOQUIA","SANTO DOMINGO","COL.2.103_1"
-"Colombia-Antioquia-El_Santuario","Colombia","ANTIOQUIA","EL SANTUARIO","COL.2.44_1"
-"Colombia-Antioquia-Segovia","Colombia","ANTIOQUIA","SEGOVIA","COL.2.104_1"
-"Colombia-Antioquia-Sonson","Colombia","ANTIOQUIA","SONSON","COL.2.105_1"
-"Colombia-Antioquia-Sopetran","Colombia","ANTIOQUIA","SOPETRAN","COL.2.106_1"
-"Colombia-Antioquia-Tamesis","Colombia","ANTIOQUIA","TAMESIS","COL.2.107_1"
-"Colombia-Antioquia-Taraza","Colombia","ANTIOQUIA","TARAZA","COL.2.108_1"
-"Colombia-Antioquia-Tarso","Colombia","ANTIOQUIA","TARSO","COL.2.109_1"
-"Colombia-Antioquia-Titiribi","Colombia","ANTIOQUIA","TITIRIBI","COL.2.110_1"
-"Colombia-Antioquia-Toledo","Colombia","ANTIOQUIA","TOLEDO","COL.2.111_1"
-"Colombia-Antioquia-Turbo","Colombia","ANTIOQUIA","TURBO","COL.2.112_1"
-"Colombia-Antioquia-Uramita","Colombia","ANTIOQUIA","URAMITA","COL.2.113_1"
-"Colombia-Antioquia-Urrao","Colombia","ANTIOQUIA","URRAO","COL.2.114_1"
-"Colombia-Antioquia-Valdivia","Colombia","ANTIOQUIA","VALDIVIA","COL.2.115_1"
-"Colombia-Antioquia-Valparaiso","Colombia","ANTIOQUIA","VALPARAISO","COL.2.116_1"
-"Colombia-Antioquia-Vegachi","Colombia","ANTIOQUIA","VEGACHI","COL.2.117_1"
-"Colombia-Antioquia-Venecia","Colombia","ANTIOQUIA","VENECIA","COL.2.118_1"
-"Colombia-Antioquia-Vigia_Del_Fuerte","Colombia","ANTIOQUIA","VIGIA DEL FUERTE","COL.2.119_1"
-"Colombia-Antioquia-Yali","Colombia","ANTIOQUIA","YALI","COL.2.120_1"
-"Colombia-Antioquia-Yarumal","Colombia","ANTIOQUIA","YARUMAL","COL.2.121_1"
-"Colombia-Antioquia-Yolombo","Colombia","ANTIOQUIA","YOLOMBO","COL.2.122_1"
-"Colombia-Antioquia-Yondo","Colombia","ANTIOQUIA","YONDO","COL.2.123_1"
-"Colombia-Antioquia-Zaragoza","Colombia","ANTIOQUIA","ZARAGOZA","COL.2.124_1"
-"Colombia-Atlantico-Baranoa","Colombia","ATLANTICO","BARANOA","COL.4.1_1"
-"Colombia-Atlantico-Campo_De_La_Cruz","Colombia","ATLANTICO","CAMPO DE LA CRUZ","COL.4.3_1"
-"Colombia-Atlantico-Candelaria","Colombia","ATLANTICO","CANDELARIA","COL.4.4_1"
-"Colombia-Atlantico-Galapa","Colombia","ATLANTICO","GALAPA","COL.4.5_1"
-"Colombia-Atlantico-Juan_De_Acosta","Colombia","ATLANTICO","JUAN DE ACOSTA","COL.4.6_1"
-"Colombia-Atlantico-Luruaco","Colombia","ATLANTICO","LURUACO","COL.4.7_1"
-"Colombia-Atlantico-Malambo","Colombia","ATLANTICO","MALAMBO","COL.4.8_1"
-"Colombia-Atlantico-Manati","Colombia","ATLANTICO","MANATI","COL.4.9_1"
-"Colombia-Atlantico-Palmar_De_Varela","Colombia","ATLANTICO","PALMAR DE VARELA","COL.4.10_1"
-"Colombia-Atlantico-Piojo","Colombia","ATLANTICO","PIOJO","COL.4.11_1"
-"Colombia-Atlantico-Polonuevo","Colombia","ATLANTICO","POLONUEVO","COL.4.12_1"
-"Colombia-Atlantico-Ponedera","Colombia","ATLANTICO","PONEDERA","COL.4.13_1"
-"Colombia-Atlantico-Puerto_Colombia","Colombia","ATLANTICO","PUERTO COLOMBIA","COL.4.14_1"
-"Colombia-Atlantico-Repelon","Colombia","ATLANTICO","REPELON","COL.4.15_1"
-"Colombia-Atlantico-Sabanagrande","Colombia","ATLANTICO","SABANAGRANDE","COL.4.16_1"
-"Colombia-Atlantico-Sabanalarga","Colombia","ATLANTICO","SABANALARGA","COL.4.17_1"
-"Colombia-Atlantico-Santa_Lucia","Colombia","ATLANTICO","SANTA LUCIA","COL.4.18_1"
-"Colombia-Atlantico-Santo_Tomas","Colombia","ATLANTICO","SANTO TOMAS","COL.4.19_1"
-"Colombia-Atlantico-Soledad","Colombia","ATLANTICO","SOLEDAD","COL.4.20_1"
-"Colombia-Atlantico-Suan","Colombia","ATLANTICO","SUAN","COL.4.21_1"
-"Colombia-Atlantico-Tubara","Colombia","ATLANTICO","TUBARA","COL.4.22_1"
-"Colombia-Atlantico-Usiacuri","Colombia","ATLANTICO","USIACURI","COL.4.23_1"
-"Colombia-Bolivar-Achi","Colombia","BOLIVAR","ACHI","COL.5.1_1"
-"Colombia-Bolivar-Altos_Del_Rosario","Colombia","BOLIVAR","ALTOS DEL ROSARIO","COL.5.2_1"
-"Colombia-Bolivar-Arjona","Colombia","BOLIVAR","ARJONA","COL.5.3_1"
-"Colombia-Bolivar-Barranco_De_Loba","Colombia","BOLIVAR","BARRANCO DE LOBA","COL.5.4_1"
-"Colombia-Bolivar-Calamar","Colombia","BOLIVAR","CALAMAR","COL.5.5_1"
-"Colombia-Bolivar-Cantagallo","Colombia","BOLIVAR","CANTAGALLO","COL.5.6_1"
-"Colombia-Bolivar-Cicuco","Colombia","BOLIVAR","CICUCO","COL.5.8_1"
-"Colombia-Bolivar-Cordoba","Colombia","BOLIVAR","CORDOBA","COL.5.9_1"
-"Colombia-Bolivar-El_Carmen_De_Bolivar","Colombia","BOLIVAR","EL CARMEN DE BOLIVAR","COL.5.10_1"
-"Colombia-Bolivar-El_Guamo","Colombia","BOLIVAR","EL GUAMO","COL.5.11_1"
-"Colombia-Bolivar-Hatillo_De_Loba","Colombia","BOLIVAR","HATILLO DE LOBA","COL.5.12_1"
-"Colombia-Bolivar-Mahates","Colombia","BOLIVAR","MAHATES","COL.5.13_1"
-"Colombia-Bolivar-Margarita","Colombia","BOLIVAR","MARGARITA","COL.5.14_1"
-"Colombia-Bolivar-Maria_La_Baja","Colombia","BOLIVAR","MARIA LA BAJA","COL.5.15_1"
-"Colombia-Bolivar-Montecristo","Colombia","BOLIVAR","MONTECRISTO","COL.5.17_1"
-"Colombia-Bolivar-Mompos","Colombia","BOLIVAR","MOMPOS","COL.5.16_1"
-"Colombia-Bolivar-Morales","Colombia","BOLIVAR","MORALES","COL.5.18_1"
-"Colombia-Bolivar-Pinillos","Colombia","BOLIVAR","PINILLOS","COL.5.19_1"
-"Colombia-Bolivar-Rio_Viejo","Colombia","BOLIVAR","RIO VIEJO","COL.5.20_1"
-"Colombia-Bolivar-San_Fernando","Colombia","BOLIVAR","SAN FERNANDO","COL.5.22_1"
-"Colombia-Bolivar-San_Jacinto","Colombia","BOLIVAR","SAN JACINTO","COL.5.23_1"
-"Colombia-Bolivar-San_Juan_Nepomuceno","Colombia","BOLIVAR","SAN JUAN NEPOMUCENO","COL.5.24_1"
-"Colombia-Bolivar-San_Martin_De_Loba","Colombia","BOLIVAR","SAN MARTIN DE LOBA","COL.5.25_1"
-"Colombia-Bolivar-San_Pablo","Colombia","BOLIVAR","SAN PABLO","COL.5.26_1"
-"Colombia-Bolivar-Santa_Catalina","Colombia","BOLIVAR","SANTA CATALINA","COL.5.27_1"
-"Colombia-Bolivar-Santa_Rosa","Colombia","BOLIVAR","SANTA ROSA","COL.5.28_1"
-"Colombia-Bolivar-Santa_Rosa_Del_Sur","Colombia","BOLIVAR","SANTA ROSA DEL SUR","COL.5.29_1"
-"Colombia-Bolivar-Simiti","Colombia","BOLIVAR","SIMITI","COL.5.30_1"
-"Colombia-Bolivar-Soplaviento","Colombia","BOLIVAR","SOPLAVIENTO","COL.5.31_1"
-"Colombia-Bolivar-Talaigua_Nuevo","Colombia","BOLIVAR","TALAIGUA NUEVO","COL.5.32_1"
-"Colombia-Bolivar-Turbaco","Colombia","BOLIVAR","TURBACO","COL.5.33_1"
-"Colombia-Bolivar-Turbana","Colombia","BOLIVAR","TURBANA","COL.5.34_1"
-"Colombia-Bolivar-Villanueva","Colombia","BOLIVAR","VILLANUEVA","COL.5.35_1"
-"Colombia-Bolivar-Zambrano","Colombia","BOLIVAR","ZAMBRANO","COL.5.36_1"
-"Colombia-Boyaca-Tunja","Colombia","BOYACA","TUNJA","COL.6.114_1"
-"Colombia-Boyaca-Almeida","Colombia","BOYACA","ALMEIDA","COL.6.1_1"
-"Colombia-Boyaca-Aquitania","Colombia","BOYACA","AQUITANIA","COL.6.2_1"
-"Colombia-Boyaca-Arcabuco","Colombia","BOYACA","ARCABUCO","COL.6.3_1"
-"Colombia-Boyaca-Belen","Colombia","BOYACA","BELEN","COL.6.4_1"
-"Colombia-Boyaca-Berbeo","Colombia","BOYACA","BERBEO","COL.6.5_1"
-"Colombia-Boyaca-Beteitiva","Colombia","BOYACA","BETEITIVA","COL.6.6_1"
-"Colombia-Boyaca-Boavita","Colombia","BOYACA","BOAVITA","COL.6.7_1"
-"Colombia-Boyaca-Boyaca","Colombia","BOYACA","BOYACA","COL.6.8_1"
-"Colombia-Boyaca-Briceno","Colombia","BOYACA","BRICENO","COL.6.9_1"
-"Colombia-Boyaca-Buenavista","Colombia","BOYACA","BUENAVISTA","COL.6.10_1"
-"Colombia-Boyaca-Busbanza","Colombia","BOYACA","BUSBANZA","COL.6.11_1"
-"Colombia-Boyaca-Caldas","Colombia","BOYACA","CALDAS","COL.6.12_1"
-"Colombia-Boyaca-Campohermoso","Colombia","BOYACA","CAMPOHERMOSO","COL.6.13_1"
-"Colombia-Boyaca-Cerinza","Colombia","BOYACA","CERINZA","COL.6.14_1"
-"Colombia-Boyaca-Chinavita","Colombia","BOYACA","CHINAVITA","COL.6.15_1"
-"Colombia-Boyaca-Chiquinquira","Colombia","BOYACA","CHIQUINQUIRA","COL.6.16_1"
-"Colombia-Boyaca-Chiscas","Colombia","BOYACA","CHISCAS","COL.6.18_1"
-"Colombia-Boyaca-Chita","Colombia","BOYACA","CHITA","COL.6.19_1"
-"Colombia-Boyaca-Chitaraque","Colombia","BOYACA","CHITARAQUE","COL.6.20_1"
-"Colombia-Boyaca-Chivata","Colombia","BOYACA","CHIVATA","COL.6.21_1"
-"Colombia-Boyaca-Combita","Colombia","BOYACA","COMBITA","COL.6.24_1"
-"Colombia-Boyaca-Coper","Colombia","BOYACA","COPER","COL.6.25_1"
-"Colombia-Boyaca-Corrales","Colombia","BOYACA","CORRALES","COL.6.26_1"
-"Colombia-Boyaca-Covarachia","Colombia","BOYACA","COVARACHIA","COL.6.27_1"
-"Colombia-Boyaca-Cubara","Colombia","BOYACA","CUBARA","COL.6.28_1"
-"Colombia-Boyaca-Cucaita","Colombia","BOYACA","CUCAITA","COL.6.29_1"
-"Colombia-Boyaca-Cuitiva","Colombia","BOYACA","CUITIVA","COL.6.30_1"
-"Colombia-Boyaca-Chiquiza","Colombia","BOYACA","CHIQUIZA","COL.6.17_1"
-"Colombia-Boyaca-Chivor","Colombia","BOYACA","CHIVOR","COL.6.22_1"
-"Colombia-Boyaca-Duitama","Colombia","BOYACA","DUITAMA","COL.6.31_1"
-"Colombia-Boyaca-El_Cocuy","Colombia","BOYACA","EL COCUY","COL.6.32_1"
-"Colombia-Boyaca-El_Espino","Colombia","BOYACA","EL ESPINO","COL.6.33_1"
-"Colombia-Boyaca-Firavitoba","Colombia","BOYACA","FIRAVITOBA","COL.6.34_1"
-"Colombia-Boyaca-Floresta","Colombia","BOYACA","FLORESTA","COL.6.35_1"
-"Colombia-Boyaca-Gachantiva","Colombia","BOYACA","GACHANTIVA","COL.6.36_1"
-"Colombia-Boyaca-Gameza","Colombia","BOYACA","GAMEZA","COL.6.37_1"
-"Colombia-Boyaca-Garagoa","Colombia","BOYACA","GARAGOA","COL.6.38_1"
-"Colombia-Boyaca-Guacamayas","Colombia","BOYACA","GUACAMAYAS","COL.6.39_1"
-"Colombia-Boyaca-Guateque","Colombia","BOYACA","GUATEQUE","COL.6.40_1"
-"Colombia-Boyaca-Guayata","Colombia","BOYACA","GUAYATA","COL.6.41_1"
-"Colombia-Boyaca-Guican","Colombia","BOYACA","GUICAN","COL.6.42_1"
-"Colombia-Boyaca-Iza","Colombia","BOYACA","IZA","COL.6.43_1"
-"Colombia-Boyaca-Jenesano","Colombia","BOYACA","JENESANO","COL.6.44_1"
-"Colombia-Boyaca-Jerico","Colombia","BOYACA","JERICO","COL.6.45_1"
-"Colombia-Boyaca-Labranzagrande","Colombia","BOYACA","LABRANZAGRANDE","COL.6.49_1"
-"Colombia-Boyaca-La_Capilla","Colombia","BOYACA","LA CAPILLA","COL.6.46_1"
-"Colombia-Boyaca-La_Victoria","Colombia","BOYACA","LA VICTORIA","COL.6.48_1"
-"Colombia-Boyaca-La_Uvita","Colombia","BOYACA","LA UVITA","COL.6.47_1"
-"Colombia-Boyaca-Villa_De_Leyva","Colombia","BOYACA","VILLA DE LEYVA","COL.6.121_1"
-"Colombia-Boyaca-Macanal","Colombia","BOYACA","MACANAL","COL.6.50_1"
-"Colombia-Boyaca-Maripi","Colombia","BOYACA","MARIPI","COL.6.51_1"
-"Colombia-Boyaca-Miraflores","Colombia","BOYACA","MIRAFLORES","COL.6.52_1"
-"Colombia-Boyaca-Mongua","Colombia","BOYACA","MONGUA","COL.6.53_1"
-"Colombia-Boyaca-Mongui","Colombia","BOYACA","MONGUI","COL.6.54_1"
-"Colombia-Boyaca-Moniquira","Colombia","BOYACA","MONIQUIRA","COL.6.55_1"
-"Colombia-Boyaca-Motavita","Colombia","BOYACA","MOTAVITA","COL.6.56_1"
-"Colombia-Boyaca-Muzo","Colombia","BOYACA","MUZO","COL.6.57_1"
-"Colombia-Boyaca-Nobsa","Colombia","BOYACA","NOBSA","COL.6.58_1"
-"Colombia-Boyaca-Nuevo_Colon","Colombia","BOYACA","NUEVO COLON","COL.6.59_1"
-"Colombia-Boyaca-Oicata","Colombia","BOYACA","OICATA","COL.6.60_1"
-"Colombia-Boyaca-Otanche","Colombia","BOYACA","OTANCHE","COL.6.61_1"
-"Colombia-Boyaca-Pachavita","Colombia","BOYACA","PACHAVITA","COL.6.62_1"
-"Colombia-Boyaca-Paez","Colombia","BOYACA","PAEZ","COL.6.63_1"
-"Colombia-Boyaca-Paipa","Colombia","BOYACA","PAIPA","COL.6.64_1"
-"Colombia-Boyaca-Pajarito","Colombia","BOYACA","PAJARITO","COL.6.65_1"
-"Colombia-Boyaca-Panqueba","Colombia","BOYACA","PANQUEBA","COL.6.66_1"
-"Colombia-Boyaca-Pauna","Colombia","BOYACA","PAUNA","COL.6.67_1"
-"Colombia-Boyaca-Paya","Colombia","BOYACA","PAYA","COL.6.68_1"
-"Colombia-Boyaca-Paz_De_Rio","Colombia","BOYACA","PAZ DE RIO","COL.6.69_1"
-"Colombia-Boyaca-Pesca","Colombia","BOYACA","PESCA","COL.6.70_1"
-"Colombia-Boyaca-Pisba","Colombia","BOYACA","PISBA","COL.6.71_1"
-"Colombia-Boyaca-Puerto_Boyaca","Colombia","BOYACA","PUERTO BOYACA","COL.6.72_1"
-"Colombia-Boyaca-Quipama","Colombia","BOYACA","QUIPAMA","COL.6.73_1"
-"Colombia-Boyaca-Ramiriqui","Colombia","BOYACA","RAMIRIQUI","COL.6.74_1"
-"Colombia-Boyaca-Raquira","Colombia","BOYACA","RAQUIRA","COL.6.75_1"
-"Colombia-Boyaca-Rondon","Colombia","BOYACA","RONDON","COL.6.76_1"
-"Colombia-Boyaca-Saboya","Colombia","BOYACA","SABOYA","COL.6.77_1"
-"Colombia-Boyaca-Sachica","Colombia","BOYACA","SACHICA","COL.6.78_1"
-"Colombia-Boyaca-Samaca","Colombia","BOYACA","SAMACA","COL.6.79_1"
-"Colombia-Boyaca-San_Eduardo","Colombia","BOYACA","SAN EDUARDO","COL.6.80_1"
-"Colombia-Boyaca-San_Jose_De_Pare","Colombia","BOYACA","SAN JOSE DE PARE","COL.6.81_1"
-"Colombia-Boyaca-San_Luis_De_Gaceno","Colombia","BOYACA","SAN LUIS DE GACENO","COL.6.82_1"
-"Colombia-Boyaca-San_Mateo","Colombia","BOYACA","SAN MATEO","COL.6.83_1"
-"Colombia-Boyaca-San_Miguel_De_Sema","Colombia","BOYACA","SAN MIGUEL DE SEMA","COL.6.84_1"
-"Colombia-Boyaca-San_Pablo_De_Borbur","Colombia","BOYACA","SAN PABLO DE BORBUR","COL.6.85_1"
-"Colombia-Boyaca-Santana","Colombia","BOYACA","SANTANA","COL.6.89_1"
-"Colombia-Boyaca-Santa_Maria","Colombia","BOYACA","SANTA MARIA","COL.6.86_1"
-"Colombia-Boyaca-Santa_Rosa_De_Viterbo","Colombia","BOYACA","SANTA ROSA DE VITERBO","COL.6.87_1"
-"Colombia-Boyaca-Santa_Sofia","Colombia","BOYACA","SANTA SOFIA","COL.6.88_1"
-"Colombia-Boyaca-Sativanorte","Colombia","BOYACA","SATIVANORTE","COL.6.90_1"
-"Colombia-Boyaca-Sativasur","Colombia","BOYACA","SATIVASUR","COL.6.91_1"
-"Colombia-Boyaca-Siachoque","Colombia","BOYACA","SIACHOQUE","COL.6.92_1"
-"Colombia-Boyaca-Soata","Colombia","BOYACA","SOATA","COL.6.93_1"
-"Colombia-Boyaca-Socota","Colombia","BOYACA","SOCOTA","COL.6.95_1"
-"Colombia-Boyaca-Socha","Colombia","BOYACA","SOCHA","COL.6.94_1"
-"Colombia-Boyaca-Sogamoso","Colombia","BOYACA","SOGAMOSO","COL.6.96_1"
-"Colombia-Boyaca-Somondoco","Colombia","BOYACA","SOMONDOCO","COL.6.97_1"
-"Colombia-Boyaca-Sora","Colombia","BOYACA","SORA","COL.6.98_1"
-"Colombia-Boyaca-Sotaquira","Colombia","BOYACA","SOTAQUIRA","COL.6.100_1"
-"Colombia-Boyaca-Soraca","Colombia","BOYACA","SORACA","COL.6.99_1"
-"Colombia-Boyaca-Susacon","Colombia","BOYACA","SUSACON","COL.6.101_1"
-"Colombia-Boyaca-Sutamarchan","Colombia","BOYACA","SUTAMARCHAN","COL.6.102_1"
-"Colombia-Boyaca-Sutatenza","Colombia","BOYACA","SUTATENZA","COL.6.103_1"
-"Colombia-Boyaca-Tasco","Colombia","BOYACA","TASCO","COL.6.104_1"
-"Colombia-Boyaca-Tenza","Colombia","BOYACA","TENZA","COL.6.105_1"
-"Colombia-Boyaca-Tibana","Colombia","BOYACA","TIBANA","COL.6.106_1"
-"Colombia-Boyaca-Tibasosa","Colombia","BOYACA","TIBASOSA","COL.6.107_1"
-"Colombia-Boyaca-Tinjaca","Colombia","BOYACA","TINJACA","COL.6.108_1"
-"Colombia-Boyaca-Tipacoque","Colombia","BOYACA","TIPACOQUE","COL.6.109_1"
-"Colombia-Boyaca-Toca","Colombia","BOYACA","TOCA","COL.6.110_1"
-"Colombia-Boyaca-Togui","Colombia","BOYACA","TOGUI","COL.6.111_1"
-"Colombia-Boyaca-Topaga","Colombia","BOYACA","TOPAGA","COL.6.112_1"
-"Colombia-Boyaca-Tota","Colombia","BOYACA","TOTA","COL.6.113_1"
-"Colombia-Boyaca-Tunungua","Colombia","BOYACA","TUNUNGUA","COL.6.115_1"
-"Colombia-Boyaca-Turmeque","Colombia","BOYACA","TURMEQUE","COL.6.116_1"
-"Colombia-Boyaca-Tuta","Colombia","BOYACA","TUTA","COL.6.117_1"
-"Colombia-Boyaca-Tutaza","Colombia","BOYACA","TUTAZA","COL.6.118_1"
-"Colombia-Boyaca-Umbita","Colombia","BOYACA","UMBITA","COL.6.119_1"
-"Colombia-Boyaca-Ventaquemada","Colombia","BOYACA","VENTAQUEMADA","COL.6.120_1"
-"Colombia-Boyaca-Viracacha","Colombia","BOYACA","VIRACACHA","COL.6.122_1"
-"Colombia-Boyaca-Zetaquira","Colombia","BOYACA","ZETAQUIRA","COL.6.123_1"
-"Colombia-Caldas-Manizales","Colombia","CALDAS","MANIZALES","COL.7.9_1"
-"Colombia-Caldas-Aguadas","Colombia","CALDAS","AGUADAS","COL.7.1_1"
-"Colombia-Caldas-Anserma","Colombia","CALDAS","ANSERMA","COL.7.2_1"
-"Colombia-Caldas-Aranzazu","Colombia","CALDAS","ARANZAZU","COL.7.3_1"
-"Colombia-Caldas-Belalcazar","Colombia","CALDAS","BELALCAZAR","COL.7.4_1"
-"Colombia-Caldas-Chinchina","Colombia","CALDAS","CHINCHINA","COL.7.5_1"
-"Colombia-Caldas-Filadelfia","Colombia","CALDAS","FILADELFIA","COL.7.6_1"
-"Colombia-Caldas-La_Dorada","Colombia","CALDAS","LA DORADA","COL.7.7_1"
-"Colombia-Caldas-La_Merced","Colombia","CALDAS","LA MERCED","COL.7.8_1"
-"Colombia-Caldas-Manzanares","Colombia","CALDAS","MANZANARES","COL.7.10_1"
-"Colombia-Caldas-Marmato","Colombia","CALDAS","MARMATO","COL.7.11_1"
-"Colombia-Caldas-Marquetalia","Colombia","CALDAS","MARQUETALIA","COL.7.12_1"
-"Colombia-Caldas-Marulanda","Colombia","CALDAS","MARULANDA","COL.7.13_1"
-"Colombia-Caldas-Neira","Colombia","CALDAS","NEIRA","COL.7.14_1"
-"Colombia-Caldas-Pacora","Colombia","CALDAS","PACORA","COL.7.15_1"
-"Colombia-Caldas-Palestina","Colombia","CALDAS","PALESTINA","COL.7.16_1"
-"Colombia-Caldas-Pensilvania","Colombia","CALDAS","PENSILVANIA","COL.7.17_1"
-"Colombia-Caldas-Riosucio","Colombia","CALDAS","RIOSUCIO","COL.7.18_1"
-"Colombia-Caldas-Risaralda","Colombia","CALDAS","RISARALDA","COL.7.19_1"
-"Colombia-Caldas-Salamina","Colombia","CALDAS","SALAMINA","COL.7.20_1"
-"Colombia-Caldas-Samana","Colombia","CALDAS","SAMANA","COL.7.21_1"
-"Colombia-Caldas-Supia","Colombia","CALDAS","SUPIA","COL.7.22_1"
-"Colombia-Caldas-Victoria","Colombia","CALDAS","VICTORIA","COL.7.23_1"
-"Colombia-Caldas-Villamaria","Colombia","CALDAS","VILLAMARIA","COL.7.24_1"
-"Colombia-Caldas-Viterbo","Colombia","CALDAS","VITERBO","COL.7.25_1"
-"Colombia-Caqueta-Florencia","Colombia","CAQUETA","FLORENCIA","COL.8.7_1"
-"Colombia-Caqueta-Albania","Colombia","CAQUETA","ALBANIA","COL.8.1_1"
-"Colombia-Caqueta-Belen_De_Los_Andaquies","Colombia","CAQUETA","BELEN DE LOS ANDAQUIES","COL.8.2_1"
-"Colombia-Caqueta-Cartagena_Del_Chaira","Colombia","CAQUETA","CARTAGENA DEL CHAIRA","COL.8.3_1"
-"Colombia-Caqueta-Curillo","Colombia","CAQUETA","CURILLO","COL.8.4_1"
-"Colombia-Caqueta-El_Doncello","Colombia","CAQUETA","EL DONCELLO","COL.8.5_1"
-"Colombia-Caqueta-El_Paujil","Colombia","CAQUETA","EL PAUJIL","COL.8.6_1"
-"Colombia-Caqueta-La_Montanita","Colombia","CAQUETA","LA MONTANITA","COL.8.8_1"
-"Colombia-Caqueta-Milan","Colombia","CAQUETA","MILAN","COL.8.9_1"
-"Colombia-Caqueta-Morelia","Colombia","CAQUETA","MORELIA","COL.8.10_1"
-"Colombia-Caqueta-Puerto_Rico","Colombia","CAQUETA","PUERTO RICO","COL.8.11_1"
-"Colombia-Caqueta-San_Jose_Del_Fragua","Colombia","CAQUETA","SAN JOSE DEL FRAGUA","COL.8.12_1"
-"Colombia-Caqueta-San_Vicente_Del_Caguan","Colombia","CAQUETA","SAN VICENTE DEL CAGUAN","COL.8.13_1"
-"Colombia-Caqueta-Solano","Colombia","CAQUETA","SOLANO","COL.8.14_1"
-"Colombia-Caqueta-Valparaiso","Colombia","CAQUETA","VALPARAISO","COL.8.15_1"
-"Colombia-Cauca-Popayan","Colombia","CAUCA","POPAYAN","COL.10.25_1"
-"Colombia-Cauca-Almaguer","Colombia","CAUCA","ALMAGUER","COL.10.1_1"
-"Colombia-Cauca-Argelia","Colombia","CAUCA","ARGELIA","COL.10.2_1"
-"Colombia-Cauca-Balboa","Colombia","CAUCA","BALBOA","COL.10.3_1"
-"Colombia-Cauca-Bolivar","Colombia","CAUCA","BOLIVAR","COL.10.4_1"
-"Colombia-Cauca-Buenos_Aires","Colombia","CAUCA","BUENOS AIRES","COL.10.5_1"
-"Colombia-Cauca-Cajibio","Colombia","CAUCA","CAJIBIO","COL.10.6_1"
-"Colombia-Cauca-Caldono","Colombia","CAUCA","CALDONO","COL.10.7_1"
-"Colombia-Cauca-Caloto","Colombia","CAUCA","CALOTO","COL.10.8_1"
-"Colombia-Cauca-Corinto","Colombia","CAUCA","CORINTO","COL.10.9_1"
-"Colombia-Cauca-El_Tambo","Colombia","CAUCA","EL TAMBO","COL.10.10_1"
-"Colombia-Cauca-Florencia","Colombia","CAUCA","FLORENCIA","COL.10.11_1"
-"Colombia-Cauca-Guapi","Colombia","CAUCA","GUAPI","COL.10.12_1"
-"Colombia-Cauca-Inza","Colombia","CAUCA","INZA","COL.10.13_1"
-"Colombia-Cauca-Jambalo","Colombia","CAUCA","JAMBALO","COL.10.14_1"
-"Colombia-Cauca-La_Sierra","Colombia","CAUCA","LA SIERRA","COL.10.15_1"
-"Colombia-Cauca-La_Vega","Colombia","CAUCA","LA VEGA","COL.10.16_1"
-"Colombia-Cauca-Mercaderes","Colombia","CAUCA","MERCADERES","COL.10.18_1"
-"Colombia-Cauca-Miranda","Colombia","CAUCA","MIRANDA","COL.10.19_1"
-"Colombia-Cauca-Morales","Colombia","CAUCA","MORALES","COL.10.20_1"
-"Colombia-Cauca-Padilla","Colombia","CAUCA","PADILLA","COL.10.21_1"
-"Colombia-Cauca-Paez","Colombia","CAUCA","PAEZ","COL.10.22_1"
-"Colombia-Cauca-Patia","Colombia","CAUCA","PATIA","COL.10.23_1"
-"Colombia-Cauca-Piendamo","Colombia","CAUCA","PIENDAMO","COL.10.24_1"
-"Colombia-Cauca-Puerto_Tejada","Colombia","CAUCA","PUERTO TEJADA","COL.10.26_1"
-"Colombia-Cauca-Purace","Colombia","CAUCA","PURACE","COL.10.27_1"
-"Colombia-Cauca-Rosas","Colombia","CAUCA","ROSAS","COL.10.28_1"
-"Colombia-Cauca-San_Sebastian","Colombia","CAUCA","SAN SEBASTIAN","COL.10.29_1"
-"Colombia-Cauca-Santander_De_Quilichao","Colombia","CAUCA","SANTANDER DE QUILICHAO","COL.10.31_1"
-"Colombia-Cauca-Santa_Rosa","Colombia","CAUCA","SANTA ROSA","COL.10.30_1"
-"Colombia-Cauca-Silvia","Colombia","CAUCA","SILVIA","COL.10.32_1"
-"Colombia-Cauca-Sotara","Colombia","CAUCA","SOTARA","COL.10.33_1"
-"Colombia-Cauca-Suarez","Colombia","CAUCA","SUAREZ","COL.10.34_1"
-"Colombia-Cauca-Timbio","Colombia","CAUCA","TIMBIO","COL.10.35_1"
-"Colombia-Cauca-Timbiqui","Colombia","CAUCA","TIMBIQUI","COL.10.36_1"
-"Colombia-Cauca-Toribio","Colombia","CAUCA","TORIBIO","COL.10.37_1"
-"Colombia-Cauca-Totoro","Colombia","CAUCA","TOTORO","COL.10.38_1"
-"Colombia-Cesar-Valledupar","Colombia","CESAR","VALLEDUPAR","COL.11.24_1"
-"Colombia-Cesar-Aguachica","Colombia","CESAR","AGUACHICA","COL.11.1_1"
-"Colombia-Cesar-Agustin_Codazzi","Colombia","CESAR","AGUSTIN CODAZZI","COL.11.2_1"
-"Colombia-Cesar-Astrea","Colombia","CESAR","ASTREA","COL.11.3_1"
-"Colombia-Cesar-Becerril","Colombia","CESAR","BECERRIL","COL.11.4_1"
-"Colombia-Cesar-Bosconia","Colombia","CESAR","BOSCONIA","COL.11.5_1"
-"Colombia-Cesar-Chimichagua","Colombia","CESAR","CHIMICHAGUA","COL.11.6_1"
-"Colombia-Cesar-Chiriguana","Colombia","CESAR","CHIRIGUANA","COL.11.7_1"
-"Colombia-Cesar-Curumani","Colombia","CESAR","CURUMANI","COL.11.8_1"
-"Colombia-Cesar-El_Copey","Colombia","CESAR","EL COPEY","COL.11.9_1"
-"Colombia-Cesar-El_Paso","Colombia","CESAR","EL PASO","COL.11.10_1"
-"Colombia-Cesar-Gamarra","Colombia","CESAR","GAMARRA","COL.11.11_1"
-"Colombia-Cesar-Gonzalez","Colombia","CESAR","GONZALEZ","COL.11.12_1"
-"Colombia-Cesar-La_Gloria","Colombia","CESAR","LA GLORIA","COL.11.13_1"
-"Colombia-Cesar-La_Jagua_De_Ibirico","Colombia","CESAR","LA JAGUA DE IBIRICO","COL.11.14_1"
-"Colombia-Cesar-Manaure","Colombia","CESAR","MANAURE","COL.11.16_1"
-"Colombia-Cesar-Pailitas","Colombia","CESAR","PAILITAS","COL.11.17_1"
-"Colombia-Cesar-Pelaya","Colombia","CESAR","PELAYA","COL.11.18_1"
-"Colombia-Cesar-Rio_De_Oro","Colombia","CESAR","RIO DE ORO","COL.11.19_1"
-"Colombia-Cesar-La_Paz","Colombia","CESAR","LA PAZ","COL.11.15_1"
-"Colombia-Cesar-San_Alberto","Colombia","CESAR","SAN ALBERTO","COL.11.20_1"
-"Colombia-Cesar-San_Diego","Colombia","CESAR","SAN DIEGO","COL.11.21_1"
-"Colombia-Cesar-San_Martin","Colombia","CESAR","SAN MARTIN","COL.11.22_1"
-"Colombia-Cesar-Tamalameque","Colombia","CESAR","TAMALAMEQUE","COL.11.23_1"
-"Colombia-Cordoba-Monteria","Colombia","CORDOBA","MONTERIA","COL.13.12_1"
-"Colombia-Cordoba-Ayapel","Colombia","CORDOBA","AYAPEL","COL.13.1_1"
-"Colombia-Cordoba-Buenavista","Colombia","CORDOBA","BUENAVISTA","COL.13.2_1"
-"Colombia-Cordoba-Canalete","Colombia","CORDOBA","CANALETE","COL.13.3_1"
-"Colombia-Cordoba-Cerete","Colombia","CORDOBA","CERETE","COL.13.4_1"
-"Colombia-Cordoba-Chima","Colombia","CORDOBA","CHIMA","COL.13.5_1"
-"Colombia-Cordoba-Chinu","Colombia","CORDOBA","CHINU","COL.13.6_1"
-"Colombia-Cordoba-Cienaga_De_Oro","Colombia","CORDOBA","CIENAGA DE ORO","COL.13.7_1"
-"Colombia-Cordoba-Los_Cordobas","Colombia","CORDOBA","LOS CORDOBAS","COL.13.8_1"
-"Colombia-Cordoba-Momil","Colombia","CORDOBA","MOMIL","COL.13.9_1"
-"Colombia-Cordoba-Montelibano","Colombia","CORDOBA","MONTELIBANO","COL.13.11_1"
-"Colombia-Cordoba-Monitos","Colombia","CORDOBA","MONITOS","COL.13.10_1"
-"Colombia-Cordoba-Planeta_Rica","Colombia","CORDOBA","PLANETA RICA","COL.13.13_1"
-"Colombia-Cordoba-Pueblo_Nuevo","Colombia","CORDOBA","PUEBLO NUEVO","COL.13.14_1"
-"Colombia-Cordoba-Puerto_Escondido","Colombia","CORDOBA","PUERTO ESCONDIDO","COL.13.15_1"
-"Colombia-Cordoba-Puerto_Libertador","Colombia","CORDOBA","PUERTO LIBERTADOR","COL.13.16_1"
-"Colombia-Cordoba-Purisima","Colombia","CORDOBA","PURISIMA","COL.13.17_1"
-"Colombia-Cordoba-San_Antero","Colombia","CORDOBA","SAN ANTERO","COL.13.19_1"
-"Colombia-Cordoba-San_Bernardo_Del_Viento","Colombia","CORDOBA","SAN BERNARDO DEL VIENTO","COL.13.21_1"
-"Colombia-Cordoba-San_Carlos","Colombia","CORDOBA","SAN CARLOS","COL.13.22_1"
-"Colombia-Cordoba-San_Pelayo","Colombia","CORDOBA","SAN PELAYO","COL.13.23_1"
-"Colombia-Cordoba-Tierralta","Colombia","CORDOBA","TIERRALTA","COL.13.25_1"
-"Colombia-Cordoba-Valencia","Colombia","CORDOBA","VALENCIA","COL.13.26_1"
-"Colombia-Cundinamarca-Agua_De_Dios","Colombia","CUNDINAMARCA","AGUA DE DIOS","COL.14.1_1"
-"Colombia-Cundinamarca-Alban","Colombia","CUNDINAMARCA","ALBAN","COL.14.2_1"
-"Colombia-Cundinamarca-Anapoima","Colombia","CUNDINAMARCA","ANAPOIMA","COL.14.3_1"
-"Colombia-Cundinamarca-Anolaima","Colombia","CUNDINAMARCA","ANOLAIMA","COL.14.4_1"
-"Colombia-Cundinamarca-Arbelaez","Colombia","CUNDINAMARCA","ARBELAEZ","COL.14.6_1"
-"Colombia-Cundinamarca-Beltran","Colombia","CUNDINAMARCA","BELTRAN","COL.14.7_1"
-"Colombia-Cundinamarca-Bituima","Colombia","CUNDINAMARCA","BITUIMA","COL.14.8_1"
-"Colombia-Cundinamarca-Bojaca","Colombia","CUNDINAMARCA","BOJACA","COL.14.9_1"
-"Colombia-Cundinamarca-Cabrera","Colombia","CUNDINAMARCA","CABRERA","COL.14.10_1"
-"Colombia-Cundinamarca-Cachipay","Colombia","CUNDINAMARCA","CACHIPAY","COL.14.11_1"
-"Colombia-Cundinamarca-Cajica","Colombia","CUNDINAMARCA","CAJICA","COL.14.12_1"
-"Colombia-Cundinamarca-Caparrapi","Colombia","CUNDINAMARCA","CAPARRAPI","COL.14.13_1"
-"Colombia-Cundinamarca-Caqueza","Colombia","CUNDINAMARCA","CAQUEZA","COL.14.14_1"
-"Colombia-Cundinamarca-Carmen_De_Carupa","Colombia","CUNDINAMARCA","CARMEN DE CARUPA","COL.14.15_1"
-"Colombia-Cundinamarca-Chaguani","Colombia","CUNDINAMARCA","CHAGUANI","COL.14.16_1"
-"Colombia-Cundinamarca-Chia","Colombia","CUNDINAMARCA","CHIA","COL.14.17_1"
-"Colombia-Cundinamarca-Chipaque","Colombia","CUNDINAMARCA","CHIPAQUE","COL.14.18_1"
-"Colombia-Cundinamarca-Choachi","Colombia","CUNDINAMARCA","CHOACHI","COL.14.19_1"
-"Colombia-Cundinamarca-Choconta","Colombia","CUNDINAMARCA","CHOCONTA","COL.14.20_1"
-"Colombia-Cundinamarca-Cogua","Colombia","CUNDINAMARCA","COGUA","COL.14.21_1"
-"Colombia-Cundinamarca-Cota","Colombia","CUNDINAMARCA","COTA","COL.14.22_1"
-"Colombia-Cundinamarca-Cucunuba","Colombia","CUNDINAMARCA","CUCUNUBA","COL.14.23_1"
-"Colombia-Cundinamarca-El_Colegio","Colombia","CUNDINAMARCA","EL COLEGIO","COL.14.24_1"
-"Colombia-Cundinamarca-El_Penon","Colombia","CUNDINAMARCA","EL PENON","COL.14.25_1"
-"Colombia-Cundinamarca-Facatativa","Colombia","CUNDINAMARCA","FACATATIVA","COL.14.26_1"
-"Colombia-Cundinamarca-Fomeque","Colombia","CUNDINAMARCA","FOMEQUE","COL.14.27_1"
-"Colombia-Cundinamarca-Fosca","Colombia","CUNDINAMARCA","FOSCA","COL.14.28_1"
-"Colombia-Cundinamarca-Funza","Colombia","CUNDINAMARCA","FUNZA","COL.14.29_1"
-"Colombia-Cundinamarca-Fuquene","Colombia","CUNDINAMARCA","FUQUENE","COL.14.30_1"
-"Colombia-Cundinamarca-Fusagasuga","Colombia","CUNDINAMARCA","FUSAGASUGA","COL.14.31_1"
-"Colombia-Cundinamarca-Gachala","Colombia","CUNDINAMARCA","GACHALA","COL.14.32_1"
-"Colombia-Cundinamarca-Gachancipa","Colombia","CUNDINAMARCA","GACHANCIPA","COL.14.33_1"
-"Colombia-Cundinamarca-Gacheta","Colombia","CUNDINAMARCA","GACHETA","COL.14.34_1"
-"Colombia-Cundinamarca-Gama","Colombia","CUNDINAMARCA","GAMA","COL.14.35_1"
-"Colombia-Cundinamarca-Girardot","Colombia","CUNDINAMARCA","GIRARDOT","COL.14.36_1"
-"Colombia-Cundinamarca-Guacheta","Colombia","CUNDINAMARCA","GUACHETA","COL.14.37_1"
-"Colombia-Cundinamarca-Guaduas","Colombia","CUNDINAMARCA","GUADUAS","COL.14.38_1"
-"Colombia-Cundinamarca-Guasca","Colombia","CUNDINAMARCA","GUASCA","COL.14.39_1"
-"Colombia-Cundinamarca-Guataqui","Colombia","CUNDINAMARCA","GUATAQUI","COL.14.40_1"
-"Colombia-Cundinamarca-Guatavita","Colombia","CUNDINAMARCA","GUATAVITA","COL.14.41_1"
-"Colombia-Cundinamarca-Guayabal_De_Siquima","Colombia","CUNDINAMARCA","GUAYABAL DE SIQUIMA","COL.14.42_1"
-"Colombia-Cundinamarca-Guayabetal","Colombia","CUNDINAMARCA","GUAYABETAL","COL.14.43_1"
-"Colombia-Cundinamarca-Gutierrez","Colombia","CUNDINAMARCA","GUTIERREZ","COL.14.44_1"
-"Colombia-Cundinamarca-Jerusalen","Colombia","CUNDINAMARCA","JERUSALEN","COL.14.45_1"
-"Colombia-Cundinamarca-Junin","Colombia","CUNDINAMARCA","JUNIN","COL.14.46_1"
-"Colombia-Cundinamarca-La_Calera","Colombia","CUNDINAMARCA","LA CALERA","COL.14.47_1"
-"Colombia-Cundinamarca-La_Mesa","Colombia","CUNDINAMARCA","LA MESA","COL.14.48_1"
-"Colombia-Cundinamarca-La_Palma","Colombia","CUNDINAMARCA","LA PALMA","COL.14.49_1"
-"Colombia-Cundinamarca-La_Pena","Colombia","CUNDINAMARCA","LA PENA","COL.14.50_1"
-"Colombia-Cundinamarca-La_Vega","Colombia","CUNDINAMARCA","LA VEGA","COL.14.51_1"
-"Colombia-Cundinamarca-Lenguazaque","Colombia","CUNDINAMARCA","LENGUAZAQUE","COL.14.52_1"
-"Colombia-Cundinamarca-Macheta","Colombia","CUNDINAMARCA","MACHETA","COL.14.53_1"
-"Colombia-Cundinamarca-Madrid","Colombia","CUNDINAMARCA","MADRID","COL.14.54_1"
-"Colombia-Cundinamarca-Manta","Colombia","CUNDINAMARCA","MANTA","COL.14.55_1"
-"Colombia-Cundinamarca-Medina","Colombia","CUNDINAMARCA","MEDINA","COL.14.56_1"
-"Colombia-Cundinamarca-Mosquera","Colombia","CUNDINAMARCA","MOSQUERA","COL.14.57_1"
-"Colombia-Cundinamarca-Narino","Colombia","CUNDINAMARCA","NARINO","COL.14.58_1"
-"Colombia-Cundinamarca-Nemocon","Colombia","CUNDINAMARCA","NEMOCON","COL.14.59_1"
-"Colombia-Cundinamarca-Nilo","Colombia","CUNDINAMARCA","NILO","COL.14.60_1"
-"Colombia-Cundinamarca-Nimaima","Colombia","CUNDINAMARCA","NIMAIMA","COL.14.61_1"
-"Colombia-Cundinamarca-Nocaima","Colombia","CUNDINAMARCA","NOCAIMA","COL.14.62_1"
-"Colombia-Cundinamarca-Venecia","Colombia","CUNDINAMARCA","VENECIA","COL.14.105_1"
-"Colombia-Cundinamarca-Pacho","Colombia","CUNDINAMARCA","PACHO","COL.14.63_1"
-"Colombia-Cundinamarca-Paime","Colombia","CUNDINAMARCA","PAIME","COL.14.64_1"
-"Colombia-Cundinamarca-Pandi","Colombia","CUNDINAMARCA","PANDI","COL.14.65_1"
-"Colombia-Cundinamarca-Paratebueno","Colombia","CUNDINAMARCA","PARATEBUENO","COL.14.66_1"
-"Colombia-Cundinamarca-Pasca","Colombia","CUNDINAMARCA","PASCA","COL.14.67_1"
-"Colombia-Cundinamarca-Puerto_Salgar","Colombia","CUNDINAMARCA","PUERTO SALGAR","COL.14.68_1"
-"Colombia-Cundinamarca-Puli","Colombia","CUNDINAMARCA","PULI","COL.14.69_1"
-"Colombia-Cundinamarca-Quebradanegra","Colombia","CUNDINAMARCA","QUEBRADANEGRA","COL.14.70_1"
-"Colombia-Cundinamarca-Quetame","Colombia","CUNDINAMARCA","QUETAME","COL.14.71_1"
-"Colombia-Cundinamarca-Quipile","Colombia","CUNDINAMARCA","QUIPILE","COL.14.72_1"
-"Colombia-Cundinamarca-Apulo","Colombia","CUNDINAMARCA","APULO","COL.14.5_1"
-"Colombia-Cundinamarca-Ricaurte","Colombia","CUNDINAMARCA","RICAURTE","COL.14.73_1"
-"Colombia-Cundinamarca-San_Antonio_Del_Tequendama","Colombia","CUNDINAMARCA","SAN ANTONIO DEL TEQUENDAMA","COL.14.74_1"
-"Colombia-Cundinamarca-San_Bernardo","Colombia","CUNDINAMARCA","SAN BERNARDO","COL.14.75_1"
-"Colombia-Cundinamarca-San_Cayetano","Colombia","CUNDINAMARCA","SAN CAYETANO","COL.14.76_1"
-"Colombia-Cundinamarca-San_Francisco","Colombia","CUNDINAMARCA","SAN FRANCISCO","COL.14.77_1"
-"Colombia-Cundinamarca-San_Juan_De_Rio_Seco","Colombia","CUNDINAMARCA","SAN JUAN DE RIO SECO","COL.14.78_1"
-"Colombia-Cundinamarca-Sasaima","Colombia","CUNDINAMARCA","SASAIMA","COL.14.80_1"
-"Colombia-Cundinamarca-Sesquile","Colombia","CUNDINAMARCA","SESQUILE","COL.14.81_1"
-"Colombia-Cundinamarca-Sibate","Colombia","CUNDINAMARCA","SIBATE","COL.14.82_1"
-"Colombia-Cundinamarca-Silvania","Colombia","CUNDINAMARCA","SILVANIA","COL.14.83_1"
-"Colombia-Cundinamarca-Simijaca","Colombia","CUNDINAMARCA","SIMIJACA","COL.14.84_1"
-"Colombia-Cundinamarca-Soacha","Colombia","CUNDINAMARCA","SOACHA","COL.14.85_1"
-"Colombia-Cundinamarca-Sopo","Colombia","CUNDINAMARCA","SOPO","COL.14.86_1"
-"Colombia-Cundinamarca-Subachoque","Colombia","CUNDINAMARCA","SUBACHOQUE","COL.14.87_1"
-"Colombia-Cundinamarca-Suesca","Colombia","CUNDINAMARCA","SUESCA","COL.14.88_1"
-"Colombia-Cundinamarca-Supata","Colombia","CUNDINAMARCA","SUPATA","COL.14.89_1"
-"Colombia-Cundinamarca-Susa","Colombia","CUNDINAMARCA","SUSA","COL.14.90_1"
-"Colombia-Cundinamarca-Sutatausa","Colombia","CUNDINAMARCA","SUTATAUSA","COL.14.91_1"
-"Colombia-Cundinamarca-Tabio","Colombia","CUNDINAMARCA","TABIO","COL.14.92_1"
-"Colombia-Cundinamarca-Tausa","Colombia","CUNDINAMARCA","TAUSA","COL.14.93_1"
-"Colombia-Cundinamarca-Tena","Colombia","CUNDINAMARCA","TENA","COL.14.94_1"
-"Colombia-Cundinamarca-Tenjo","Colombia","CUNDINAMARCA","TENJO","COL.14.95_1"
-"Colombia-Cundinamarca-Tibacuy","Colombia","CUNDINAMARCA","TIBACUY","COL.14.96_1"
-"Colombia-Cundinamarca-Tibirita","Colombia","CUNDINAMARCA","TIBIRITA","COL.14.97_1"
-"Colombia-Cundinamarca-Tocaima","Colombia","CUNDINAMARCA","TOCAIMA","COL.14.98_1"
-"Colombia-Cundinamarca-Tocancipa","Colombia","CUNDINAMARCA","TOCANCIPA","COL.14.99_1"
-"Colombia-Cundinamarca-Topaipi","Colombia","CUNDINAMARCA","TOPAIPI","COL.14.100_1"
-"Colombia-Cundinamarca-Ubala","Colombia","CUNDINAMARCA","UBALA","COL.14.101_1"
-"Colombia-Cundinamarca-Ubaque","Colombia","CUNDINAMARCA","UBAQUE","COL.14.102_1"
-"Colombia-Cundinamarca-Villa_De_San_Diego_De_Ubate","Colombia","CUNDINAMARCA","VILLA DE SAN DIEGO DE UBATE","COL.14.108_1"
-"Colombia-Cundinamarca-Une","Colombia","CUNDINAMARCA","UNE","COL.14.103_1"
-"Colombia-Cundinamarca-Utica","Colombia","CUNDINAMARCA","UTICA","COL.14.104_1"
-"Colombia-Cundinamarca-Vergara","Colombia","CUNDINAMARCA","VERGARA","COL.14.106_1"
-"Colombia-Cundinamarca-Viani","Colombia","CUNDINAMARCA","VIANI","COL.14.107_1"
-"Colombia-Cundinamarca-Villagomez","Colombia","CUNDINAMARCA","VILLAGOMEZ","COL.14.109_1"
-"Colombia-Cundinamarca-Villapinzon","Colombia","CUNDINAMARCA","VILLAPINZON","COL.14.110_1"
-"Colombia-Cundinamarca-Villeta","Colombia","CUNDINAMARCA","VILLETA","COL.14.111_1"
-"Colombia-Cundinamarca-Viota","Colombia","CUNDINAMARCA","VIOTA","COL.14.112_1"
-"Colombia-Cundinamarca-Yacopi","Colombia","CUNDINAMARCA","YACOPI","COL.14.113_1"
-"Colombia-Cundinamarca-Zipacon","Colombia","CUNDINAMARCA","ZIPACON","COL.14.114_1"
-"Colombia-Cundinamarca-Zipaquira","Colombia","CUNDINAMARCA","ZIPAQUIRA","COL.14.115_1"
-"Colombia-Choco-Quibdo","Colombia","CHOCO","QUIBDO","COL.12.16_1"
-"Colombia-Choco-Acandi","Colombia","CHOCO","ACANDI","COL.12.1_1"
-"Colombia-Choco-Alto_Baudo","Colombia","CHOCO","ALTO BAUDO","COL.12.2_1"
-"Colombia-Choco-Bagado","Colombia","CHOCO","BAGADO","COL.12.3_1"
-"Colombia-Choco-Bahia_Solano","Colombia","CHOCO","BAHIA SOLANO","COL.12.4_1"
-"Colombia-Choco-Bajo_Baudo","Colombia","CHOCO","BAJO BAUDO","COL.12.5_1"
-"Colombia-Choco-Bojaya","Colombia","CHOCO","BOJAYA","COL.12.6_1"
-"Colombia-Choco-El_Canton_Del_San_Pablo","Colombia","CHOCO","EL CANTON DEL SAN PABLO","COL.12.8_1"
-"Colombia-Choco-Condoto","Colombia","CHOCO","CONDOTO","COL.12.7_1"
-"Colombia-Choco-El_Carmen_De_Atrato","Colombia","CHOCO","EL CARMEN DE ATRATO","COL.12.9_1"
-"Colombia-Choco-El_Litoral_Del_San_Juan","Colombia","CHOCO","EL LITORAL DEL SAN JUAN","COL.12.10_1"
-"Colombia-Choco-Istmina","Colombia","CHOCO","ISTMINA","COL.12.11_1"
-"Colombia-Choco-Jurado","Colombia","CHOCO","JURADO","COL.12.12_1"
-"Colombia-Choco-Lloro","Colombia","CHOCO","LLORO","COL.12.13_1"
-"Colombia-Choco-Novita","Colombia","CHOCO","NOVITA","COL.12.14_1"
-"Colombia-Choco-Nuqui","Colombia","CHOCO","NUQUI","COL.12.15_1"
-"Colombia-Choco-Riosucio","Colombia","CHOCO","RIOSUCIO","COL.12.17_1"
-"Colombia-Choco-San_Jose_Del_Palmar","Colombia","CHOCO","SAN JOSE DEL PALMAR","COL.12.18_1"
-"Colombia-Choco-Sipi","Colombia","CHOCO","SIPI","COL.12.19_1"
-"Colombia-Choco-Tado","Colombia","CHOCO","TADO","COL.12.20_1"
-"Colombia-Choco-Unguia","Colombia","CHOCO","UNGUIA","COL.12.21_1"
-"Colombia-Huila-Neiva","Colombia","HUILA","NEIVA","COL.17.19_1"
-"Colombia-Huila-Acevedo","Colombia","HUILA","ACEVEDO","COL.17.1_1"
-"Colombia-Huila-Agrado","Colombia","HUILA","AGRADO","COL.17.2_1"
-"Colombia-Huila-Aipe","Colombia","HUILA","AIPE","COL.17.3_1"
-"Colombia-Huila-Algeciras","Colombia","HUILA","ALGECIRAS","COL.17.4_1"
-"Colombia-Huila-Altamira","Colombia","HUILA","ALTAMIRA","COL.17.5_1"
-"Colombia-Huila-Baraya","Colombia","HUILA","BARAYA","COL.17.6_1"
-"Colombia-Huila-Campoalegre","Colombia","HUILA","CAMPOALEGRE","COL.17.7_1"
-"Colombia-Huila-Colombia","Colombia","HUILA","COLOMBIA","COL.17.8_1"
-"Colombia-Huila-Elias","Colombia","HUILA","ELIAS","COL.17.9_1"
-"Colombia-Huila-Garzon","Colombia","HUILA","GARZON","COL.17.10_1"
-"Colombia-Huila-Gigante","Colombia","HUILA","GIGANTE","COL.17.11_1"
-"Colombia-Huila-Guadalupe","Colombia","HUILA","GUADALUPE","COL.17.12_1"
-"Colombia-Huila-Hobo","Colombia","HUILA","HOBO","COL.17.13_1"
-"Colombia-Huila-Iquira","Colombia","HUILA","IQUIRA","COL.17.14_1"
-"Colombia-Huila-Isnos","Colombia","HUILA","ISNOS","COL.17.15_1"
-"Colombia-Huila-La_Argentina","Colombia","HUILA","LA ARGENTINA","COL.17.16_1"
-"Colombia-Huila-La_Plata","Colombia","HUILA","LA PLATA","COL.17.17_1"
-"Colombia-Huila-Nataga","Colombia","HUILA","NATAGA","COL.17.18_1"
-"Colombia-Huila-Oporapa","Colombia","HUILA","OPORAPA","COL.17.20_1"
-"Colombia-Huila-Paicol","Colombia","HUILA","PAICOL","COL.17.21_1"
-"Colombia-Huila-Palermo","Colombia","HUILA","PALERMO","COL.17.22_1"
-"Colombia-Huila-Palestina","Colombia","HUILA","PALESTINA","COL.17.23_1"
-"Colombia-Huila-Pital","Colombia","HUILA","PITAL","COL.17.24_1"
-"Colombia-Huila-Pitalito","Colombia","HUILA","PITALITO","COL.17.25_1"
-"Colombia-Huila-Rivera","Colombia","HUILA","RIVERA","COL.17.26_1"
-"Colombia-Huila-Saladoblanco","Colombia","HUILA","SALADOBLANCO","COL.17.27_1"
-"Colombia-Huila-San_Agustin","Colombia","HUILA","SAN AGUSTIN","COL.17.28_1"
-"Colombia-Huila-Santa_Maria","Colombia","HUILA","SANTA MARIA","COL.17.29_1"
-"Colombia-Huila-Suaza","Colombia","HUILA","SUAZA","COL.17.30_1"
-"Colombia-Huila-Tarqui","Colombia","HUILA","TARQUI","COL.17.31_1"
-"Colombia-Huila-Tesalia","Colombia","HUILA","TESALIA","COL.17.34_1"
-"Colombia-Huila-Tello","Colombia","HUILA","TELLO","COL.17.32_1"
-"Colombia-Huila-Teruel","Colombia","HUILA","TERUEL","COL.17.33_1"
-"Colombia-Huila-Timana","Colombia","HUILA","TIMANA","COL.17.35_1"
-"Colombia-Huila-Villavieja","Colombia","HUILA","VILLAVIEJA","COL.17.36_1"
-"Colombia-Huila-Yaguara","Colombia","HUILA","YAGUARA","COL.17.37_1"
-"Colombia-Guajira-Riohacha","Colombia","LA GUAJIRA","RIOHACHA","COL.18.6_1"
-"Colombia-Guajira-Barrancas","Colombia","LA GUAJIRA","BARRANCAS","COL.18.1_1"
-"Colombia-Guajira-El_Molino","Colombia","LA GUAJIRA","EL MOLINO","COL.18.2_1"
-"Colombia-Guajira-Fonseca","Colombia","LA GUAJIRA","FONSECA","COL.18.3_1"
-"Colombia-Guajira-Maicao","Colombia","LA GUAJIRA","MAICAO","COL.18.4_1"
-"Colombia-Guajira-Manaure","Colombia","LA GUAJIRA","MANAURE","COL.18.5_1"
-"Colombia-Guajira-San_Juan_Del_Cesar","Colombia","LA GUAJIRA","SAN JUAN DEL CESAR","COL.18.7_1"
-"Colombia-Guajira-Uribia","Colombia","LA GUAJIRA","URIBIA","COL.18.8_1"
-"Colombia-Guajira-Urumita","Colombia","LA GUAJIRA","URUMITA","COL.18.9_1"
-"Colombia-Guajira-Villanueva","Colombia","LA GUAJIRA","VILLANUEVA","COL.18.10_1"
-"Colombia-Magdalena-Aracataca","Colombia","MAGDALENA","ARACATACA","COL.19.1_1"
-"Colombia-Magdalena-Ariguani","Colombia","MAGDALENA","ARIGUANI","COL.19.2_1"
-"Colombia-Magdalena-Cienaga","Colombia","MAGDALENA","CIENAGA","COL.19.5_1"
-"Colombia-Magdalena-El_Banco","Colombia","MAGDALENA","EL BANCO","COL.19.6_1"
-"Colombia-Magdalena-El_Pinon","Colombia","MAGDALENA","EL PINON","COL.19.7_1"
-"Colombia-Magdalena-Fundacion","Colombia","MAGDALENA","FUNDACION","COL.19.8_1"
-"Colombia-Magdalena-Guamal","Colombia","MAGDALENA","GUAMAL","COL.19.9_1"
-"Colombia-Magdalena-Pedraza","Colombia","MAGDALENA","PEDRAZA","COL.19.10_1"
-"Colombia-Magdalena-Pivijay","Colombia","MAGDALENA","PIVIJAY","COL.19.11_1"
-"Colombia-Magdalena-Plato","Colombia","MAGDALENA","PLATO","COL.19.12_1"
-"Colombia-Magdalena-Remolino","Colombia","MAGDALENA","REMOLINO","COL.19.14_1"
-"Colombia-Magdalena-Salamina","Colombia","MAGDALENA","SALAMINA","COL.19.15_1"
-"Colombia-Magdalena-San_Sebastian_De_Buenavista","Colombia","MAGDALENA","SAN SEBASTIAN DE BUENAVISTA","COL.19.16_1"
-"Colombia-Magdalena-San_Zenon","Colombia","MAGDALENA","SAN ZENON","COL.19.17_1"
-"Colombia-Magdalena-Santa_Ana","Colombia","MAGDALENA","SANTA ANA","COL.19.18_1"
-"Colombia-Magdalena-Tenerife","Colombia","MAGDALENA","TENERIFE","COL.19.20_1"
-"Colombia-Meta-Villavicencio","Colombia","META","VILLAVICENCIO","COL.20.28_1"
-"Colombia-Meta-Acacias","Colombia","META","ACACIAS","COL.20.1_1"
-"Colombia-Meta-Barranca_De_Upia","Colombia","META","BARRANCA DE UPIA","COL.20.2_1"
-"Colombia-Meta-Cabuyaro","Colombia","META","CABUYARO","COL.20.3_1"
-"Colombia-Meta-Castilla_La_Nueva","Colombia","META","CASTILLA LA NUEVA","COL.20.4_1"
-"Colombia-Meta-Cumaral","Colombia","META","CUMARAL","COL.20.5_1"
-"Colombia-Meta-El_Calvario","Colombia","META","EL CALVARIO","COL.20.6_1"
-"Colombia-Meta-El_Castillo","Colombia","META","EL CASTILLO","COL.20.7_1"
-"Colombia-Meta-El_Dorado","Colombia","META","EL DORADO","COL.20.8_1"
-"Colombia-Meta-Fuente_De_Oro","Colombia","META","FUENTE DE ORO","COL.20.9_1"
-"Colombia-Meta-Granada","Colombia","META","GRANADA","COL.20.10_1"
-"Colombia-Meta-Guamal","Colombia","META","GUAMAL","COL.20.11_1"
-"Colombia-Meta-Mapiripan","Colombia","META","MAPIRIPAN","COL.20.15_1"
-"Colombia-Meta-Mesetas","Colombia","META","MESETAS","COL.20.16_1"
-"Colombia-Meta-La_Macarena","Colombia","META","LA MACARENA","COL.20.12_1"
-"Colombia-Meta-Lejanias","Colombia","META","LEJANIAS","COL.20.14_1"
-"Colombia-Meta-Puerto_Concordia","Colombia","META","PUERTO CONCORDIA","COL.20.17_1"
-"Colombia-Meta-Puerto_Gaitan","Colombia","META","PUERTO GAITAN","COL.20.18_1"
-"Colombia-Meta-Puerto_Lopez","Colombia","META","PUERTO LOPEZ","COL.20.20_1"
-"Colombia-Meta-Puerto_Lleras","Colombia","META","PUERTO LLERAS","COL.20.19_1"
-"Colombia-Meta-Puerto_Rico","Colombia","META","PUERTO RICO","COL.20.21_1"
-"Colombia-Meta-Restrepo","Colombia","META","RESTREPO","COL.20.22_1"
-"Colombia-Meta-San_Carlos_De_Guaroa","Colombia","META","SAN CARLOS DE GUAROA","COL.20.23_1"
-"Colombia-Meta-San_Juan_De_Arama","Colombia","META","SAN JUAN DE ARAMA","COL.20.24_1"
-"Colombia-Meta-San_Juanito","Colombia","META","SAN JUANITO","COL.20.25_1"
-"Colombia-Meta-San_Martin","Colombia","META","SAN MARTIN","COL.20.27_1"
-"Colombia-Narino-Alban","Colombia","NARINO","ALBAN","COL.21.1_1"
-"Colombia-Narino-Aldana","Colombia","NARINO","ALDANA","COL.21.2_1"
-"Colombia-Narino-Ancuya","Colombia","NARINO","ANCUYA","COL.21.3_1"
-"Colombia-Narino-Arboleda","Colombia","NARINO","ARBOLEDA","COL.21.4_1"
-"Colombia-Narino-Barbacoas","Colombia","NARINO","BARBACOAS","COL.21.5_1"
-"Colombia-Narino-Belen","Colombia","NARINO","BELEN","COL.21.6_1"
-"Colombia-Narino-Buesaco","Colombia","NARINO","BUESACO","COL.21.7_1"
-"Colombia-Narino-Colon","Colombia","NARINO","COLON","COL.21.9_1"
-"Colombia-Narino-Consaca","Colombia","NARINO","CONSACA","COL.21.10_1"
-"Colombia-Narino-Contadero","Colombia","NARINO","CONTADERO","COL.21.11_1"
-"Colombia-Narino-Cordoba","Colombia","NARINO","CORDOBA","COL.21.12_1"
-"Colombia-Narino-Cuaspud","Colombia","NARINO","CUASPUD","COL.21.13_1"
-"Colombia-Narino-Cumbal","Colombia","NARINO","CUMBAL","COL.21.14_1"
-"Colombia-Narino-Cumbitara","Colombia","NARINO","CUMBITARA","COL.21.15_1"
-"Colombia-Narino-Chachagui","Colombia","NARINO","CHACHAGUI","COL.21.8_1"
-"Colombia-Narino-El_Charco","Colombia","NARINO","EL CHARCO","COL.21.16_1"
-"Colombia-Narino-El_Rosario","Colombia","NARINO","EL ROSARIO","COL.21.17_1"
-"Colombia-Narino-El_Tablon_De_Gomez","Colombia","NARINO","EL TABLON DE GOMEZ","COL.21.18_1"
-"Colombia-Narino-El_Tambo","Colombia","NARINO","EL TAMBO","COL.21.19_1"
-"Colombia-Narino-Funes","Colombia","NARINO","FUNES","COL.21.21_1"
-"Colombia-Narino-Guachucal","Colombia","NARINO","GUACHUCAL","COL.21.22_1"
-"Colombia-Narino-Guaitarilla","Colombia","NARINO","GUAITARILLA","COL.21.23_1"
-"Colombia-Narino-Gualmatan","Colombia","NARINO","GUALMATAN","COL.21.24_1"
-"Colombia-Narino-Iles","Colombia","NARINO","ILES","COL.21.25_1"
-"Colombia-Narino-Imues","Colombia","NARINO","IMUES","COL.21.26_1"
-"Colombia-Narino-Ipiales","Colombia","NARINO","IPIALES","COL.21.27_1"
-"Colombia-Narino-La_Cruz","Colombia","NARINO","LA CRUZ","COL.21.28_1"
-"Colombia-Narino-La_Florida","Colombia","NARINO","LA FLORIDA","COL.21.29_1"
-"Colombia-Narino-La_Llanada","Colombia","NARINO","LA LLANADA","COL.21.30_1"
-"Colombia-Narino-La_Tola","Colombia","NARINO","LA TOLA","COL.21.31_1"
-"Colombia-Narino-Leiva","Colombia","NARINO","LEIVA","COL.21.33_1"
-"Colombia-Narino-Linares","Colombia","NARINO","LINARES","COL.21.34_1"
-"Colombia-Narino-Los_Andes","Colombia","NARINO","LOS ANDES","COL.21.35_1"
-"Colombia-Narino-Mallama","Colombia","NARINO","MALLAMA","COL.21.37_1"
-"Colombia-Narino-Mosquera","Colombia","NARINO","MOSQUERA","COL.21.38_1"
-"Colombia-Narino-Olaya_Herrera","Colombia","NARINO","OLAYA HERRERA","COL.21.39_1"
-"Colombia-Narino-Ospina","Colombia","NARINO","OSPINA","COL.21.40_1"
-"Colombia-Narino-Francisco_Pizarro","Colombia","NARINO","FRANCISCO PIZARRO","COL.21.20_1"
-"Colombia-Narino-Policarpa","Colombia","NARINO","POLICARPA","COL.21.41_1"
-"Colombia-Narino-Potosi","Colombia","NARINO","POTOSI","COL.21.42_1"
-"Colombia-Narino-Providencia","Colombia","NARINO","PROVIDENCIA","COL.21.43_1"
-"Colombia-Narino-Puerres","Colombia","NARINO","PUERRES","COL.21.44_1"
-"Colombia-Narino-Pupiales","Colombia","NARINO","PUPIALES","COL.21.45_1"
-"Colombia-Narino-Ricaurte","Colombia","NARINO","RICAURTE","COL.21.46_1"
-"Colombia-Narino-Roberto_Payan","Colombia","NARINO","ROBERTO PAYAN","COL.21.47_1"
-"Colombia-Narino-Samaniego","Colombia","NARINO","SAMANIEGO","COL.21.48_1"
-"Colombia-Narino-Sandona","Colombia","NARINO","SANDONA","COL.21.54_1"
-"Colombia-Narino-San_Bernardo","Colombia","NARINO","SAN BERNARDO","COL.21.49_1"
-"Colombia-Narino-San_Lorenzo","Colombia","NARINO","SAN LORENZO","COL.21.51_1"
-"Colombia-Narino-San_Pablo","Colombia","NARINO","SAN PABLO","COL.21.52_1"
-"Colombia-Narino-San_Pedro_De_Cartago","Colombia","NARINO","SAN PEDRO DE CARTAGO","COL.21.53_1"
-"Colombia-Narino-Santa_Barbara","Colombia","NARINO","SANTA BARBARA","COL.21.55_1"
-"Colombia-Narino-Sapuyes","Colombia","NARINO","SAPUYES","COL.21.57_1"
-"Colombia-Narino-Taminango","Colombia","NARINO","TAMINANGO","COL.21.58_1"
-"Colombia-Narino-Tangua","Colombia","NARINO","TANGUA","COL.21.59_1"
-"Colombia-Narino-Tuquerres","Colombia","NARINO","TUQUERRES","COL.21.61_1"
-"Colombia-Narino-Yacuanquer","Colombia","NARINO","YACUANQUER","COL.21.62_1"
-"Colombia-Quindio-Armenia","Colombia","QUINDIO","ARMENIA","COL.24.1_1"
-"Colombia-Quindio-Buenavista","Colombia","QUINDIO","BUENAVISTA","COL.24.2_1"
-"Colombia-Quindio-Calarca","Colombia","QUINDIO","CALARCA","COL.24.3_1"
-"Colombia-Quindio-Circasia","Colombia","QUINDIO","CIRCASIA","COL.24.4_1"
-"Colombia-Quindio-Cordoba","Colombia","QUINDIO","CORDOBA","COL.24.5_1"
-"Colombia-Quindio-Filandia","Colombia","QUINDIO","FILANDIA","COL.24.6_1"
-"Colombia-Quindio-Genova","Colombia","QUINDIO","GENOVA","COL.24.7_1"
-"Colombia-Quindio-La_Tebaida","Colombia","QUINDIO","LA TEBAIDA","COL.24.8_1"
-"Colombia-Quindio-Montenegro","Colombia","QUINDIO","MONTENEGRO","COL.24.9_1"
-"Colombia-Quindio-Pijao","Colombia","QUINDIO","PIJAO","COL.24.10_1"
-"Colombia-Quindio-Quimbaya","Colombia","QUINDIO","QUIMBAYA","COL.24.11_1"
-"Colombia-Quindio-Salento","Colombia","QUINDIO","SALENTO","COL.24.12_1"
-"Colombia-Risaralda-Pereira","Colombia","RISARALDA","PEREIRA","COL.25.10_1"
-"Colombia-Risaralda-Apia","Colombia","RISARALDA","APIA","COL.25.1_1"
-"Colombia-Risaralda-Balboa","Colombia","RISARALDA","BALBOA","COL.25.2_1"
-"Colombia-Risaralda-Belen_De_Umbria","Colombia","RISARALDA","BELEN DE UMBRIA","COL.25.3_1"
-"Colombia-Risaralda-Dosquebradas","Colombia","RISARALDA","DOSQUEBRADAS","COL.25.4_1"
-"Colombia-Risaralda-Guatica","Colombia","RISARALDA","GUATICA","COL.25.5_1"
-"Colombia-Risaralda-La_Celia","Colombia","RISARALDA","LA CELIA","COL.25.6_1"
-"Colombia-Risaralda-La_Virginia","Colombia","RISARALDA","LA VIRGINIA","COL.25.7_1"
-"Colombia-Risaralda-Marsella","Colombia","RISARALDA","MARSELLA","COL.25.8_1"
-"Colombia-Risaralda-Mistrato","Colombia","RISARALDA","MISTRATO","COL.25.9_1"
-"Colombia-Risaralda-Pueblo_Rico","Colombia","RISARALDA","PUEBLO RICO","COL.25.11_1"
-"Colombia-Risaralda-Quinchia","Colombia","RISARALDA","QUINCHIA","COL.25.12_1"
-"Colombia-Risaralda-Santa_Rosa_De_Cabal","Colombia","RISARALDA","SANTA ROSA DE CABAL","COL.25.13_1"
-"Colombia-Risaralda-Santuario","Colombia","RISARALDA","SANTUARIO","COL.25.14_1"
-"Colombia-Santander-Bucaramanga","Colombia","SANTANDER","BUCARAMANGA","COL.27.9_1"
-"Colombia-Santander-Aguada","Colombia","SANTANDER","AGUADA","COL.27.1_1"
-"Colombia-Santander-Albania","Colombia","SANTANDER","ALBANIA","COL.27.2_1"
-"Colombia-Santander-Aratoca","Colombia","SANTANDER","ARATOCA","COL.27.3_1"
-"Colombia-Santander-Barbosa","Colombia","SANTANDER","BARBOSA","COL.27.4_1"
-"Colombia-Santander-Barichara","Colombia","SANTANDER","BARICHARA","COL.27.5_1"
-"Colombia-Santander-Barrancabermeja","Colombia","SANTANDER","BARRANCABERMEJA","COL.27.6_1"
-"Colombia-Santander-Betulia","Colombia","SANTANDER","BETULIA","COL.27.7_1"
-"Colombia-Santander-Bolivar","Colombia","SANTANDER","BOLIVAR","COL.27.8_1"
-"Colombia-Santander-Cabrera","Colombia","SANTANDER","CABRERA","COL.27.10_1"
-"Colombia-Santander-California","Colombia","SANTANDER","CALIFORNIA","COL.27.11_1"
-"Colombia-Santander-Capitanejo","Colombia","SANTANDER","CAPITANEJO","COL.27.12_1"
-"Colombia-Santander-Carcasi","Colombia","SANTANDER","CARCASI","COL.27.13_1"
-"Colombia-Santander-Cepita","Colombia","SANTANDER","CEPITA","COL.27.14_1"
-"Colombia-Santander-Cerrito","Colombia","SANTANDER","CERRITO","COL.27.15_1"
-"Colombia-Santander-Charala","Colombia","SANTANDER","CHARALA","COL.27.16_1"
-"Colombia-Santander-Charta","Colombia","SANTANDER","CHARTA","COL.27.17_1"
-"Colombia-Santander-Chima","Colombia","SANTANDER","CHIMA","COL.27.18_1"
-"Colombia-Santander-Chipata","Colombia","SANTANDER","CHIPATA","COL.27.19_1"
-"Colombia-Santander-Cimitarra","Colombia","SANTANDER","CIMITARRA","COL.27.20_1"
-"Colombia-Santander-Concepcion","Colombia","SANTANDER","CONCEPCION","COL.27.21_1"
-"Colombia-Santander-Confines","Colombia","SANTANDER","CONFINES","COL.27.22_1"
-"Colombia-Santander-Contratacion","Colombia","SANTANDER","CONTRATACION","COL.27.23_1"
-"Colombia-Santander-Coromoro","Colombia","SANTANDER","COROMORO","COL.27.24_1"
-"Colombia-Santander-Curiti","Colombia","SANTANDER","CURITI","COL.27.25_1"
-"Colombia-Santander-El_Carmen_De_Chucuri","Colombia","SANTANDER","EL CARMEN DE CHUCURI","COL.27.26_1"
-"Colombia-Santander-El_Guacamayo","Colombia","SANTANDER","EL GUACAMAYO","COL.27.27_1"
-"Colombia-Santander-El_Penon","Colombia","SANTANDER","EL PENON","COL.27.28_1"
-"Colombia-Santander-El_Playon","Colombia","SANTANDER","EL PLAYON","COL.27.29_1"
-"Colombia-Santander-Encino","Colombia","SANTANDER","ENCINO","COL.27.30_1"
-"Colombia-Santander-Enciso","Colombia","SANTANDER","ENCISO","COL.27.31_1"
-"Colombia-Santander-Florian","Colombia","SANTANDER","FLORIAN","COL.27.32_1"
-"Colombia-Santander-Floridablanca","Colombia","SANTANDER","FLORIDABLANCA","COL.27.33_1"
-"Colombia-Santander-Galan","Colombia","SANTANDER","GALAN","COL.27.34_1"
-"Colombia-Santander-Gambita","Colombia","SANTANDER","GAMBITA","COL.27.35_1"
-"Colombia-Santander-Giron","Colombia","SANTANDER","GIRON","COL.27.36_1"
-"Colombia-Santander-Guaca","Colombia","SANTANDER","GUACA","COL.27.37_1"
-"Colombia-Santander-Guadalupe","Colombia","SANTANDER","GUADALUPE","COL.27.38_1"
-"Colombia-Santander-Guapota","Colombia","SANTANDER","GUAPOTA","COL.27.39_1"
-"Colombia-Santander-Guavata","Colombia","SANTANDER","GUAVATA","COL.27.40_1"
-"Colombia-Santander-Hato","Colombia","SANTANDER","HATO","COL.27.42_1"
-"Colombia-Santander-Jesus_Maria","Colombia","SANTANDER","JESUS MARIA","COL.27.43_1"
-"Colombia-Santander-Jordan","Colombia","SANTANDER","JORDAN","COL.27.44_1"
-"Colombia-Santander-La_Belleza","Colombia","SANTANDER","LA BELLEZA","COL.27.45_1"
-"Colombia-Santander-Landazuri","Colombia","SANTANDER","LANDAZURI","COL.27.47_1"
-"Colombia-Santander-La_Paz","Colombia","SANTANDER","LA PAZ","COL.27.46_1"
-"Colombia-Santander-Lebrija","Colombia","SANTANDER","LEBRIJA","COL.27.48_1"
-"Colombia-Santander-Los_Santos","Colombia","SANTANDER","LOS SANTOS","COL.27.49_1"
-"Colombia-Santander-Macaravita","Colombia","SANTANDER","MACARAVITA","COL.27.50_1"
-"Colombia-Santander-Malaga","Colombia","SANTANDER","MALAGA","COL.27.51_1"
-"Colombia-Santander-Matanza","Colombia","SANTANDER","MATANZA","COL.27.52_1"
-"Colombia-Santander-Mogotes","Colombia","SANTANDER","MOGOTES","COL.27.53_1"
-"Colombia-Santander-Molagavita","Colombia","SANTANDER","MOLAGAVITA","COL.27.54_1"
-"Colombia-Santander-Ocamonte","Colombia","SANTANDER","OCAMONTE","COL.27.55_1"
-"Colombia-Santander-Oiba","Colombia","SANTANDER","OIBA","COL.27.56_1"
-"Colombia-Santander-Onzaga","Colombia","SANTANDER","ONZAGA","COL.27.57_1"
-"Colombia-Santander-Palmar","Colombia","SANTANDER","PALMAR","COL.27.58_1"
-"Colombia-Santander-Palmas_Del_Socorro","Colombia","SANTANDER","PALMAS DEL SOCORRO","COL.27.59_1"
-"Colombia-Santander-Paramo","Colombia","SANTANDER","PARAMO","COL.27.60_1"
-"Colombia-Santander-Piedecuesta","Colombia","SANTANDER","PIEDECUESTA","COL.27.61_1"
-"Colombia-Santander-Pinchote","Colombia","SANTANDER","PINCHOTE","COL.27.62_1"
-"Colombia-Santander-Puente_Nacional","Colombia","SANTANDER","PUENTE NACIONAL","COL.27.63_1"
-"Colombia-Santander-Puerto_Parra","Colombia","SANTANDER","PUERTO PARRA","COL.27.64_1"
-"Colombia-Santander-Puerto_Wilches","Colombia","SANTANDER","PUERTO WILCHES","COL.27.65_1"
-"Colombia-Santander-Rionegro","Colombia","SANTANDER","RIONEGRO","COL.27.66_1"
-"Colombia-Santander-Sabana_De_Torres","Colombia","SANTANDER","SABANA DE TORRES","COL.27.67_1"
-"Colombia-Santander-San_Benito","Colombia","SANTANDER","SAN BENITO","COL.27.69_1"
-"Colombia-Santander-San_Gil","Colombia","SANTANDER","SAN GIL","COL.27.70_1"
-"Colombia-Santander-San_Joaquin","Colombia","SANTANDER","SAN JOAQUIN","COL.27.71_1"
-"Colombia-Santander-San_Jose_De_Miranda","Colombia","SANTANDER","SAN JOSE DE MIRANDA","COL.27.72_1"
-"Colombia-Santander-San_Miguel","Colombia","SANTANDER","SAN MIGUEL","COL.27.73_1"
-"Colombia-Santander-San_Vicente_De_Chucuri","Colombia","SANTANDER","SAN VICENTE DE CHUCURI","COL.27.74_1"
-"Colombia-Santander-Santa_Barbara","Colombia","SANTANDER","SANTA BARBARA","COL.27.75_1"
-"Colombia-Santander-Santa_Helena_Del_Opon","Colombia","SANTANDER","SANTA HELENA DEL OPON","COL.27.76_1"
-"Colombia-Santander-Simacota","Colombia","SANTANDER","SIMACOTA","COL.27.77_1"
-"Colombia-Santander-Socorro","Colombia","SANTANDER","SOCORRO","COL.27.78_1"
-"Colombia-Santander-Suaita","Colombia","SANTANDER","SUAITA","COL.27.79_1"
-"Colombia-Santander-Sucre","Colombia","SANTANDER","SUCRE","COL.27.80_1"
-"Colombia-Santander-Surata","Colombia","SANTANDER","SURATA","COL.27.81_1"
-"Colombia-Santander-Tona","Colombia","SANTANDER","TONA","COL.27.82_1"
-"Colombia-Santander-Valle_De_San_Jose","Colombia","SANTANDER","VALLE DE SAN JOSE","COL.27.83_1"
-"Colombia-Santander-Velez","Colombia","SANTANDER","VELEZ","COL.27.84_1"
-"Colombia-Santander-Vetas","Colombia","SANTANDER","VETAS","COL.27.85_1"
-"Colombia-Santander-Villanueva","Colombia","SANTANDER","VILLANUEVA","COL.27.86_1"
-"Colombia-Santander-Zapatoca","Colombia","SANTANDER","ZAPATOCA","COL.27.87_1"
-"Colombia-Sucre-Sincelejo","Colombia","SUCRE","SINCELEJO","COL.28.21_1"
-"Colombia-Sucre-Buenavista","Colombia","SUCRE","BUENAVISTA","COL.28.1_1"
-"Colombia-Sucre-Caimito","Colombia","SUCRE","CAIMITO","COL.28.2_1"
-"Colombia-Sucre-Coloso","Colombia","SUCRE","COLOSO","COL.28.4_1"
-"Colombia-Sucre-Corozal","Colombia","SUCRE","COROZAL","COL.28.5_1"
-"Colombia-Sucre-Chalan","Colombia","SUCRE","CHALAN","COL.28.3_1"
-"Colombia-Sucre-Galeras","Colombia","SUCRE","GALERAS","COL.28.6_1"
-"Colombia-Sucre-Guaranda","Colombia","SUCRE","GUARANDA","COL.28.7_1"
-"Colombia-Sucre-Los_Palmitos","Colombia","SUCRE","LOS PALMITOS","COL.28.9_1"
-"Colombia-Sucre-Majagual","Colombia","SUCRE","MAJAGUAL","COL.28.10_1"
-"Colombia-Sucre-Morroa","Colombia","SUCRE","MORROA","COL.28.11_1"
-"Colombia-Sucre-Ovejas","Colombia","SUCRE","OVEJAS","COL.28.12_1"
-"Colombia-Sucre-Sampues","Colombia","SUCRE","SAMPUES","COL.28.13_1"
-"Colombia-Sucre-San_Benito_Abad","Colombia","SUCRE","SAN BENITO ABAD","COL.28.15_1"
-"Colombia-Sucre-San_Juan_De_Betulia","Colombia","SUCRE","SAN JUAN DE BETULIA","COL.28.16_1"
-"Colombia-Sucre-San_Marcos","Colombia","SUCRE","SAN MARCOS","COL.28.17_1"
-"Colombia-Sucre-San_Onofre","Colombia","SUCRE","SAN ONOFRE","COL.28.18_1"
-"Colombia-Sucre-San_Pedro","Colombia","SUCRE","SAN PEDRO","COL.28.19_1"
-"Colombia-Sucre-Sucre","Colombia","SUCRE","SUCRE","COL.28.22_1"
-"Colombia-Tolima-Ibague","Colombia","TOLIMA","IBAGUE","COL.29.22_1"
-"Colombia-Tolima-Alpujarra","Colombia","TOLIMA","ALPUJARRA","COL.29.1_1"
-"Colombia-Tolima-Alvarado","Colombia","TOLIMA","ALVARADO","COL.29.2_1"
-"Colombia-Tolima-Ambalema","Colombia","TOLIMA","AMBALEMA","COL.29.3_1"
-"Colombia-Tolima-Anzoategui","Colombia","TOLIMA","ANZOATEGUI","COL.29.4_1"
-"Colombia-Tolima-Armero","Colombia","TOLIMA","ARMERO","COL.29.5_1"
-"Colombia-Tolima-Ataco","Colombia","TOLIMA","ATACO","COL.29.6_1"
-"Colombia-Tolima-Cajamarca","Colombia","TOLIMA","CAJAMARCA","COL.29.7_1"
-"Colombia-Tolima-Carmen_De_Apicala","Colombia","TOLIMA","CARMEN DE APICALA","COL.29.8_1"
-"Colombia-Tolima-Casabianca","Colombia","TOLIMA","CASABIANCA","COL.29.9_1"
-"Colombia-Tolima-Chaparral","Colombia","TOLIMA","CHAPARRAL","COL.29.10_1"
-"Colombia-Tolima-Coello","Colombia","TOLIMA","COELLO","COL.29.11_1"
-"Colombia-Tolima-Coyaima","Colombia","TOLIMA","COYAIMA","COL.29.12_1"
-"Colombia-Tolima-Cunday","Colombia","TOLIMA","CUNDAY","COL.29.13_1"
-"Colombia-Tolima-Dolores","Colombia","TOLIMA","DOLORES","COL.29.14_1"
-"Colombia-Tolima-Espinal","Colombia","TOLIMA","ESPINAL","COL.29.15_1"
-"Colombia-Tolima-Falan","Colombia","TOLIMA","FALAN","COL.29.16_1"
-"Colombia-Tolima-Flandes","Colombia","TOLIMA","FLANDES","COL.29.17_1"
-"Colombia-Tolima-Fresno","Colombia","TOLIMA","FRESNO","COL.29.18_1"
-"Colombia-Tolima-Guamo","Colombia","TOLIMA","GUAMO","COL.29.19_1"
-"Colombia-Tolima-Herveo","Colombia","TOLIMA","HERVEO","COL.29.20_1"
-"Colombia-Tolima-Honda","Colombia","TOLIMA","HONDA","COL.29.21_1"
-"Colombia-Tolima-Icononzo","Colombia","TOLIMA","ICONONZO","COL.29.23_1"
-"Colombia-Tolima-Lerida","Colombia","TOLIMA","LERIDA","COL.29.24_1"
-"Colombia-Tolima-Libano","Colombia","TOLIMA","LIBANO","COL.29.25_1"
-"Colombia-Tolima-Melgar","Colombia","TOLIMA","MELGAR","COL.29.26_1"
-"Colombia-Tolima-Murillo","Colombia","TOLIMA","MURILLO","COL.29.27_1"
-"Colombia-Tolima-Natagaima","Colombia","TOLIMA","NATAGAIMA","COL.29.28_1"
-"Colombia-Tolima-Ortega","Colombia","TOLIMA","ORTEGA","COL.29.29_1"
-"Colombia-Tolima-Piedras","Colombia","TOLIMA","PIEDRAS","COL.29.30_1"
-"Colombia-Tolima-Planadas","Colombia","TOLIMA","PLANADAS","COL.29.31_1"
-"Colombia-Tolima-Prado","Colombia","TOLIMA","PRADO","COL.29.32_1"
-"Colombia-Tolima-Purificacion","Colombia","TOLIMA","PURIFICACION","COL.29.33_1"
-"Colombia-Tolima-Rioblanco","Colombia","TOLIMA","RIOBLANCO","COL.29.34_1"
-"Colombia-Tolima-Roncesvalles","Colombia","TOLIMA","RONCESVALLES","COL.29.35_1"
-"Colombia-Tolima-Rovira","Colombia","TOLIMA","ROVIRA","COL.29.36_1"
-"Colombia-Tolima-Saldana","Colombia","TOLIMA","SALDANA","COL.29.37_1"
-"Colombia-Tolima-San_Antonio","Colombia","TOLIMA","SAN ANTONIO","COL.29.38_1"
-"Colombia-Tolima-San_Luis","Colombia","TOLIMA","SAN LUIS","COL.29.39_1"
-"Colombia-Tolima-Santa_Isabel","Colombia","TOLIMA","SANTA ISABEL","COL.29.41_1"
-"Colombia-Tolima-Suarez","Colombia","TOLIMA","SUAREZ","COL.29.42_1"
-"Colombia-Tolima-Valle_De_San_Juan","Colombia","TOLIMA","VALLE DE SAN JUAN","COL.29.43_1"
-"Colombia-Tolima-Venadillo","Colombia","TOLIMA","VENADILLO","COL.29.44_1"
-"Colombia-Tolima-Villahermosa","Colombia","TOLIMA","VILLAHERMOSA","COL.29.45_1"
-"Colombia-Tolima-Villarrica","Colombia","TOLIMA","VILLARRICA","COL.29.46_1"
-"Colombia-Valle_Del_Cauca-Alcala","Colombia","VALLE DEL CAUCA","ALCALA","COL.30.1_1"
-"Colombia-Valle_Del_Cauca-Andalucia","Colombia","VALLE DEL CAUCA","ANDALUCIA","COL.30.2_1"
-"Colombia-Valle_Del_Cauca-Ansermanuevo","Colombia","VALLE DEL CAUCA","ANSERMANUEVO","COL.30.3_1"
-"Colombia-Valle_Del_Cauca-Argelia","Colombia","VALLE DEL CAUCA","ARGELIA","COL.30.4_1"
-"Colombia-Valle_Del_Cauca-Bolivar","Colombia","VALLE DEL CAUCA","BOLIVAR","COL.30.5_1"
-"Colombia-Valle_Del_Cauca-Buenaventura","Colombia","VALLE DEL CAUCA","BUENAVENTURA","COL.30.6_1"
-"Colombia-Valle_Del_Cauca-Guadalajara_De_Buga","Colombia","VALLE DEL CAUCA","GUADALAJARA DE BUGA","COL.30.20_1"
-"Colombia-Valle_Del_Cauca-Bugalagrande","Colombia","VALLE DEL CAUCA","BUGALAGRANDE","COL.30.7_1"
-"Colombia-Valle_Del_Cauca-Caicedonia","Colombia","VALLE DEL CAUCA","CAICEDONIA","COL.30.8_1"
-"Colombia-Valle_Del_Cauca-Calima","Colombia","VALLE DEL CAUCA","CALIMA","COL.30.9_1"
-"Colombia-Valle_Del_Cauca-Candelaria","Colombia","VALLE DEL CAUCA","CANDELARIA","COL.30.10_1"
-"Colombia-Valle_Del_Cauca-Cartago","Colombia","VALLE DEL CAUCA","CARTAGO","COL.30.11_1"
-"Colombia-Valle_Del_Cauca-Dagua","Colombia","VALLE DEL CAUCA","DAGUA","COL.30.12_1"
-"Colombia-Valle_Del_Cauca-El_Aguila","Colombia","VALLE DEL CAUCA","EL AGUILA","COL.30.13_1"
-"Colombia-Valle_Del_Cauca-El_Cairo","Colombia","VALLE DEL CAUCA","EL CAIRO","COL.30.14_1"
-"Colombia-Valle_Del_Cauca-El_Cerrito","Colombia","VALLE DEL CAUCA","EL CERRITO","COL.30.15_1"
-"Colombia-Valle_Del_Cauca-El_Dovio","Colombia","VALLE DEL CAUCA","EL DOVIO","COL.30.16_1"
-"Colombia-Valle_Del_Cauca-Florida","Colombia","VALLE DEL CAUCA","FLORIDA","COL.30.17_1"
-"Colombia-Valle_Del_Cauca-Ginebra","Colombia","VALLE DEL CAUCA","GINEBRA","COL.30.18_1"
-"Colombia-Valle_Del_Cauca-Guacari","Colombia","VALLE DEL CAUCA","GUACARI","COL.30.19_1"
-"Colombia-Valle_Del_Cauca-Jamundi","Colombia","VALLE DEL CAUCA","JAMUNDI","COL.30.21_1"
-"Colombia-Valle_Del_Cauca-La_Cumbre","Colombia","VALLE DEL CAUCA","LA CUMBRE","COL.30.22_1"
-"Colombia-Valle_Del_Cauca-La_Victoria","Colombia","VALLE DEL CAUCA","LA VICTORIA","COL.30.24_1"
-"Colombia-Valle_Del_Cauca-Obando","Colombia","VALLE DEL CAUCA","OBANDO","COL.30.25_1"
-"Colombia-Valle_Del_Cauca-Palmira","Colombia","VALLE DEL CAUCA","PALMIRA","COL.30.26_1"
-"Colombia-Valle_Del_Cauca-Pradera","Colombia","VALLE DEL CAUCA","PRADERA","COL.30.27_1"
-"Colombia-Valle_Del_Cauca-Restrepo","Colombia","VALLE DEL CAUCA","RESTREPO","COL.30.28_1"
-"Colombia-Valle_Del_Cauca-Riofrio","Colombia","VALLE DEL CAUCA","RIOFRIO","COL.30.29_1"
-"Colombia-Valle_Del_Cauca-Roldanillo","Colombia","VALLE DEL CAUCA","ROLDANILLO","COL.30.30_1"
-"Colombia-Valle_Del_Cauca-San_Pedro","Colombia","VALLE DEL CAUCA","SAN PEDRO","COL.30.31_1"
-"Colombia-Valle_Del_Cauca-Sevilla","Colombia","VALLE DEL CAUCA","SEVILLA","COL.30.33_1"
-"Colombia-Valle_Del_Cauca-Toro","Colombia","VALLE DEL CAUCA","TORO","COL.30.34_1"
-"Colombia-Valle_Del_Cauca-Trujillo","Colombia","VALLE DEL CAUCA","TRUJILLO","COL.30.35_1"
-"Colombia-Valle_Del_Cauca-Tulua","Colombia","VALLE DEL CAUCA","TULUA","COL.30.36_1"
-"Colombia-Valle_Del_Cauca-Ulloa","Colombia","VALLE DEL CAUCA","ULLOA","COL.30.37_1"
-"Colombia-Valle_Del_Cauca-Versalles","Colombia","VALLE DEL CAUCA","VERSALLES","COL.30.38_1"
-"Colombia-Valle_Del_Cauca-Vijes","Colombia","VALLE DEL CAUCA","VIJES","COL.30.39_1"
-"Colombia-Valle_Del_Cauca-Yotoco","Colombia","VALLE DEL CAUCA","YOTOCO","COL.30.40_1"
-"Colombia-Valle_Del_Cauca-Yumbo","Colombia","VALLE DEL CAUCA","YUMBO","COL.30.41_1"
-"Colombia-Valle_Del_Cauca-Zarzal","Colombia","VALLE DEL CAUCA","ZARZAL","COL.30.42_1"
-"Colombia-Arauca-Arauca","Colombia","ARAUCA","ARAUCA","COL.3.1_1"
-"Colombia-Arauca-Arauquita","Colombia","ARAUCA","ARAUQUITA","COL.3.2_1"
-"Colombia-Arauca-Cravo_Norte","Colombia","ARAUCA","CRAVO NORTE","COL.3.3_1"
-"Colombia-Arauca-Fortul","Colombia","ARAUCA","FORTUL","COL.3.4_1"
-"Colombia-Arauca-Puerto_Rondon","Colombia","ARAUCA","PUERTO RONDON","COL.3.5_1"
-"Colombia-Arauca-Saravena","Colombia","ARAUCA","SARAVENA","COL.3.6_1"
-"Colombia-Arauca-Tame","Colombia","ARAUCA","TAME","COL.3.7_1"
-"Colombia-Casanare-Yopal","Colombia","CASANARE","YOPAL","COL.9.19_1"
-"Colombia-Casanare-Aguazul","Colombia","CASANARE","AGUAZUL","COL.9.1_1"
-"Colombia-Casanare-Chameza","Colombia","CASANARE","CHAMEZA","COL.9.2_1"
-"Colombia-Casanare-Hato_Corozal","Colombia","CASANARE","HATO COROZAL","COL.9.3_1"
-"Colombia-Casanare-La_Salina","Colombia","CASANARE","LA SALINA","COL.9.4_1"
-"Colombia-Casanare-Mani","Colombia","CASANARE","MANI","COL.9.5_1"
-"Colombia-Casanare-Monterrey","Colombia","CASANARE","MONTERREY","COL.9.6_1"
-"Colombia-Casanare-Nunchia","Colombia","CASANARE","NUNCHIA","COL.9.7_1"
-"Colombia-Casanare-Orocue","Colombia","CASANARE","OROCUE","COL.9.8_1"
-"Colombia-Casanare-Paz_De_Ariporo","Colombia","CASANARE","PAZ DE ARIPORO","COL.9.9_1"
-"Colombia-Casanare-Pore","Colombia","CASANARE","PORE","COL.9.10_1"
-"Colombia-Casanare-Recetor","Colombia","CASANARE","RECETOR","COL.9.11_1"
-"Colombia-Casanare-Sabanalarga","Colombia","CASANARE","SABANALARGA","COL.9.12_1"
-"Colombia-Casanare-Sacama","Colombia","CASANARE","SACAMA","COL.9.13_1"
-"Colombia-Casanare-San_Luis_De_Palenque","Colombia","CASANARE","SAN LUIS DE PALENQUE","COL.9.14_1"
-"Colombia-Casanare-Tamara","Colombia","CASANARE","TAMARA","COL.9.15_1"
-"Colombia-Casanare-Tauramena","Colombia","CASANARE","TAURAMENA","COL.9.16_1"
-"Colombia-Casanare-Trinidad","Colombia","CASANARE","TRINIDAD","COL.9.17_1"
-"Colombia-Casanare-Villanueva","Colombia","CASANARE","VILLANUEVA","COL.9.18_1"
-"Colombia-Putumayo-Colon","Colombia","PUTUMAYO","COLON","COL.23.1_1"
-"Colombia-Putumayo-Orito","Colombia","PUTUMAYO","ORITO","COL.23.2_1"
-"Colombia-Putumayo-Puerto_Asis","Colombia","PUTUMAYO","PUERTO ASIS","COL.23.3_1"
-"Colombia-Putumayo-Puerto_Caicedo","Colombia","PUTUMAYO","PUERTO CAICEDO","COL.23.4_1"
-"Colombia-Putumayo-Puerto_Guzman","Colombia","PUTUMAYO","PUERTO GUZMAN","COL.23.5_1"
-"Colombia-Putumayo-Sibundoy","Colombia","PUTUMAYO","SIBUNDOY","COL.23.10_1"
-"Colombia-Putumayo-San_Francisco","Colombia","PUTUMAYO","SAN FRANCISCO","COL.23.7_1"
-"Colombia-Putumayo-Santiago","Colombia","PUTUMAYO","SANTIAGO","COL.23.9_1"
-"Colombia-Putumayo-Valle_Del_Guamuez","Colombia","PUTUMAYO","VALLE DEL GUAMUEZ","COL.23.11_1"
-"Colombia-Putumayo-Villagarzon","Colombia","PUTUMAYO","VILLAGARZON","COL.23.12_1"
-"Colombia-Amazonas-Leticia","Colombia","AMAZONAS","LETICIA","COL.1.4_1"
-"Colombia-Amazonas-El_Encanto","Colombia","AMAZONAS","EL ENCANTO","COL.1.1_1"
-"Colombia-Amazonas-La_Chorrera","Colombia","AMAZONAS","LA CHORRERA","COL.1.2_1"
-"Colombia-Amazonas-La_Pedrera","Colombia","AMAZONAS","LA PEDRERA","COL.1.3_1"
-"Colombia-Amazonas-Puerto_Narino","Colombia","AMAZONAS","PUERTO NARINO","COL.1.6_1"
-"Colombia-Amazonas-Puerto_Santander","Colombia","AMAZONAS","PUERTO SANTANDER","COL.1.7_1"
-"Colombia-Amazonas-Tarapaca","Colombia","AMAZONAS","TARAPACA","COL.1.8_1"
-"Colombia-Guainia-Barranco_Minas","Colombia","GUAINIA","BARRANCO MINAS","COL.15.1_1"
-"Colombia-Guainia-San_Felipe","Colombia","GUAINIA","SAN FELIPE","COL.15.7_1"
-"Colombia-Guainia-Puerto_Colombia","Colombia","GUAINIA","PUERTO COLOMBIA","COL.15.5_1"
-"Colombia-Guainia-La_Guadalupe","Colombia","GUAINIA","LA GUADALUPE","COL.15.3_1"
-"Colombia-Guainia-Cacahual","Colombia","GUAINIA","CACAHUAL","COL.15.2_1"
-"Colombia-Guainia-Pana_Pana","Colombia","GUAINIA","PANA PANA","COL.15.4_1"
-"Colombia-Guaviare-San_Jose_Del_Guaviare","Colombia","GUAVIARE","SAN JOSE DEL GUAVIARE","COL.16.4_1"
-"Colombia-Guaviare-Calamar","Colombia","GUAVIARE","CALAMAR","COL.16.1_1"
-"Colombia-Guaviare-El_Retorno","Colombia","GUAVIARE","EL RETORNO","COL.16.2_1"
-"Colombia-Guaviare-Miraflores","Colombia","GUAVIARE","MIRAFLORES","COL.16.3_1"
-"Colombia-Vaupes-Mitu","Colombia","VAUPES","MITU","COL.31.2_1"
-"Colombia-Vaupes-Caruru","Colombia","VAUPES","CARURU","COL.31.1_1"
-"Colombia-Vaupes-Pacoa","Colombia","VAUPES","PACOA","COL.31.3_1"
-"Colombia-Vaupes-Taraira","Colombia","VAUPES","TARAIRA","COL.31.5_1"
-"Colombia-Vaupes-Yavarate","Colombia","VAUPES","YAVARATE","COL.31.6_1"
-"Colombia-Vichada-Puerto_Carreno","Colombia","VICHADA","PUERTO CARRENO","COL.32.3_1"
-"Colombia-Vichada-La_Primavera","Colombia","VICHADA","LA PRIMAVERA","COL.32.2_1"
-"Colombia-Vichada-Santa_Rosalia","Colombia","VICHADA","SANTA ROSALIA","COL.32.6_1"
-"Colombia-Vichada-Cumaribo","Colombia","VICHADA","CUMARIBO","COL.32.1_1"
-"Colombia-Sucre-Tolu","Colombia","SUCRE","TOLU","COL.28.23_1"
-"Colombia-Sucre-Toluviejo","Colombia","SUCRE","TOLUVIEJO","COL.28.24_1"
-NA,"Colombia","AMAZONAS","MIRITI","COL.1.5_1"
-NA,"Colombia","AMAZONAS","MIRITI PARANA","COL.1.5_1"
-NA,"Colombia","ANTIOQUIA","CAROLINA","COL.2.31_1"
-NA,"Colombia","ANTIOQUIA","CIUDAD BOLIVAR","COL.2.20_1"
-NA,"Colombia","ANTIOQUIA","ITAGUI","COL.2.58_1"
-NA,"Colombia","ANTIOQUIA","LA UNION","COL.2.64_1"
-NA,"Colombia","ANTIOQUIA","PE√êOL","COL.2.76_1"
-NA,"Colombia","ANTIOQUIA","PEÃ°OL","COL.2.76_1"
-NA,"Colombia","ANTIOQUIA","PEDOL","COL.2.76_1"
-NA,"Colombia","ANTIOQUIA","SAN PEDRO","COL.2.95_1"
-NA,"Colombia","ANTIOQUIA","SANTAFE DE ANTIOQUIA","COL.2.101_1"
-NA,"Colombia","ATLANTICO","BARRANQUILLA","COL.4.2_1"
-NA,"Colombia","BOGOTA","BARRIOS UNIDOS 12 DE OCTUBRE","COL.14.79_1"
-NA,"Colombia","BOGOTA","BARRIOS UNIDOS LOS ANDES","COL.14.79_1"
-NA,"Colombia","BOGOTA","BOGOTA, D.C.","COL.14.79_1"
-NA,"Colombia","BOGOTA","BOSA BOSA CENTRAL","COL.14.79_1"
-NA,"Colombia","BOGOTA","BOSA TINTAL SUR","COL.14.79_1"
-NA,"Colombia","BOGOTA","CHAPINERO CHAPINERO","COL.14.79_1"
-NA,"Colombia","BOGOTA","CHAPINERO CHICO LAGO","COL.14.79_1"
-NA,"Colombia","BOGOTA","CIUDAD BOLIVAR SAN FRANCISCO","COL.14.79_1"
-NA,"Colombia","BOGOTA","ENGATIVA ENGATIVA","COL.14.79_1"
-NA,"Colombia","BOGOTA","FONTIBON FONTIBON","COL.14.79_1"
-NA,"Colombia","BOGOTA","KENNEDY AMERICAS","COL.14.79_1"
-NA,"Colombia","BOGOTA","KENNEDY KENNEDY CENTRAL","COL.14.79_1"
-NA,"Colombia","BOGOTA","LA CANDELARIA LA CANDELARIA","COL.14.79_1"
-NA,"Colombia","BOGOTA","PUENTE ARANDA SAN RAFAEL","COL.14.79_1"
-NA,"Colombia","BOGOTA","SAN CRISTOBAL SOCIEGO","COL.14.79_1"
-NA,"Colombia","BOGOTA","TEUSAQUILLO CIUDAD SALITRE ORIENTAL","COL.14.79_1"
-NA,"Colombia","BOGOTA","TEUSAQUILLO LA ESMERALDA","COL.14.79_1"
-NA,"Colombia","BOGOTA","TEUSAQUILLO QUINTA PAREDES","COL.14.79_1"
-NA,"Colombia","BOGOTA","TEUSAQUILLO TEUSAQUILLO","COL.14.79_1"
-NA,"Colombia","BOGOTA","TUNJUELITO TUNJUELITO","COL.14.79_1"
-NA,"Colombia","BOGOTA","TUNJUELITO VENECIA","COL.14.79_1"
-NA,"Colombia","BOGOTA","USAQUEN LOS CEDROS","COL.14.79_1"
-NA,"Colombia","BOGOTA","USAQUEN SANTA BARBARA","COL.14.79_1"
-NA,"Colombia","BOLIVAR","RIO VIEJO","COL.5.20_1"
-NA,"Colombia","BOLIVAR","SAN ESTANISLAO","COL.5.21_1"
-NA,"Colombia","BOLIVAR","SAN JACINTO DEL CAUCA","COL.5.23_1"
-NA,"Colombia","BOYACA","CIENAGA","COL.6.23_1"
-NA,"Colombia","BOYACA","TOGUI","COL.6.111_1"
-NA,"Colombia","BOLIVAR","CARTAGENA DE INDIAS","COL.5.7_1"
-NA,"Colombia","CAUCA","GUACHENE","COL.10.8_1"
-NA,"Colombia","CAUCA","LOPEZ","COL.10.17_1"
-NA,"Colombia","CAUCA","SUCRE","COL.10.4_1"
-NA,"Colombia","CAUCA","VILLA RICA","COL.10.10_1"
-NA,"Colombia","CHOCO","ATRATO","COL.12.9_1"
-NA,"Colombia","CHOCO","BELEN DE BAJIRA","COL.12.17_1"
-NA,"Colombia","CHOCO","CERTEGUI","COL.12.20_1"
-NA,"Colombia","CHOCO","MEDIO ATRATO","COL.12.9_1"
-NA,"Colombia","CORDOBA","LORICA","COL.13.24_1"
-NA,"Colombia","CORDOBA","SAHAGUN","COL.13.20_1"
-NA,"Colombia","CORDOBA","SAN ANDRES SOTAVENTO","COL.13.18_1"
-NA,"Colombia","GUAINIA","INIRIDA","COL.15.6_1"
-NA,"Colombia","MAGDALENA","CERRO SAN ANTONIO","COL.19.3_1"
-NA,"Colombia","MAGDALENA","CHIBOLO","COL.19.4_1"
-NA,"Colombia","MAGDALENA","PUEBLOVIEJO","COL.19.13_1"
-NA,"Colombia","MAGDALENA","SANTA BARBARA DE PINTO","COL.19.18_1"
-NA,"Colombia","META","CUBARRAL","COL.20.26_1"
-NA,"Colombia","META","URIBE","COL.20.13_1"
-NA,"Colombia","META","VISTAHERMOSA","COL.20.29_1"
-NA,"Colombia","NARINO","CHACHAGSI","COL.21.8_1"
-NA,"Colombia","NARINO","CHACHAGUI","COL.21.8_1"
-NA,"Colombia","NARINO","LA UNION","COL.21.32_1"
-NA,"Colombia","NARINO","MAGSI","COL.21.36_1"
-NA,"Colombia","NARINO","SAN ANDRES DE TUMACO","COL.21.60_1"
-NA,"Colombia","NARINO","SANTACRUZ","COL.21.56_1"
-NA,"Colombia","NORTE SANTANDER","ABREGO","COL.22.1_1"
-NA,"Colombia","NORTE SANTANDER","ARBOLEDAS","COL.22.2_1"
-NA,"Colombia","NORTE SANTANDER","BOCHALEMA","COL.22.3_1"
-NA,"Colombia","NORTE SANTANDER","BUCARASICA","COL.22.4_1"
-NA,"Colombia","NORTE SANTANDER","CACHIRA","COL.22.5_1"
-NA,"Colombia","NORTE SANTANDER","CACOTA","COL.22.6_1"
-NA,"Colombia","NORTE SANTANDER","CHINACOTA","COL.22.7_1"
-NA,"Colombia","NORTE SANTANDER","CHITAGA","COL.22.8_1"
-NA,"Colombia","NORTE SANTANDER","CONVENCION","COL.22.9_1"
-NA,"Colombia","NORTE SANTANDER","CUCUTA","COL.22.32_1"
-NA,"Colombia","NORTE SANTANDER","CUCUTILLA","COL.22.10_1"
-NA,"Colombia","NORTE SANTANDER","DURANIA","COL.22.11_1"
-NA,"Colombia","NORTE SANTANDER","EL CARMEN","COL.22.12_1"
-NA,"Colombia","NORTE SANTANDER","EL TARRA","COL.22.13_1"
-NA,"Colombia","NORTE SANTANDER","EL ZULIA","COL.22.14_1"
-NA,"Colombia","NORTE SANTANDER","GRAMALOTE","COL.22.15_1"
-NA,"Colombia","NORTE SANTANDER","HACARI","COL.22.16_1"
-NA,"Colombia","NORTE SANTANDER","HERRAN","COL.22.17_1"
-NA,"Colombia","NORTE SANTANDER","LA ESPERANZA","COL.22.18_1"
-NA,"Colombia","NORTE SANTANDER","LA PLAYA","COL.22.19_1"
-NA,"Colombia","NORTE SANTANDER","LABATECA","COL.22.20_1"
-NA,"Colombia","NORTE SANTANDER","LOS PATIOS","COL.22.21_1"
-NA,"Colombia","NORTE SANTANDER","LOURDES","COL.22.22_1"
-NA,"Colombia","NORTE SANTANDER","MUTISCUA","COL.22.23_1"
-NA,"Colombia","NORTE SANTANDER","OCANA","COL.22.24_1"
-NA,"Colombia","NORTE SANTANDER","PAMPLONA","COL.22.25_1"
-NA,"Colombia","NORTE SANTANDER","PAMPLONITA","COL.22.26_1"
-NA,"Colombia","NORTE SANTANDER","PUERTO SANTANDER","COL.22.27_1"
-NA,"Colombia","NORTE SANTANDER","RAGONVALIA","COL.22.28_1"
-NA,"Colombia","NORTE SANTANDER","SALAZAR","COL.22.29_1"
-NA,"Colombia","NORTE SANTANDER","SAN CALIXTO","COL.22.30_1"
-NA,"Colombia","NORTE SANTANDER","SAN CAYETANO","COL.22.31_1"
-NA,"Colombia","NORTE SANTANDER","SANTIAGO","COL.22.33_1"
-NA,"Colombia","NORTE SANTANDER","SARDINATA","COL.22.35_1"
-NA,"Colombia","NORTE SANTANDER","SILOS","COL.22.34_1"
-NA,"Colombia","NORTE SANTANDER","TEORAMA","COL.22.36_1"
-NA,"Colombia","NORTE SANTANDER","TIBU","COL.22.37_1"
-NA,"Colombia","NORTE SANTANDER","TOLEDO","COL.22.38_1"
-NA,"Colombia","NORTE SANTANDER","VILLA CARO","COL.22.39_1"
-NA,"Colombia","NORTE SANTANDER","VILLA DEL ROSARIO","COL.22.40_1"
-NA,"Colombia","PUTUMAYO","LEGUIZAMO","COL.23.6_1"
-NA,"Colombia","PUTUMAYO","MOCOA","COL.23.8_1"
-NA,"Colombia","SAN ANDRES","PROVIDENCIA","COL.26.2_1"
-NA,"Colombia","SAN ANDRES","SAN ANDRES","COL.26.3_1"
-NA,"Colombia","SANTANDER","GSEPSA","COL.27.41_1"
-NA,"Colombia","SANTANDER","SAN ANDRES","COL.27.68_1"
-NA,"Colombia","STA MARTA D.E.","SANTA MARTA","COL.19.19_1"
-NA,"Colombia","SUCRE","LA UNION","COL.28.8_1"
-NA,"Colombia","SUCRE","PALMITO","COL.28.9_1"
-NA,"Colombia","SUCRE","SAN LUIS DE SINCE","COL.28.20_1"
-NA,"Colombia","SUCRE","SANTIAGO DE TOLU","COL.28.23_1"
-NA,"Colombia","SUCRE","TOLU VIEJO","COL.28.24_1"
-NA,"Colombia","TOLIMA","ARMERO (GUAYABAL)","COL.29.5_1"
-NA,"Colombia","TOLIMA","MARIQUITA","COL.29.40_1"
-NA,"Colombia","VALLE","ALCALA","COL.30.1_1"
-NA,"Colombia","VALLE","ANDALUCIA","COL.30.2_1"
-NA,"Colombia","VALLE","ANSERMANUEVO","COL.30.3_1"
-NA,"Colombia","VALLE","ARGELIA","COL.30.4_1"
-NA,"Colombia","VALLE","BOLIVAR","COL.30.5_1"
-NA,"Colombia","VALLE","BUENAVENTURA","COL.30.6_1"
-NA,"Colombia","VALLE","BUGALAGRANDE","COL.30.7_1"
-NA,"Colombia","VALLE","CAICEDONIA","COL.30.8_1"
-NA,"Colombia","VALLE","CALI","COL.30.32_1"
-NA,"Colombia","VALLE","CALIMA","COL.30.9_1"
-NA,"Colombia","VALLE","CANDELARIA","COL.30.10_1"
-NA,"Colombia","VALLE","CARTAGO","COL.30.11_1"
-NA,"Colombia","VALLE","DAGUA","COL.30.12_1"
-NA,"Colombia","VALLE","EL AGUILA","COL.30.13_1"
-NA,"Colombia","VALLE","EL CAIRO","COL.30.14_1"
-NA,"Colombia","VALLE","EL CERRITO","COL.30.15_1"
-NA,"Colombia","VALLE","EL DOVIO","COL.30.16_1"
-NA,"Colombia","VALLE","FLORIDA","COL.30.17_1"
-NA,"Colombia","VALLE","GINEBRA","COL.30.18_1"
-NA,"Colombia","VALLE","GUACARI","COL.30.19_1"
-NA,"Colombia","VALLE","GUADALAJARA DE BUGA","COL.30.20_1"
-NA,"Colombia","VALLE","JAMUNDI","COL.30.21_1"
-NA,"Colombia","VALLE","LA CUMBRE","COL.30.22_1"
-NA,"Colombia","VALLE","LA UNION","COL.30.23_1"
-NA,"Colombia","VALLE","LA VICTORIA","COL.30.24_1"
-NA,"Colombia","VALLE","OBANDO","COL.30.25_1"
-NA,"Colombia","VALLE","PALMIRA","COL.30.26_1"
-NA,"Colombia","VALLE","PRADERA","COL.30.27_1"
-NA,"Colombia","VALLE","RESTREPO","COL.30.28_1"
-NA,"Colombia","VALLE","RIOFRIO","COL.30.29_1"
-NA,"Colombia","VALLE","ROLDANILLO","COL.30.30_1"
-NA,"Colombia","VALLE","SAN PEDRO","COL.30.31_1"
-NA,"Colombia","VALLE","SEVILLA","COL.30.33_1"
-NA,"Colombia","VALLE","TORO","COL.30.34_1"
-NA,"Colombia","VALLE","TRUJILLO","COL.30.35_1"
-NA,"Colombia","VALLE","TULUA","COL.30.36_1"
-NA,"Colombia","VALLE","ULLOA","COL.30.37_1"
-NA,"Colombia","VALLE","VERSALLES","COL.30.38_1"
-NA,"Colombia","VALLE","VIJES","COL.30.39_1"
-NA,"Colombia","VALLE","YOTOCO","COL.30.40_1"
-NA,"Colombia","VALLE","YUMBO","COL.30.41_1"
-NA,"Colombia","VALLE","ZARZAL","COL.30.42_1"
-NA,"Colombia","VALLE DEL CAUCA","CALI","COL.30.32_1"
-NA,"Colombia","VALLE DEL CAUCA","LA UNION","COL.30.23_1"
-NA,"Colombia","VAUPES","PAPUNAUA","COL.31.4_1"
-"Colombia-Amazonas-La_Victoria","Colombia","Amazonas","Mirití-Paraná","COL.1.5_1"
-"Colombia-Amazonas-Puerto_Alegria","Colombia","Amazonas","El Encanto","COL.1.1_1"
-"Colombia-Amazonas-Puerto_Arica","Colombia","Amazonas","Tarapacá","COL.1.8_1"
-"Colombia-Antioquia-La_Pintada","Colombia","Antioquia","Santa Bárbara","COL.2.100_1"
-"Colombia-Bolivar-Arenal","Colombia","Bolívar","Morales","COL.5.18_1"
-"Colombia-Bolivar-Arroyohondo","Colombia","Bolívar","Calamar","COL.5.5_1"
-"Colombia-Bolivar-Clemencia","Colombia","Bolívar","Santa Catalina","COL.5.27_1"
-"Colombia-Bolivar-El_Penon","Colombia","Bolívar","San Martín de Loba","COL.5.25_1"
-"Colombia-Bolivar-Magangue","Colombia","Bolívar","Cicuco","COL.5.8_1"
-"Colombia-Bolivar-Regidor","Colombia","Bolívar","Morales","COL.5.18_1"
-"Colombia-Bolivar-San_Cristobal","Colombia","Bolívar","Soplaviento","COL.5.31_1"
-"Colombia-Bolivar-Tiquisio","Colombia","Bolívar","Pinillos","COL.5.19_1"
-"Colombia-Caldas-Norcasia","Colombia","Caldas","Samaná","COL.7.21_1"
-"Colombia-Caldas-San_Jose","Colombia","Caldas","Risaralda","COL.7.19_1"
-"Colombia-Caqueta-Solita","Colombia","Caquetá","Valparaíso","COL.8.15_1"
-"Colombia-Cauca-Piamonte","Colombia","Cauca","Santa Rosa","COL.10.30_1"
-"Colombia-Cesar-Pueblo_Bello","Colombia","Cesar","Valledupar","COL.11.24_1"
-"Colombia-Choco-Carmen_Del_Darien","Colombia","Chocó","Riosucio","COL.12.17_1"
-"Colombia-Choco-Medio_Baudo","Colombia","Chocó","Bajo Baudó","COL.12.5_1"
-"Colombia-Choco-Medio_San_Juan","Colombia","Chocó","Istmina","COL.12.11_1"
-"Colombia-Choco-Rio_Iro","Colombia","Chocó","Condoto","COL.12.7_1"
-"Colombia-Choco-Rio_Quito","Colombia","Chocó","Quibdó","COL.12.16_1"
-"Colombia-Choco-Union_Panamericana","Colombia","Chocó","El Cantón del San Pablo","COL.12.8_1"
-"Colombia-Cordoba-Cotorra","Colombia","Córdoba","Santa Cruz de Lorica","COL.13.24_1"
-"Colombia-Cordoba-La_Apartada","Colombia","Córdoba","Ayapel","COL.13.1_1"
-"Colombia-Cordoba-San_Jose_De_Ure","Colombia","Córdoba","Montelíbano","COL.13.11_1"
-"Colombia-Cordoba-Tuchin","Colombia","Córdoba","San Andrés de Sotavento","COL.13.18_1"
-"Colombia-Cundinamarca-El_Rosal","Colombia","Cundinamarca","Subachoque","COL.14.87_1"
-"Colombia-Cundinamarca-Granada","Colombia","Cundinamarca","Soacha","COL.14.85_1"
-"Colombia-Guainia-Mapiripana","Colombia","Guainía","Puerto Colombia","COL.15.5_1"
-"Colombia-Guainia-Morichal","Colombia","Guainía","Puerto Inírida","COL.15.6_1"
-"Colombia-Guajira-Albania","Colombia","La Guajira","Maicao","COL.18.4_1"
-"Colombia-Guajira-Dibulla","Colombia","La Guajira","Riohacha","COL.18.6_1"
-"Colombia-Guajira-Distraccion","Colombia","La Guajira","Fonseca","COL.18.3_1"
-"Colombia-Guajira-Hatonuevo","Colombia","La Guajira","Barrancas","COL.18.1_1"
-"Colombia-Guajira-La_Jagua_Del_Pilar","Colombia","La Guajira","Urumita","COL.18.9_1"
-"Colombia-Guajira-La_jagua_del_pilar","Colombia","La Guajira","Urumita","COL.18.9_1"
-"Colombia-Magdalena-Algarrobo","Colombia","Magdalena","Ariguaní","COL.19.2_1"
-"Colombia-Magdalena-Concordia","Colombia","Magdalena","Cerro de San Antonio","COL.19.3_1"
-"Colombia-Magdalena-El_Reten","Colombia","Magdalena","Aracataca","COL.19.1_1"
-"Colombia-Magdalena-Nueva_Granada","Colombia","Magdalena","Plato","COL.19.12_1"
-"Colombia-Magdalena-Pijino_Del_Carmen","Colombia","Magdalena","Santa Ana","COL.19.18_1"
-"Colombia-Magdalena-Sabanas_De_San_Angel","Colombia","Magdalena","Ariguaní","COL.19.2_1"
-"Colombia-Magdalena-Sitionuevo","Colombia","Atlántico","Barranquilla","COL.4.2_1"
-"Colombia-Magdalena-Zapayan","Colombia","Magdalena","Pedraza","COL.19.10_1"
-"Colombia-Magdalena-Zona_Bananera","Colombia","Magdalena","Ciénaga","COL.19.5_1"
-"Colombia-Narino-El_Penol","Colombia","Nariño","El Tambo","COL.21.19_1"
-"Colombia-Narino-Narino","Colombia","Nariño","San Juan de Pasto","COL.21.50_1"
-"Colombia-Narino-Pasto","Colombia","Nariño","San Juan de Pasto","COL.21.50_1"
-"Colombia-Putumayo-San_Miguel","Colombia","Putumayo","Valle del Guamuez","COL.23.11_1"
-"Colombia-Putumayo-San_Miguel_(la_Dorada)","Colombia","Putumayo","Valle del Guamuez","COL.23.11_1"
-"Colombia-Sucre-Covenas","Colombia","Sucre","Tolú","COL.28.23_1"
-"Colombia-Sucre-El_Roble","Colombia","Sucre","Corozal","COL.28.5_1"
-"Colombia-Tolima-Palocabildo","Colombia","Tolima","Falán","COL.29.16_1"
+"location","NAME_0","NAME_1","NAME_2","GID_2","GID_1"
+"Colombia-Antioquia-Medellin","Colombia","ANTIOQUIA","MEDELLIN","COL.2.68_1",NA
+"Colombia-Antioquia-Abejorral","Colombia","ANTIOQUIA","ABEJORRAL","COL.2.1_1",NA
+"Colombia-Antioquia-Abriaqui","Colombia","ANTIOQUIA","ABRIAQUI","COL.2.2_1",NA
+"Colombia-Antioquia-Alejandria","Colombia","ANTIOQUIA","ALEJANDRIA","COL.2.3_1",NA
+"Colombia-Antioquia-Amaga","Colombia","ANTIOQUIA","AMAGA","COL.2.4_1",NA
+"Colombia-Antioquia-Amalfi","Colombia","ANTIOQUIA","AMALFI","COL.2.5_1",NA
+"Colombia-Antioquia-Andes","Colombia","ANTIOQUIA","ANDES","COL.2.6_1",NA
+"Colombia-Antioquia-Angelopolis","Colombia","ANTIOQUIA","ANGELOPOLIS","COL.2.7_1",NA
+"Colombia-Antioquia-Angostura","Colombia","ANTIOQUIA","ANGOSTURA","COL.2.8_1",NA
+"Colombia-Antioquia-Anori","Colombia","ANTIOQUIA","ANORI","COL.2.9_1",NA
+"Colombia-Antioquia-Santafe_De_Antioquia","Colombia","ANTIOQUIA","SANTAFE DE ANTIOQUIA","COL.2.101_1",NA
+"Colombia-Antioquia-Anza","Colombia","ANTIOQUIA","ANZA","COL.2.10_1",NA
+"Colombia-Antioquia-Apartado","Colombia","ANTIOQUIA","APARTADO","COL.2.11_1",NA
+"Colombia-Antioquia-Arboletes","Colombia","ANTIOQUIA","ARBOLETES","COL.2.12_1",NA
+"Colombia-Antioquia-Argelia","Colombia","ANTIOQUIA","ARGELIA","COL.2.13_1",NA
+"Colombia-Antioquia-Armenia","Colombia","ANTIOQUIA","ARMENIA","COL.2.14_1",NA
+"Colombia-Antioquia-Barbosa","Colombia","ANTIOQUIA","BARBOSA","COL.2.15_1",NA
+"Colombia-Antioquia-Belmira","Colombia","ANTIOQUIA","BELMIRA","COL.2.17_1",NA
+"Colombia-Antioquia-Bello","Colombia","ANTIOQUIA","BELLO","COL.2.16_1",NA
+"Colombia-Antioquia-Betania","Colombia","ANTIOQUIA","BETANIA","COL.2.18_1",NA
+"Colombia-Antioquia-Betulia","Colombia","ANTIOQUIA","BETULIA","COL.2.19_1",NA
+"Colombia-Antioquia-Ciudad_Bolivar","Colombia","ANTIOQUIA","CIUDAD BOLIVAR","COL.2.20_1",NA
+"Colombia-Antioquia-Briceno","Colombia","ANTIOQUIA","BRICENO","COL.2.21_1",NA
+"Colombia-Antioquia-Buritica","Colombia","ANTIOQUIA","BURITICA","COL.2.22_1",NA
+"Colombia-Antioquia-Caceres","Colombia","ANTIOQUIA","CACERES","COL.2.23_1",NA
+"Colombia-Antioquia-Caicedo","Colombia","ANTIOQUIA","CAICEDO","COL.2.24_1",NA
+"Colombia-Antioquia-Caldas","Colombia","ANTIOQUIA","CALDAS","COL.2.25_1",NA
+"Colombia-Antioquia-Campamento","Colombia","ANTIOQUIA","CAMPAMENTO","COL.2.26_1",NA
+"Colombia-Antioquia-Canasgordas","Colombia","ANTIOQUIA","CANASGORDAS","COL.2.27_1",NA
+"Colombia-Antioquia-Caracoli","Colombia","ANTIOQUIA","CARACOLI","COL.2.28_1",NA
+"Colombia-Antioquia-Caramanta","Colombia","ANTIOQUIA","CARAMANTA","COL.2.29_1",NA
+"Colombia-Antioquia-Carepa","Colombia","ANTIOQUIA","CAREPA","COL.2.30_1",NA
+"Colombia-Antioquia-El_Carmen_De_Viboral","Colombia","ANTIOQUIA","EL CARMEN DE VIBORAL","COL.2.43_1",NA
+"Colombia-Antioquia-Carolina","Colombia","ANTIOQUIA","CAROLINA","COL.2.31_1",NA
+"Colombia-Antioquia-Caucasia","Colombia","ANTIOQUIA","CAUCASIA","COL.2.32_1",NA
+"Colombia-Antioquia-Chigorodo","Colombia","ANTIOQUIA","CHIGORODO","COL.2.33_1",NA
+"Colombia-Antioquia-Cisneros","Colombia","ANTIOQUIA","CISNEROS","COL.2.34_1",NA
+"Colombia-Antioquia-Cocorna","Colombia","ANTIOQUIA","COCORNA","COL.2.35_1",NA
+"Colombia-Antioquia-Concepcion","Colombia","ANTIOQUIA","CONCEPCION","COL.2.36_1",NA
+"Colombia-Antioquia-Concordia","Colombia","ANTIOQUIA","CONCORDIA","COL.2.37_1",NA
+"Colombia-Antioquia-Copacabana","Colombia","ANTIOQUIA","COPACABANA","COL.2.38_1",NA
+"Colombia-Antioquia-Dabeiba","Colombia","ANTIOQUIA","DABEIBA","COL.2.39_1",NA
+"Colombia-Antioquia-Don_Matias","Colombia","ANTIOQUIA","DON MATIAS","COL.2.40_1",NA
+"Colombia-Antioquia-Ebejico","Colombia","ANTIOQUIA","EBEJICO","COL.2.41_1",NA
+"Colombia-Antioquia-El_Bagre","Colombia","ANTIOQUIA","EL BAGRE","COL.2.42_1",NA
+"Colombia-Antioquia-Entrerrios","Colombia","ANTIOQUIA","ENTRERRIOS","COL.2.45_1",NA
+"Colombia-Antioquia-Envigado","Colombia","ANTIOQUIA","ENVIGADO","COL.2.46_1",NA
+"Colombia-Antioquia-Fredonia","Colombia","ANTIOQUIA","FREDONIA","COL.2.47_1",NA
+"Colombia-Antioquia-Frontino","Colombia","ANTIOQUIA","FRONTINO","COL.2.48_1",NA
+"Colombia-Antioquia-Giraldo","Colombia","ANTIOQUIA","GIRALDO","COL.2.49_1",NA
+"Colombia-Antioquia-Girardota","Colombia","ANTIOQUIA","GIRARDOTA","COL.2.50_1",NA
+"Colombia-Antioquia-Gomez_Plata","Colombia","ANTIOQUIA","GOMEZ PLATA","COL.2.51_1",NA
+"Colombia-Antioquia-Granada","Colombia","ANTIOQUIA","GRANADA","COL.2.52_1",NA
+"Colombia-Antioquia-Guadalupe","Colombia","ANTIOQUIA","GUADALUPE","COL.2.53_1",NA
+"Colombia-Antioquia-Guarne","Colombia","ANTIOQUIA","GUARNE","COL.2.54_1",NA
+"Colombia-Antioquia-Guatape","Colombia","ANTIOQUIA","GUATAPE","COL.2.55_1",NA
+"Colombia-Antioquia-Heliconia","Colombia","ANTIOQUIA","HELICONIA","COL.2.56_1",NA
+"Colombia-Antioquia-Hispania","Colombia","ANTIOQUIA","HISPANIA","COL.2.57_1",NA
+"Colombia-Antioquia-Itagui","Colombia","ANTIOQUIA","ITAGUI","COL.2.58_1",NA
+"Colombia-Antioquia-Ituango","Colombia","ANTIOQUIA","ITUANGO","COL.2.59_1",NA
+"Colombia-Antioquia-Jardin","Colombia","ANTIOQUIA","JARDIN","COL.2.60_1",NA
+"Colombia-Antioquia-Jerico","Colombia","ANTIOQUIA","JERICO","COL.2.61_1",NA
+"Colombia-Antioquia-La_Ceja","Colombia","ANTIOQUIA","LA CEJA","COL.2.62_1",NA
+"Colombia-Antioquia-La_Estrella","Colombia","ANTIOQUIA","LA ESTRELLA","COL.2.63_1",NA
+"Colombia-Antioquia-La_Pintada","Colombia","Antioquia","Santa Bárbara","COL.2.100_1",NA
+"Colombia-Antioquia-La_Union","Colombia","ANTIOQUIA","LA UNION","COL.2.64_1",NA
+"Colombia-Antioquia-Liborina","Colombia","ANTIOQUIA","LIBORINA","COL.2.65_1",NA
+"Colombia-Antioquia-Maceo","Colombia","ANTIOQUIA","MACEO","COL.2.66_1",NA
+"Colombia-Antioquia-Marinilla","Colombia","ANTIOQUIA","MARINILLA","COL.2.67_1",NA
+"Colombia-Antioquia-Montebello","Colombia","ANTIOQUIA","MONTEBELLO","COL.2.69_1",NA
+"Colombia-Antioquia-Murindo","Colombia","ANTIOQUIA","MURINDO","COL.2.70_1",NA
+"Colombia-Antioquia-Mutata","Colombia","ANTIOQUIA","MUTATA","COL.2.71_1",NA
+"Colombia-Antioquia-Narino","Colombia","ANTIOQUIA","NARINO","COL.2.72_1",NA
+"Colombia-Antioquia-Necocli","Colombia","ANTIOQUIA","NECOCLI","COL.2.74_1",NA
+"Colombia-Antioquia-Nechi","Colombia","ANTIOQUIA","NECHI","COL.2.73_1",NA
+"Colombia-Antioquia-Olaya","Colombia","ANTIOQUIA","OLAYA","COL.2.75_1",NA
+"Colombia-Antioquia-Penol","Colombia","ANTIOQUIA","PENOL","COL.2.76_1",NA
+"Colombia-Antioquia-Peque","Colombia","ANTIOQUIA","PEQUE","COL.2.77_1",NA
+"Colombia-Antioquia-Pueblorrico","Colombia","ANTIOQUIA","PUEBLORRICO","COL.2.78_1",NA
+"Colombia-Antioquia-Puerto_Berrio","Colombia","ANTIOQUIA","PUERTO BERRIO","COL.2.79_1",NA
+"Colombia-Antioquia-Puerto_Nare","Colombia","ANTIOQUIA","PUERTO NARE","COL.2.80_1",NA
+"Colombia-Antioquia-Puerto_Triunfo","Colombia","ANTIOQUIA","PUERTO TRIUNFO","COL.2.81_1",NA
+"Colombia-Antioquia-Remedios","Colombia","ANTIOQUIA","REMEDIOS","COL.2.82_1",NA
+"Colombia-Antioquia-Retiro","Colombia","ANTIOQUIA","RETIRO","COL.2.83_1",NA
+"Colombia-Antioquia-Rionegro","Colombia","ANTIOQUIA","RIONEGRO","COL.2.84_1",NA
+"Colombia-Antioquia-Sabanalarga","Colombia","ANTIOQUIA","SABANALARGA","COL.2.85_1",NA
+"Colombia-Antioquia-Sabaneta","Colombia","ANTIOQUIA","SABANETA","COL.2.86_1",NA
+"Colombia-Antioquia-Salgar","Colombia","ANTIOQUIA","SALGAR","COL.2.87_1",NA
+"Colombia-Antioquia-San_Andres_De_Cuerquia","Colombia","ANTIOQUIA","SAN ANDRES DE CUERQUIA","COL.2.88_1",NA
+"Colombia-Antioquia-San_Carlos","Colombia","ANTIOQUIA","SAN CARLOS","COL.2.89_1",NA
+"Colombia-Antioquia-San_Francisco","Colombia","ANTIOQUIA","SAN FRANCISCO","COL.2.90_1",NA
+"Colombia-Antioquia-San_Jeronimo","Colombia","ANTIOQUIA","SAN JERONIMO","COL.2.91_1",NA
+"Colombia-Antioquia-San_Jose_De_La_Montana","Colombia","ANTIOQUIA","SAN JOSE DE LA MONTANA","COL.2.92_1",NA
+"Colombia-Antioquia-San_Juan_De_Uraba","Colombia","ANTIOQUIA","SAN JUAN DE URABA","COL.2.93_1",NA
+"Colombia-Antioquia-San_Luis","Colombia","ANTIOQUIA","SAN LUIS","COL.2.94_1",NA
+"Colombia-Antioquia-San_Pedro","Colombia","ANTIOQUIA","SAN PEDRO","COL.2.95_1",NA
+"Colombia-Antioquia-San_Pedro_De_Uraba","Colombia","ANTIOQUIA","SAN PEDRO DE URABA","COL.2.96_1",NA
+"Colombia-Antioquia-San_Rafael","Colombia","ANTIOQUIA","SAN RAFAEL","COL.2.97_1",NA
+"Colombia-Antioquia-San_Roque","Colombia","ANTIOQUIA","SAN ROQUE","COL.2.98_1",NA
+"Colombia-Antioquia-San_Vicente","Colombia","ANTIOQUIA","SAN VICENTE","COL.2.99_1",NA
+"Colombia-Antioquia-Santa_Barbara","Colombia","ANTIOQUIA","SANTA BARBARA","COL.2.100_1",NA
+"Colombia-Antioquia-Santa_Rosa_De_Osos","Colombia","ANTIOQUIA","SANTA ROSA DE OSOS","COL.2.102_1",NA
+"Colombia-Antioquia-Santo_Domingo","Colombia","ANTIOQUIA","SANTO DOMINGO","COL.2.103_1",NA
+"Colombia-Antioquia-El_Santuario","Colombia","ANTIOQUIA","EL SANTUARIO","COL.2.44_1",NA
+"Colombia-Antioquia-Segovia","Colombia","ANTIOQUIA","SEGOVIA","COL.2.104_1",NA
+"Colombia-Antioquia-Sonson","Colombia","ANTIOQUIA","SONSON","COL.2.105_1",NA
+"Colombia-Antioquia-Sopetran","Colombia","ANTIOQUIA","SOPETRAN","COL.2.106_1",NA
+"Colombia-Antioquia-Tamesis","Colombia","ANTIOQUIA","TAMESIS","COL.2.107_1",NA
+"Colombia-Antioquia-Taraza","Colombia","ANTIOQUIA","TARAZA","COL.2.108_1",NA
+"Colombia-Antioquia-Tarso","Colombia","ANTIOQUIA","TARSO","COL.2.109_1",NA
+"Colombia-Antioquia-Titiribi","Colombia","ANTIOQUIA","TITIRIBI","COL.2.110_1",NA
+"Colombia-Antioquia-Toledo","Colombia","ANTIOQUIA","TOLEDO","COL.2.111_1",NA
+"Colombia-Antioquia-Turbo","Colombia","ANTIOQUIA","TURBO","COL.2.112_1",NA
+"Colombia-Antioquia-Uramita","Colombia","ANTIOQUIA","URAMITA","COL.2.113_1",NA
+"Colombia-Antioquia-Urrao","Colombia","ANTIOQUIA","URRAO","COL.2.114_1",NA
+"Colombia-Antioquia-Valdivia","Colombia","ANTIOQUIA","VALDIVIA","COL.2.115_1",NA
+"Colombia-Antioquia-Valparaiso","Colombia","ANTIOQUIA","VALPARAISO","COL.2.116_1",NA
+"Colombia-Antioquia-Vegachi","Colombia","ANTIOQUIA","VEGACHI","COL.2.117_1",NA
+"Colombia-Antioquia-Venecia","Colombia","ANTIOQUIA","VENECIA","COL.2.118_1",NA
+"Colombia-Antioquia-Vigia_Del_Fuerte","Colombia","ANTIOQUIA","VIGIA DEL FUERTE","COL.2.119_1",NA
+"Colombia-Antioquia-Yali","Colombia","ANTIOQUIA","YALI","COL.2.120_1",NA
+"Colombia-Antioquia-Yarumal","Colombia","ANTIOQUIA","YARUMAL","COL.2.121_1",NA
+"Colombia-Antioquia-Yolombo","Colombia","ANTIOQUIA","YOLOMBO","COL.2.122_1",NA
+"Colombia-Antioquia-Yondo","Colombia","ANTIOQUIA","YONDO","COL.2.123_1",NA
+"Colombia-Antioquia-Zaragoza","Colombia","ANTIOQUIA","ZARAGOZA","COL.2.124_1",NA
+"Colombia-Barranquilla-Barranquilla","Colombia","ATLANTICO","BARRANQUILLA","COL.4.2_1",NA
+"Colombia-Atlantico-Baranoa","Colombia","ATLANTICO","BARANOA","COL.4.1_1",NA
+"Colombia-Atlantico-Campo_De_La_Cruz","Colombia","ATLANTICO","CAMPO DE LA CRUZ","COL.4.3_1",NA
+"Colombia-Atlantico-Candelaria","Colombia","ATLANTICO","CANDELARIA","COL.4.4_1",NA
+"Colombia-Atlantico-Galapa","Colombia","ATLANTICO","GALAPA","COL.4.5_1",NA
+"Colombia-Atlantico-Juan_De_Acosta","Colombia","ATLANTICO","JUAN DE ACOSTA","COL.4.6_1",NA
+"Colombia-Atlantico-Luruaco","Colombia","ATLANTICO","LURUACO","COL.4.7_1",NA
+"Colombia-Atlantico-Malambo","Colombia","ATLANTICO","MALAMBO","COL.4.8_1",NA
+"Colombia-Atlantico-Manati","Colombia","ATLANTICO","MANATI","COL.4.9_1",NA
+"Colombia-Atlantico-Palmar_De_Varela","Colombia","ATLANTICO","PALMAR DE VARELA","COL.4.10_1",NA
+"Colombia-Atlantico-Piojo","Colombia","ATLANTICO","PIOJO","COL.4.11_1",NA
+"Colombia-Atlantico-Polonuevo","Colombia","ATLANTICO","POLONUEVO","COL.4.12_1",NA
+"Colombia-Atlantico-Ponedera","Colombia","ATLANTICO","PONEDERA","COL.4.13_1",NA
+"Colombia-Atlantico-Puerto_Colombia","Colombia","ATLANTICO","PUERTO COLOMBIA","COL.4.14_1",NA
+"Colombia-Atlantico-Repelon","Colombia","ATLANTICO","REPELON","COL.4.15_1",NA
+"Colombia-Atlantico-Sabanagrande","Colombia","ATLANTICO","SABANAGRANDE","COL.4.16_1",NA
+"Colombia-Atlantico-Sabanalarga","Colombia","ATLANTICO","SABANALARGA","COL.4.17_1",NA
+"Colombia-Atlantico-Santa_Lucia","Colombia","ATLANTICO","SANTA LUCIA","COL.4.18_1",NA
+"Colombia-Atlantico-Santo_Tomas","Colombia","ATLANTICO","SANTO TOMAS","COL.4.19_1",NA
+"Colombia-Atlantico-Soledad","Colombia","ATLANTICO","SOLEDAD","COL.4.20_1",NA
+"Colombia-Atlantico-Suan","Colombia","ATLANTICO","SUAN","COL.4.21_1",NA
+"Colombia-Atlantico-Tubara","Colombia","ATLANTICO","TUBARA","COL.4.22_1",NA
+"Colombia-Atlantico-Usiacuri","Colombia","ATLANTICO","USIACURI","COL.4.23_1",NA
+"Colombia-Cartagena-Cartagena","Colombia","BOLIVAR","CARTAGENA DE INDIAS","COL.5.7_1",NA
+"Colombia-Bolivar-Achi","Colombia","BOLIVAR","ACHI","COL.5.1_1",NA
+"Colombia-Bolivar-Altos_Del_Rosario","Colombia","BOLIVAR","ALTOS DEL ROSARIO","COL.5.2_1",NA
+"Colombia-Bolivar-Arenal","Colombia","Bolívar","Morales","COL.5.18_1",NA
+"Colombia-Bolivar-Arjona","Colombia","BOLIVAR","ARJONA","COL.5.3_1",NA
+"Colombia-Bolivar-Arroyohondo","Colombia","Bolívar","Calamar","COL.5.5_1",NA
+"Colombia-Bolivar-Barranco_De_Loba","Colombia","BOLIVAR","BARRANCO DE LOBA","COL.5.4_1",NA
+"Colombia-Bolivar-Calamar","Colombia","BOLIVAR","CALAMAR","COL.5.5_1",NA
+"Colombia-Bolivar-Cantagallo","Colombia","BOLIVAR","CANTAGALLO","COL.5.6_1",NA
+"Colombia-Bolivar-Cicuco","Colombia","BOLIVAR","CICUCO","COL.5.8_1",NA
+"Colombia-Bolivar-Cordoba","Colombia","BOLIVAR","CORDOBA","COL.5.9_1",NA
+"Colombia-Bolivar-Clemencia","Colombia","Bolívar","Santa Catalina","COL.5.27_1",NA
+"Colombia-Bolivar-El_Carmen_De_Bolivar","Colombia","BOLIVAR","EL CARMEN DE BOLIVAR","COL.5.10_1",NA
+"Colombia-Bolivar-El_Guamo","Colombia","BOLIVAR","EL GUAMO","COL.5.11_1",NA
+"Colombia-Bolivar-El_Penon","Colombia","Bolívar","San Martín de Loba","COL.5.25_1",NA
+"Colombia-Bolivar-Hatillo_De_Loba","Colombia","BOLIVAR","HATILLO DE LOBA","COL.5.12_1",NA
+"Colombia-Bolivar-Magangue","Colombia","Bolívar","Cicuco","COL.5.8_1",NA
+"Colombia-Bolivar-Mahates","Colombia","BOLIVAR","MAHATES","COL.5.13_1",NA
+"Colombia-Bolivar-Margarita","Colombia","BOLIVAR","MARGARITA","COL.5.14_1",NA
+"Colombia-Bolivar-Maria_La_Baja","Colombia","BOLIVAR","MARIA LA BAJA","COL.5.15_1",NA
+"Colombia-Bolivar-Montecristo","Colombia","BOLIVAR","MONTECRISTO","COL.5.17_1",NA
+"Colombia-Bolivar-Mompos","Colombia","BOLIVAR","MOMPOS","COL.5.16_1",NA
+"Colombia-Bolivar-Norosi","Colombia","BOLIVAR","RIO VIEJO","COL.5.20_1",NA
+"Colombia-Bolivar-Morales","Colombia","BOLIVAR","MORALES","COL.5.18_1",NA
+"Colombia-Bolivar-Pinillos","Colombia","BOLIVAR","PINILLOS","COL.5.19_1",NA
+"Colombia-Bolivar-Regidor","Colombia","Bolívar","Morales","COL.5.18_1",NA
+"Colombia-Bolivar-Rio_Viejo","Colombia","BOLIVAR","RIO VIEJO","COL.5.20_1",NA
+"Colombia-Bolivar-San_Cristobal","Colombia","Bolívar","Soplaviento","COL.5.31_1",NA
+"Colombia-Bolivar-San_Estanislao","Colombia","BOLIVAR","SAN ESTANISLAO","COL.5.21_1",NA
+"Colombia-Bolivar-San_Fernando","Colombia","BOLIVAR","SAN FERNANDO","COL.5.22_1",NA
+"Colombia-Bolivar-San_Jacinto","Colombia","BOLIVAR","SAN JACINTO","COL.5.23_1",NA
+"Colombia-Bolivar-San_Jacinto_Del_Cauca","Colombia","BOLIVAR","SAN JACINTO DEL CAUCA","COL.5.23_1",NA
+"Colombia-Bolivar-San_Juan_Nepomuceno","Colombia","BOLIVAR","SAN JUAN NEPOMUCENO","COL.5.24_1",NA
+"Colombia-Bolivar-San_Martin_De_Loba","Colombia","BOLIVAR","SAN MARTIN DE LOBA","COL.5.25_1",NA
+"Colombia-Bolivar-San_Pablo","Colombia","BOLIVAR","SAN PABLO","COL.5.26_1",NA
+"Colombia-Bolivar-Santa_Catalina","Colombia","BOLIVAR","SANTA CATALINA","COL.5.27_1",NA
+"Colombia-Bolivar-Santa_Rosa","Colombia","BOLIVAR","SANTA ROSA","COL.5.28_1",NA
+"Colombia-Bolivar-Santa_Rosa_Del_Sur","Colombia","BOLIVAR","SANTA ROSA DEL SUR","COL.5.29_1",NA
+"Colombia-Bolivar-Simiti","Colombia","BOLIVAR","SIMITI","COL.5.30_1",NA
+"Colombia-Bolivar-Soplaviento","Colombia","BOLIVAR","SOPLAVIENTO","COL.5.31_1",NA
+"Colombia-Bolivar-Talaigua_Nuevo","Colombia","BOLIVAR","TALAIGUA NUEVO","COL.5.32_1",NA
+"Colombia-Bolivar-Tiquisio","Colombia","Bolívar","Pinillos","COL.5.19_1",NA
+"Colombia-Bolivar-Turbaco","Colombia","BOLIVAR","TURBACO","COL.5.33_1",NA
+"Colombia-Bolivar-Turbana","Colombia","BOLIVAR","TURBANA","COL.5.34_1",NA
+"Colombia-Bolivar-Villanueva","Colombia","BOLIVAR","VILLANUEVA","COL.5.35_1",NA
+"Colombia-Bolivar-Zambrano","Colombia","BOLIVAR","ZAMBRANO","COL.5.36_1",NA
+"Colombia-Boyaca-Tunja","Colombia","BOYACA","TUNJA","COL.6.114_1",NA
+"Colombia-Boyaca-Almeida","Colombia","BOYACA","ALMEIDA","COL.6.1_1",NA
+"Colombia-Boyaca-Aquitania","Colombia","BOYACA","AQUITANIA","COL.6.2_1",NA
+"Colombia-Boyaca-Arcabuco","Colombia","BOYACA","ARCABUCO","COL.6.3_1",NA
+"Colombia-Boyaca-Belen","Colombia","BOYACA","BELEN","COL.6.4_1",NA
+"Colombia-Boyaca-Berbeo","Colombia","BOYACA","BERBEO","COL.6.5_1",NA
+"Colombia-Boyaca-Beteitiva","Colombia","BOYACA","BETEITIVA","COL.6.6_1",NA
+"Colombia-Boyaca-Boavita","Colombia","BOYACA","BOAVITA","COL.6.7_1",NA
+"Colombia-Boyaca-Boyaca","Colombia","BOYACA","BOYACA","COL.6.8_1",NA
+"Colombia-Boyaca-Briceno","Colombia","BOYACA","BRICENO","COL.6.9_1",NA
+"Colombia-Boyaca-Buenavista","Colombia","BOYACA","BUENAVISTA","COL.6.10_1",NA
+"Colombia-Boyaca-Busbanza","Colombia","BOYACA","BUSBANZA","COL.6.11_1",NA
+"Colombia-Boyaca-Caldas","Colombia","BOYACA","CALDAS","COL.6.12_1",NA
+"Colombia-Boyaca-Campohermoso","Colombia","BOYACA","CAMPOHERMOSO","COL.6.13_1",NA
+"Colombia-Boyaca-Cerinza","Colombia","BOYACA","CERINZA","COL.6.14_1",NA
+"Colombia-Boyaca-Chinavita","Colombia","BOYACA","CHINAVITA","COL.6.15_1",NA
+"Colombia-Boyaca-Chiquinquira","Colombia","BOYACA","CHIQUINQUIRA","COL.6.16_1",NA
+"Colombia-Boyaca-Chiscas","Colombia","BOYACA","CHISCAS","COL.6.18_1",NA
+"Colombia-Boyaca-Chita","Colombia","BOYACA","CHITA","COL.6.19_1",NA
+"Colombia-Boyaca-Chitaraque","Colombia","BOYACA","CHITARAQUE","COL.6.20_1",NA
+"Colombia-Boyaca-Chivata","Colombia","BOYACA","CHIVATA","COL.6.21_1",NA
+"Colombia-Boyaca-Cienega","Colombia","BOYACA","CIENAGA","COL.6.23_1",NA
+"Colombia-Boyaca-Combita","Colombia","BOYACA","COMBITA","COL.6.24_1",NA
+"Colombia-Boyaca-Coper","Colombia","BOYACA","COPER","COL.6.25_1",NA
+"Colombia-Boyaca-Corrales","Colombia","BOYACA","CORRALES","COL.6.26_1",NA
+"Colombia-Boyaca-Covarachia","Colombia","BOYACA","COVARACHIA","COL.6.27_1",NA
+"Colombia-Boyaca-Cubara","Colombia","BOYACA","CUBARA","COL.6.28_1",NA
+"Colombia-Boyaca-Cucaita","Colombia","BOYACA","CUCAITA","COL.6.29_1",NA
+"Colombia-Boyaca-Cuitiva","Colombia","BOYACA","CUITIVA","COL.6.30_1",NA
+"Colombia-Boyaca-Chiquiza","Colombia","BOYACA","CHIQUIZA","COL.6.17_1",NA
+"Colombia-Boyaca-Chivor","Colombia","BOYACA","CHIVOR","COL.6.22_1",NA
+"Colombia-Boyaca-Duitama","Colombia","BOYACA","DUITAMA","COL.6.31_1",NA
+"Colombia-Boyaca-El_Cocuy","Colombia","BOYACA","EL COCUY","COL.6.32_1",NA
+"Colombia-Boyaca-El_Espino","Colombia","BOYACA","EL ESPINO","COL.6.33_1",NA
+"Colombia-Boyaca-Firavitoba","Colombia","BOYACA","FIRAVITOBA","COL.6.34_1",NA
+"Colombia-Boyaca-Floresta","Colombia","BOYACA","FLORESTA","COL.6.35_1",NA
+"Colombia-Boyaca-Gachantiva","Colombia","BOYACA","GACHANTIVA","COL.6.36_1",NA
+"Colombia-Boyaca-Gameza","Colombia","BOYACA","GAMEZA","COL.6.37_1",NA
+"Colombia-Boyaca-Garagoa","Colombia","BOYACA","GARAGOA","COL.6.38_1",NA
+"Colombia-Boyaca-Guacamayas","Colombia","BOYACA","GUACAMAYAS","COL.6.39_1",NA
+"Colombia-Boyaca-Guateque","Colombia","BOYACA","GUATEQUE","COL.6.40_1",NA
+"Colombia-Boyaca-Guayata","Colombia","BOYACA","GUAYATA","COL.6.41_1",NA
+"Colombia-Boyaca-Guican","Colombia","BOYACA","GUICAN","COL.6.42_1",NA
+"Colombia-Boyaca-Iza","Colombia","BOYACA","IZA","COL.6.43_1",NA
+"Colombia-Boyaca-Jenesano","Colombia","BOYACA","JENESANO","COL.6.44_1",NA
+"Colombia-Boyaca-Jerico","Colombia","BOYACA","JERICO","COL.6.45_1",NA
+"Colombia-Boyaca-Labranzagrande","Colombia","BOYACA","LABRANZAGRANDE","COL.6.49_1",NA
+"Colombia-Boyaca-La_Capilla","Colombia","BOYACA","LA CAPILLA","COL.6.46_1",NA
+"Colombia-Boyaca-La_Victoria","Colombia","BOYACA","LA VICTORIA","COL.6.48_1",NA
+"Colombia-Boyaca-La_Uvita","Colombia","BOYACA","LA UVITA","COL.6.47_1",NA
+"Colombia-Boyaca-Villa_De_Leyva","Colombia","BOYACA","VILLA DE LEYVA","COL.6.121_1",NA
+"Colombia-Boyaca-Macanal","Colombia","BOYACA","MACANAL","COL.6.50_1",NA
+"Colombia-Boyaca-Maripi","Colombia","BOYACA","MARIPI","COL.6.51_1",NA
+"Colombia-Boyaca-Miraflores","Colombia","BOYACA","MIRAFLORES","COL.6.52_1",NA
+"Colombia-Boyaca-Mongua","Colombia","BOYACA","MONGUA","COL.6.53_1",NA
+"Colombia-Boyaca-Mongui","Colombia","BOYACA","MONGUI","COL.6.54_1",NA
+"Colombia-Boyaca-Moniquira","Colombia","BOYACA","MONIQUIRA","COL.6.55_1",NA
+"Colombia-Boyaca-Motavita","Colombia","BOYACA","MOTAVITA","COL.6.56_1",NA
+"Colombia-Boyaca-Muzo","Colombia","BOYACA","MUZO","COL.6.57_1",NA
+"Colombia-Boyaca-Nobsa","Colombia","BOYACA","NOBSA","COL.6.58_1",NA
+"Colombia-Boyaca-Nuevo_Colon","Colombia","BOYACA","NUEVO COLON","COL.6.59_1",NA
+"Colombia-Boyaca-Oicata","Colombia","BOYACA","OICATA","COL.6.60_1",NA
+"Colombia-Boyaca-Otanche","Colombia","BOYACA","OTANCHE","COL.6.61_1",NA
+"Colombia-Boyaca-Pachavita","Colombia","BOYACA","PACHAVITA","COL.6.62_1",NA
+"Colombia-Boyaca-Paez","Colombia","BOYACA","PAEZ","COL.6.63_1",NA
+"Colombia-Boyaca-Paipa","Colombia","BOYACA","PAIPA","COL.6.64_1",NA
+"Colombia-Boyaca-Pajarito","Colombia","BOYACA","PAJARITO","COL.6.65_1",NA
+"Colombia-Boyaca-Panqueba","Colombia","BOYACA","PANQUEBA","COL.6.66_1",NA
+"Colombia-Boyaca-Pauna","Colombia","BOYACA","PAUNA","COL.6.67_1",NA
+"Colombia-Boyaca-Paya","Colombia","BOYACA","PAYA","COL.6.68_1",NA
+"Colombia-Boyaca-Paz_De_Rio","Colombia","BOYACA","PAZ DE RIO","COL.6.69_1",NA
+"Colombia-Boyaca-Pesca","Colombia","BOYACA","PESCA","COL.6.70_1",NA
+"Colombia-Boyaca-Pisba","Colombia","BOYACA","PISBA","COL.6.71_1",NA
+"Colombia-Boyaca-Puerto_Boyaca","Colombia","BOYACA","PUERTO BOYACA","COL.6.72_1",NA
+"Colombia-Boyaca-Quipama","Colombia","BOYACA","QUIPAMA","COL.6.73_1",NA
+"Colombia-Boyaca-Ramiriqui","Colombia","BOYACA","RAMIRIQUI","COL.6.74_1",NA
+"Colombia-Boyaca-Raquira","Colombia","BOYACA","RAQUIRA","COL.6.75_1",NA
+"Colombia-Boyaca-Rondon","Colombia","BOYACA","RONDON","COL.6.76_1",NA
+"Colombia-Boyaca-Saboya","Colombia","BOYACA","SABOYA","COL.6.77_1",NA
+"Colombia-Boyaca-Sachica","Colombia","BOYACA","SACHICA","COL.6.78_1",NA
+"Colombia-Boyaca-Samaca","Colombia","BOYACA","SAMACA","COL.6.79_1",NA
+"Colombia-Boyaca-San_Eduardo","Colombia","BOYACA","SAN EDUARDO","COL.6.80_1",NA
+"Colombia-Boyaca-San_Jose_De_Pare","Colombia","BOYACA","SAN JOSE DE PARE","COL.6.81_1",NA
+"Colombia-Boyaca-San_Luis_De_Gaceno","Colombia","BOYACA","SAN LUIS DE GACENO","COL.6.82_1",NA
+"Colombia-Boyaca-San_Mateo","Colombia","BOYACA","SAN MATEO","COL.6.83_1",NA
+"Colombia-Boyaca-San_Miguel_De_Sema","Colombia","BOYACA","SAN MIGUEL DE SEMA","COL.6.84_1",NA
+"Colombia-Boyaca-San_Pablo_De_Borbur","Colombia","BOYACA","SAN PABLO DE BORBUR","COL.6.85_1",NA
+"Colombia-Boyaca-Santana","Colombia","BOYACA","SANTANA","COL.6.89_1",NA
+"Colombia-Boyaca-Santa_Maria","Colombia","BOYACA","SANTA MARIA","COL.6.86_1",NA
+"Colombia-Boyaca-Santa_Rosa_De_Viterbo","Colombia","BOYACA","SANTA ROSA DE VITERBO","COL.6.87_1",NA
+"Colombia-Boyaca-Santa_Sofia","Colombia","BOYACA","SANTA SOFIA","COL.6.88_1",NA
+"Colombia-Boyaca-Sativanorte","Colombia","BOYACA","SATIVANORTE","COL.6.90_1",NA
+"Colombia-Boyaca-Sativasur","Colombia","BOYACA","SATIVASUR","COL.6.91_1",NA
+"Colombia-Boyaca-Siachoque","Colombia","BOYACA","SIACHOQUE","COL.6.92_1",NA
+"Colombia-Boyaca-Soata","Colombia","BOYACA","SOATA","COL.6.93_1",NA
+"Colombia-Boyaca-Socota","Colombia","BOYACA","SOCOTA","COL.6.95_1",NA
+"Colombia-Boyaca-Socha","Colombia","BOYACA","SOCHA","COL.6.94_1",NA
+"Colombia-Boyaca-Sogamoso","Colombia","BOYACA","SOGAMOSO","COL.6.96_1",NA
+"Colombia-Boyaca-Somondoco","Colombia","BOYACA","SOMONDOCO","COL.6.97_1",NA
+"Colombia-Boyaca-Sora","Colombia","BOYACA","SORA","COL.6.98_1",NA
+"Colombia-Boyaca-Sotaquira","Colombia","BOYACA","SOTAQUIRA","COL.6.100_1",NA
+"Colombia-Boyaca-Soraca","Colombia","BOYACA","SORACA","COL.6.99_1",NA
+"Colombia-Boyaca-Susacon","Colombia","BOYACA","SUSACON","COL.6.101_1",NA
+"Colombia-Boyaca-Sutamarchan","Colombia","BOYACA","SUTAMARCHAN","COL.6.102_1",NA
+"Colombia-Boyaca-Sutatenza","Colombia","BOYACA","SUTATENZA","COL.6.103_1",NA
+"Colombia-Boyaca-Tasco","Colombia","BOYACA","TASCO","COL.6.104_1",NA
+"Colombia-Boyaca-Tenza","Colombia","BOYACA","TENZA","COL.6.105_1",NA
+"Colombia-Boyaca-Tibana","Colombia","BOYACA","TIBANA","COL.6.106_1",NA
+"Colombia-Boyaca-Tibasosa","Colombia","BOYACA","TIBASOSA","COL.6.107_1",NA
+"Colombia-Boyaca-Tinjaca","Colombia","BOYACA","TINJACA","COL.6.108_1",NA
+"Colombia-Boyaca-Tipacoque","Colombia","BOYACA","TIPACOQUE","COL.6.109_1",NA
+"Colombia-Boyaca-Toca","Colombia","BOYACA","TOCA","COL.6.110_1",NA
+"Colombia-Boyaca-Togui","Colombia","BOYACA","TOGUI","COL.6.111_1",NA
+"Colombia-Boyaca-Topaga","Colombia","BOYACA","TOPAGA","COL.6.112_1",NA
+"Colombia-Boyaca-Tota","Colombia","BOYACA","TOTA","COL.6.113_1",NA
+"Colombia-Boyaca-Tunungua","Colombia","BOYACA","TUNUNGUA","COL.6.115_1",NA
+"Colombia-Boyaca-Turmeque","Colombia","BOYACA","TURMEQUE","COL.6.116_1",NA
+"Colombia-Boyaca-Tuta","Colombia","BOYACA","TUTA","COL.6.117_1",NA
+"Colombia-Boyaca-Tutaza","Colombia","BOYACA","TUTAZA","COL.6.118_1",NA
+"Colombia-Boyaca-Umbita","Colombia","BOYACA","UMBITA","COL.6.119_1",NA
+"Colombia-Boyaca-Ventaquemada","Colombia","BOYACA","VENTAQUEMADA","COL.6.120_1",NA
+"Colombia-Boyaca-Viracacha","Colombia","BOYACA","VIRACACHA","COL.6.122_1",NA
+"Colombia-Boyaca-Zetaquira","Colombia","BOYACA","ZETAQUIRA","COL.6.123_1",NA
+"Colombia-Caldas-Manizales","Colombia","CALDAS","MANIZALES","COL.7.9_1",NA
+"Colombia-Caldas-Aguadas","Colombia","CALDAS","AGUADAS","COL.7.1_1",NA
+"Colombia-Caldas-Anserma","Colombia","CALDAS","ANSERMA","COL.7.2_1",NA
+"Colombia-Caldas-Aranzazu","Colombia","CALDAS","ARANZAZU","COL.7.3_1",NA
+"Colombia-Caldas-Belalcazar","Colombia","CALDAS","BELALCAZAR","COL.7.4_1",NA
+"Colombia-Caldas-Chinchina","Colombia","CALDAS","CHINCHINA","COL.7.5_1",NA
+"Colombia-Caldas-Filadelfia","Colombia","CALDAS","FILADELFIA","COL.7.6_1",NA
+"Colombia-Caldas-La_Dorada","Colombia","CALDAS","LA DORADA","COL.7.7_1",NA
+"Colombia-Caldas-La_Merced","Colombia","CALDAS","LA MERCED","COL.7.8_1",NA
+"Colombia-Caldas-Manzanares","Colombia","CALDAS","MANZANARES","COL.7.10_1",NA
+"Colombia-Caldas-Marmato","Colombia","CALDAS","MARMATO","COL.7.11_1",NA
+"Colombia-Caldas-Marquetalia","Colombia","CALDAS","MARQUETALIA","COL.7.12_1",NA
+"Colombia-Caldas-Marulanda","Colombia","CALDAS","MARULANDA","COL.7.13_1",NA
+"Colombia-Caldas-Neira","Colombia","CALDAS","NEIRA","COL.7.14_1",NA
+"Colombia-Caldas-Norcasia","Colombia","Caldas","Samaná","COL.7.21_1",NA
+"Colombia-Caldas-Pacora","Colombia","CALDAS","PACORA","COL.7.15_1",NA
+"Colombia-Caldas-Palestina","Colombia","CALDAS","PALESTINA","COL.7.16_1",NA
+"Colombia-Caldas-Pensilvania","Colombia","CALDAS","PENSILVANIA","COL.7.17_1",NA
+"Colombia-Caldas-Riosucio","Colombia","CALDAS","RIOSUCIO","COL.7.18_1",NA
+"Colombia-Caldas-Risaralda","Colombia","CALDAS","RISARALDA","COL.7.19_1",NA
+"Colombia-Caldas-Salamina","Colombia","CALDAS","SALAMINA","COL.7.20_1",NA
+"Colombia-Caldas-Samana","Colombia","CALDAS","SAMANA","COL.7.21_1",NA
+"Colombia-Caldas-San_Jose","Colombia","Caldas","Risaralda","COL.7.19_1",NA
+"Colombia-Caldas-Supia","Colombia","CALDAS","SUPIA","COL.7.22_1",NA
+"Colombia-Caldas-Victoria","Colombia","CALDAS","VICTORIA","COL.7.23_1",NA
+"Colombia-Caldas-Villamaria","Colombia","CALDAS","VILLAMARIA","COL.7.24_1",NA
+"Colombia-Caldas-Viterbo","Colombia","CALDAS","VITERBO","COL.7.25_1",NA
+"Colombia-Caqueta-Florencia","Colombia","CAQUETA","FLORENCIA","COL.8.7_1",NA
+"Colombia-Caqueta-Albania","Colombia","CAQUETA","ALBANIA","COL.8.1_1",NA
+"Colombia-Caqueta-Belen_De_Los_Andaquies","Colombia","CAQUETA","BELEN DE LOS ANDAQUIES","COL.8.2_1",NA
+"Colombia-Caqueta-Cartagena_Del_Chaira","Colombia","CAQUETA","CARTAGENA DEL CHAIRA","COL.8.3_1",NA
+"Colombia-Caqueta-Curillo","Colombia","CAQUETA","CURILLO","COL.8.4_1",NA
+"Colombia-Caqueta-El_Doncello","Colombia","CAQUETA","EL DONCELLO","COL.8.5_1",NA
+"Colombia-Caqueta-El_Paujil","Colombia","CAQUETA","EL PAUJIL","COL.8.6_1",NA
+"Colombia-Caqueta-La_Montanita","Colombia","CAQUETA","LA MONTANITA","COL.8.8_1",NA
+"Colombia-Caqueta-Milan","Colombia","CAQUETA","MILAN","COL.8.9_1",NA
+"Colombia-Caqueta-Morelia","Colombia","CAQUETA","MORELIA","COL.8.10_1",NA
+"Colombia-Caqueta-Puerto_Rico","Colombia","CAQUETA","PUERTO RICO","COL.8.11_1",NA
+"Colombia-Caqueta-San_Jose_Del_Fragua","Colombia","CAQUETA","SAN JOSE DEL FRAGUA","COL.8.12_1",NA
+"Colombia-Caqueta-San_Vicente_Del_Caguan","Colombia","CAQUETA","SAN VICENTE DEL CAGUAN","COL.8.13_1",NA
+"Colombia-Caqueta-Solano","Colombia","CAQUETA","SOLANO","COL.8.14_1",NA
+"Colombia-Caqueta-Solita","Colombia","Caquetá","Valparaíso","COL.8.15_1",NA
+"Colombia-Caqueta-Valparaiso","Colombia","CAQUETA","VALPARAISO","COL.8.15_1",NA
+"Colombia-Cauca-Popayan","Colombia","CAUCA","POPAYAN","COL.10.25_1",NA
+"Colombia-Cauca-Almaguer","Colombia","CAUCA","ALMAGUER","COL.10.1_1",NA
+"Colombia-Cauca-Argelia","Colombia","CAUCA","ARGELIA","COL.10.2_1",NA
+"Colombia-Cauca-Balboa","Colombia","CAUCA","BALBOA","COL.10.3_1",NA
+"Colombia-Cauca-Bolivar","Colombia","CAUCA","BOLIVAR","COL.10.4_1",NA
+"Colombia-Cauca-Buenos_Aires","Colombia","CAUCA","BUENOS AIRES","COL.10.5_1",NA
+"Colombia-Cauca-Cajibio","Colombia","CAUCA","CAJIBIO","COL.10.6_1",NA
+"Colombia-Cauca-Caldono","Colombia","CAUCA","CALDONO","COL.10.7_1",NA
+"Colombia-Cauca-Caloto","Colombia","CAUCA","CALOTO","COL.10.8_1",NA
+"Colombia-Cauca-Corinto","Colombia","CAUCA","CORINTO","COL.10.9_1",NA
+"Colombia-Cauca-El_Tambo","Colombia","CAUCA","EL TAMBO","COL.10.10_1",NA
+"Colombia-Cauca-Florencia","Colombia","CAUCA","FLORENCIA","COL.10.11_1",NA
+"Colombia-Cauca-Guachene","Colombia","CAUCA","GUACHENE","COL.10.8_1",NA
+"Colombia-Cauca-Guapi","Colombia","CAUCA","GUAPI","COL.10.12_1",NA
+"Colombia-Cauca-Inza","Colombia","CAUCA","INZA","COL.10.13_1",NA
+"Colombia-Cauca-Jambalo","Colombia","CAUCA","JAMBALO","COL.10.14_1",NA
+"Colombia-Cauca-La_Sierra","Colombia","CAUCA","LA SIERRA","COL.10.15_1",NA
+"Colombia-Cauca-La_Vega","Colombia","CAUCA","LA VEGA","COL.10.16_1",NA
+"Colombia-Cauca-Lopez","Colombia","CAUCA","LOPEZ","COL.10.17_1",NA
+"Colombia-Cauca-Mercaderes","Colombia","CAUCA","MERCADERES","COL.10.18_1",NA
+"Colombia-Cauca-Miranda","Colombia","CAUCA","MIRANDA","COL.10.19_1",NA
+"Colombia-Cauca-Morales","Colombia","CAUCA","MORALES","COL.10.20_1",NA
+"Colombia-Cauca-Padilla","Colombia","CAUCA","PADILLA","COL.10.21_1",NA
+"Colombia-Cauca-Paez","Colombia","CAUCA","PAEZ","COL.10.22_1",NA
+"Colombia-Cauca-Patia","Colombia","CAUCA","PATIA","COL.10.23_1",NA
+"Colombia-Cauca-Piamonte","Colombia","Cauca","Santa Rosa","COL.10.30_1",NA
+"Colombia-Cauca-Piendamo","Colombia","CAUCA","PIENDAMO","COL.10.24_1",NA
+"Colombia-Cauca-Puerto_Tejada","Colombia","CAUCA","PUERTO TEJADA","COL.10.26_1",NA
+"Colombia-Cauca-Purace","Colombia","CAUCA","PURACE","COL.10.27_1",NA
+"Colombia-Cauca-Rosas","Colombia","CAUCA","ROSAS","COL.10.28_1",NA
+"Colombia-Cauca-San_Sebastian","Colombia","CAUCA","SAN SEBASTIAN","COL.10.29_1",NA
+"Colombia-Cauca-Santander_De_Quilichao","Colombia","CAUCA","SANTANDER DE QUILICHAO","COL.10.31_1",NA
+"Colombia-Cauca-Santa_Rosa","Colombia","CAUCA","SANTA ROSA","COL.10.30_1",NA
+"Colombia-Cauca-Silvia","Colombia","CAUCA","SILVIA","COL.10.32_1",NA
+"Colombia-Cauca-Sotara","Colombia","CAUCA","SOTARA","COL.10.33_1",NA
+"Colombia-Cauca-Suarez","Colombia","CAUCA","SUAREZ","COL.10.34_1",NA
+"Colombia-Cauca-Sucre","Colombia","CAUCA","SUCRE","COL.10.4_1",NA
+"Colombia-Cauca-Timbio","Colombia","CAUCA","TIMBIO","COL.10.35_1",NA
+"Colombia-Cauca-Timbiqui","Colombia","CAUCA","TIMBIQUI","COL.10.36_1",NA
+"Colombia-Cauca-Toribio","Colombia","CAUCA","TORIBIO","COL.10.37_1",NA
+"Colombia-Cauca-Totoro","Colombia","CAUCA","TOTORO","COL.10.38_1",NA
+"Colombia-Cauca-Villa_Rica","Colombia","CAUCA","VILLA RICA","COL.10.10_1",NA
+"Colombia-Cesar-Valledupar","Colombia","CESAR","VALLEDUPAR","COL.11.24_1",NA
+"Colombia-Cesar-Aguachica","Colombia","CESAR","AGUACHICA","COL.11.1_1",NA
+"Colombia-Cesar-Agustin_Codazzi","Colombia","CESAR","AGUSTIN CODAZZI","COL.11.2_1",NA
+"Colombia-Cesar-Astrea","Colombia","CESAR","ASTREA","COL.11.3_1",NA
+"Colombia-Cesar-Becerril","Colombia","CESAR","BECERRIL","COL.11.4_1",NA
+"Colombia-Cesar-Bosconia","Colombia","CESAR","BOSCONIA","COL.11.5_1",NA
+"Colombia-Cesar-Chimichagua","Colombia","CESAR","CHIMICHAGUA","COL.11.6_1",NA
+"Colombia-Cesar-Chiriguana","Colombia","CESAR","CHIRIGUANA","COL.11.7_1",NA
+"Colombia-Cesar-Curumani","Colombia","CESAR","CURUMANI","COL.11.8_1",NA
+"Colombia-Cesar-El_Copey","Colombia","CESAR","EL COPEY","COL.11.9_1",NA
+"Colombia-Cesar-El_Paso","Colombia","CESAR","EL PASO","COL.11.10_1",NA
+"Colombia-Cesar-Gamarra","Colombia","CESAR","GAMARRA","COL.11.11_1",NA
+"Colombia-Cesar-Gonzalez","Colombia","CESAR","GONZALEZ","COL.11.12_1",NA
+"Colombia-Cesar-La_Gloria","Colombia","CESAR","LA GLORIA","COL.11.13_1",NA
+"Colombia-Cesar-La_Jagua_De_Ibirico","Colombia","CESAR","LA JAGUA DE IBIRICO","COL.11.14_1",NA
+"Colombia-Cesar-Manaure","Colombia","CESAR","MANAURE","COL.11.16_1",NA
+"Colombia-Cesar-Pailitas","Colombia","CESAR","PAILITAS","COL.11.17_1",NA
+"Colombia-Cesar-Pelaya","Colombia","CESAR","PELAYA","COL.11.18_1",NA
+"Colombia-Cesar-Pueblo_Bello","Colombia","Cesar","Valledupar","COL.11.24_1",NA
+"Colombia-Cesar-Rio_De_Oro","Colombia","CESAR","RIO DE ORO","COL.11.19_1",NA
+"Colombia-Cesar-La_Paz","Colombia","CESAR","LA PAZ","COL.11.15_1",NA
+"Colombia-Cesar-San_Alberto","Colombia","CESAR","SAN ALBERTO","COL.11.20_1",NA
+"Colombia-Cesar-San_Diego","Colombia","CESAR","SAN DIEGO","COL.11.21_1",NA
+"Colombia-Cesar-San_Martin","Colombia","CESAR","SAN MARTIN","COL.11.22_1",NA
+"Colombia-Cesar-Tamalameque","Colombia","CESAR","TAMALAMEQUE","COL.11.23_1",NA
+"Colombia-Cordoba-Monteria","Colombia","CORDOBA","MONTERIA","COL.13.12_1",NA
+"Colombia-Cordoba-Ayapel","Colombia","CORDOBA","AYAPEL","COL.13.1_1",NA
+"Colombia-Cordoba-Buenavista","Colombia","CORDOBA","BUENAVISTA","COL.13.2_1",NA
+"Colombia-Cordoba-Canalete","Colombia","CORDOBA","CANALETE","COL.13.3_1",NA
+"Colombia-Cordoba-Cerete","Colombia","CORDOBA","CERETE","COL.13.4_1",NA
+"Colombia-Cordoba-Chima","Colombia","CORDOBA","CHIMA","COL.13.5_1",NA
+"Colombia-Cordoba-Chinu","Colombia","CORDOBA","CHINU","COL.13.6_1",NA
+"Colombia-Cordoba-Cienaga_De_Oro","Colombia","CORDOBA","CIENAGA DE ORO","COL.13.7_1",NA
+"Colombia-Cordoba-Cotorra","Colombia","Córdoba","Santa Cruz de Lorica","COL.13.24_1",NA
+"Colombia-Cordoba-La_Apartada","Colombia","Córdoba","Ayapel","COL.13.1_1",NA
+"Colombia-Cordoba-Lorica","Colombia","CORDOBA","LORICA","COL.13.24_1",NA
+"Colombia-Cordoba-Los_Cordobas","Colombia","CORDOBA","LOS CORDOBAS","COL.13.8_1",NA
+"Colombia-Cordoba-Momil","Colombia","CORDOBA","MOMIL","COL.13.9_1",NA
+"Colombia-Cordoba-Montelibano","Colombia","CORDOBA","MONTELIBANO","COL.13.11_1",NA
+"Colombia-Cordoba-Monitos","Colombia","CORDOBA","MONITOS","COL.13.10_1",NA
+"Colombia-Cordoba-Planeta_Rica","Colombia","CORDOBA","PLANETA RICA","COL.13.13_1",NA
+"Colombia-Cordoba-Pueblo_Nuevo","Colombia","CORDOBA","PUEBLO NUEVO","COL.13.14_1",NA
+"Colombia-Cordoba-Puerto_Escondido","Colombia","CORDOBA","PUERTO ESCONDIDO","COL.13.15_1",NA
+"Colombia-Cordoba-Puerto_Libertador","Colombia","CORDOBA","PUERTO LIBERTADOR","COL.13.16_1",NA
+"Colombia-Cordoba-Purisima","Colombia","CORDOBA","PURISIMA","COL.13.17_1",NA
+"Colombia-Cordoba-Sahagun","Colombia","CORDOBA","SAHAGUN","COL.13.20_1",NA
+"Colombia-Cordoba-San_Andres_Sotavento","Colombia","CORDOBA","SAN ANDRES SOTAVENTO","COL.13.18_1",NA
+"Colombia-Cordoba-San_Antero","Colombia","CORDOBA","SAN ANTERO","COL.13.19_1",NA
+"Colombia-Cordoba-San_Bernardo_Del_Viento","Colombia","CORDOBA","SAN BERNARDO DEL VIENTO","COL.13.21_1",NA
+"Colombia-Cordoba-San_Carlos","Colombia","CORDOBA","SAN CARLOS","COL.13.22_1",NA
+"Colombia-Cordoba-San_Jose_De_Ure","Colombia","Córdoba","Montelíbano","COL.13.11_1",NA
+"Colombia-Cordoba-San_Pelayo","Colombia","CORDOBA","SAN PELAYO","COL.13.23_1",NA
+"Colombia-Cordoba-Tierralta","Colombia","CORDOBA","TIERRALTA","COL.13.25_1",NA
+"Colombia-Cordoba-Tuchin","Colombia","Córdoba","San Andrés de Sotavento","COL.13.18_1",NA
+"Colombia-Cordoba-Valencia","Colombia","CORDOBA","VALENCIA","COL.13.26_1",NA
+"Colombia-Cundinamarca-Agua_De_Dios","Colombia","CUNDINAMARCA","AGUA DE DIOS","COL.14.1_1",NA
+"Colombia-Cundinamarca-Alban","Colombia","CUNDINAMARCA","ALBAN","COL.14.2_1",NA
+"Colombia-Cundinamarca-Anapoima","Colombia","CUNDINAMARCA","ANAPOIMA","COL.14.3_1",NA
+"Colombia-Cundinamarca-Anolaima","Colombia","CUNDINAMARCA","ANOLAIMA","COL.14.4_1",NA
+"Colombia-Cundinamarca-Arbelaez","Colombia","CUNDINAMARCA","ARBELAEZ","COL.14.6_1",NA
+"Colombia-Cundinamarca-Beltran","Colombia","CUNDINAMARCA","BELTRAN","COL.14.7_1",NA
+"Colombia-Cundinamarca-Bituima","Colombia","CUNDINAMARCA","BITUIMA","COL.14.8_1",NA
+"Colombia-Cundinamarca-Bojaca","Colombia","CUNDINAMARCA","BOJACA","COL.14.9_1",NA
+"Colombia-Cundinamarca-Cabrera","Colombia","CUNDINAMARCA","CABRERA","COL.14.10_1",NA
+"Colombia-Cundinamarca-Cachipay","Colombia","CUNDINAMARCA","CACHIPAY","COL.14.11_1",NA
+"Colombia-Cundinamarca-Cajica","Colombia","CUNDINAMARCA","CAJICA","COL.14.12_1",NA
+"Colombia-Cundinamarca-Caparrapi","Colombia","CUNDINAMARCA","CAPARRAPI","COL.14.13_1",NA
+"Colombia-Cundinamarca-Caqueza","Colombia","CUNDINAMARCA","CAQUEZA","COL.14.14_1",NA
+"Colombia-Cundinamarca-Carmen_De_Carupa","Colombia","CUNDINAMARCA","CARMEN DE CARUPA","COL.14.15_1",NA
+"Colombia-Cundinamarca-Chaguani","Colombia","CUNDINAMARCA","CHAGUANI","COL.14.16_1",NA
+"Colombia-Cundinamarca-Chia","Colombia","CUNDINAMARCA","CHIA","COL.14.17_1",NA
+"Colombia-Cundinamarca-Chipaque","Colombia","CUNDINAMARCA","CHIPAQUE","COL.14.18_1",NA
+"Colombia-Cundinamarca-Choachi","Colombia","CUNDINAMARCA","CHOACHI","COL.14.19_1",NA
+"Colombia-Cundinamarca-Choconta","Colombia","CUNDINAMARCA","CHOCONTA","COL.14.20_1",NA
+"Colombia-Cundinamarca-Cogua","Colombia","CUNDINAMARCA","COGUA","COL.14.21_1",NA
+"Colombia-Cundinamarca-Cota","Colombia","CUNDINAMARCA","COTA","COL.14.22_1",NA
+"Colombia-Cundinamarca-Cucunuba","Colombia","CUNDINAMARCA","CUCUNUBA","COL.14.23_1",NA
+"Colombia-Cundinamarca-El_Colegio","Colombia","CUNDINAMARCA","EL COLEGIO","COL.14.24_1",NA
+"Colombia-Cundinamarca-El_Penon","Colombia","CUNDINAMARCA","EL PENON","COL.14.25_1",NA
+"Colombia-Cundinamarca-El_Rosal","Colombia","Cundinamarca","Subachoque","COL.14.87_1",NA
+"Colombia-Cundinamarca-Facatativa","Colombia","CUNDINAMARCA","FACATATIVA","COL.14.26_1",NA
+"Colombia-Cundinamarca-Fomeque","Colombia","CUNDINAMARCA","FOMEQUE","COL.14.27_1",NA
+"Colombia-Cundinamarca-Fosca","Colombia","CUNDINAMARCA","FOSCA","COL.14.28_1",NA
+"Colombia-Cundinamarca-Funza","Colombia","CUNDINAMARCA","FUNZA","COL.14.29_1",NA
+"Colombia-Cundinamarca-Fuquene","Colombia","CUNDINAMARCA","FUQUENE","COL.14.30_1",NA
+"Colombia-Cundinamarca-Fusagasuga","Colombia","CUNDINAMARCA","FUSAGASUGA","COL.14.31_1",NA
+"Colombia-Cundinamarca-Gachala","Colombia","CUNDINAMARCA","GACHALA","COL.14.32_1",NA
+"Colombia-Cundinamarca-Gachancipa","Colombia","CUNDINAMARCA","GACHANCIPA","COL.14.33_1",NA
+"Colombia-Cundinamarca-Gacheta","Colombia","CUNDINAMARCA","GACHETA","COL.14.34_1",NA
+"Colombia-Cundinamarca-Gama","Colombia","CUNDINAMARCA","GAMA","COL.14.35_1",NA
+"Colombia-Cundinamarca-Girardot","Colombia","CUNDINAMARCA","GIRARDOT","COL.14.36_1",NA
+"Colombia-Cundinamarca-Granada","Colombia","Cundinamarca","Soacha","COL.14.85_1",NA
+"Colombia-Cundinamarca-Guacheta","Colombia","CUNDINAMARCA","GUACHETA","COL.14.37_1",NA
+"Colombia-Cundinamarca-Guaduas","Colombia","CUNDINAMARCA","GUADUAS","COL.14.38_1",NA
+"Colombia-Cundinamarca-Guasca","Colombia","CUNDINAMARCA","GUASCA","COL.14.39_1",NA
+"Colombia-Cundinamarca-Guataqui","Colombia","CUNDINAMARCA","GUATAQUI","COL.14.40_1",NA
+"Colombia-Cundinamarca-Guatavita","Colombia","CUNDINAMARCA","GUATAVITA","COL.14.41_1",NA
+"Colombia-Cundinamarca-Guayabal_De_Siquima","Colombia","CUNDINAMARCA","GUAYABAL DE SIQUIMA","COL.14.42_1",NA
+"Colombia-Cundinamarca-Guayabetal","Colombia","CUNDINAMARCA","GUAYABETAL","COL.14.43_1",NA
+"Colombia-Cundinamarca-Gutierrez","Colombia","CUNDINAMARCA","GUTIERREZ","COL.14.44_1",NA
+"Colombia-Cundinamarca-Jerusalen","Colombia","CUNDINAMARCA","JERUSALEN","COL.14.45_1",NA
+"Colombia-Cundinamarca-Junin","Colombia","CUNDINAMARCA","JUNIN","COL.14.46_1",NA
+"Colombia-Cundinamarca-La_Calera","Colombia","CUNDINAMARCA","LA CALERA","COL.14.47_1",NA
+"Colombia-Cundinamarca-La_Mesa","Colombia","CUNDINAMARCA","LA MESA","COL.14.48_1",NA
+"Colombia-Cundinamarca-La_Palma","Colombia","CUNDINAMARCA","LA PALMA","COL.14.49_1",NA
+"Colombia-Cundinamarca-La_Pena","Colombia","CUNDINAMARCA","LA PENA","COL.14.50_1",NA
+"Colombia-Cundinamarca-La_Vega","Colombia","CUNDINAMARCA","LA VEGA","COL.14.51_1",NA
+"Colombia-Cundinamarca-Lenguazaque","Colombia","CUNDINAMARCA","LENGUAZAQUE","COL.14.52_1",NA
+"Colombia-Cundinamarca-Macheta","Colombia","CUNDINAMARCA","MACHETA","COL.14.53_1",NA
+"Colombia-Cundinamarca-Madrid","Colombia","CUNDINAMARCA","MADRID","COL.14.54_1",NA
+"Colombia-Cundinamarca-Manta","Colombia","CUNDINAMARCA","MANTA","COL.14.55_1",NA
+"Colombia-Cundinamarca-Medina","Colombia","CUNDINAMARCA","MEDINA","COL.14.56_1",NA
+"Colombia-Cundinamarca-Mosquera","Colombia","CUNDINAMARCA","MOSQUERA","COL.14.57_1",NA
+"Colombia-Cundinamarca-Narino","Colombia","CUNDINAMARCA","NARINO","COL.14.58_1",NA
+"Colombia-Cundinamarca-Nemocon","Colombia","CUNDINAMARCA","NEMOCON","COL.14.59_1",NA
+"Colombia-Cundinamarca-Nilo","Colombia","CUNDINAMARCA","NILO","COL.14.60_1",NA
+"Colombia-Cundinamarca-Nimaima","Colombia","CUNDINAMARCA","NIMAIMA","COL.14.61_1",NA
+"Colombia-Cundinamarca-Nocaima","Colombia","CUNDINAMARCA","NOCAIMA","COL.14.62_1",NA
+"Colombia-Cundinamarca-Venecia","Colombia","CUNDINAMARCA","VENECIA","COL.14.105_1",NA
+"Colombia-Cundinamarca-Pacho","Colombia","CUNDINAMARCA","PACHO","COL.14.63_1",NA
+"Colombia-Cundinamarca-Paime","Colombia","CUNDINAMARCA","PAIME","COL.14.64_1",NA
+"Colombia-Cundinamarca-Pandi","Colombia","CUNDINAMARCA","PANDI","COL.14.65_1",NA
+"Colombia-Cundinamarca-Paratebueno","Colombia","CUNDINAMARCA","PARATEBUENO","COL.14.66_1",NA
+"Colombia-Cundinamarca-Pasca","Colombia","CUNDINAMARCA","PASCA","COL.14.67_1",NA
+"Colombia-Cundinamarca-Puerto_Salgar","Colombia","CUNDINAMARCA","PUERTO SALGAR","COL.14.68_1",NA
+"Colombia-Cundinamarca-Puli","Colombia","CUNDINAMARCA","PULI","COL.14.69_1",NA
+"Colombia-Cundinamarca-Quebradanegra","Colombia","CUNDINAMARCA","QUEBRADANEGRA","COL.14.70_1",NA
+"Colombia-Cundinamarca-Quetame","Colombia","CUNDINAMARCA","QUETAME","COL.14.71_1",NA
+"Colombia-Cundinamarca-Quipile","Colombia","CUNDINAMARCA","QUIPILE","COL.14.72_1",NA
+"Colombia-Cundinamarca-Apulo","Colombia","CUNDINAMARCA","APULO","COL.14.5_1",NA
+"Colombia-Cundinamarca-Rafael_Reyes_Apulo",NA,NA,NA,"COL.14.5_1",NA
+"Colombia-Cundinamarca-Ricaurte","Colombia","CUNDINAMARCA","RICAURTE","COL.14.73_1",NA
+"Colombia-Cundinamarca-San_Antonio_Del_Tequendama","Colombia","CUNDINAMARCA","SAN ANTONIO DEL TEQUENDAMA","COL.14.74_1",NA
+"Colombia-Cundinamarca-San_Bernardo","Colombia","CUNDINAMARCA","SAN BERNARDO","COL.14.75_1",NA
+"Colombia-Cundinamarca-San_Cayetano","Colombia","CUNDINAMARCA","SAN CAYETANO","COL.14.76_1",NA
+"Colombia-Cundinamarca-San_Francisco","Colombia","CUNDINAMARCA","SAN FRANCISCO","COL.14.77_1",NA
+"Colombia-Cundinamarca-San_Juan_De_Rio_Seco","Colombia","CUNDINAMARCA","SAN JUAN DE RIO SECO","COL.14.78_1",NA
+"Colombia-Cundinamarca-Sasaima","Colombia","CUNDINAMARCA","SASAIMA","COL.14.80_1",NA
+"Colombia-Cundinamarca-Sesquile","Colombia","CUNDINAMARCA","SESQUILE","COL.14.81_1",NA
+"Colombia-Cundinamarca-Sibate","Colombia","CUNDINAMARCA","SIBATE","COL.14.82_1",NA
+"Colombia-Cundinamarca-Silvania","Colombia","CUNDINAMARCA","SILVANIA","COL.14.83_1",NA
+"Colombia-Cundinamarca-Simijaca","Colombia","CUNDINAMARCA","SIMIJACA","COL.14.84_1",NA
+"Colombia-Cundinamarca-Soacha","Colombia","CUNDINAMARCA","SOACHA","COL.14.85_1",NA
+"Colombia-Cundinamarca-Sopo","Colombia","CUNDINAMARCA","SOPO","COL.14.86_1",NA
+"Colombia-Cundinamarca-Subachoque","Colombia","CUNDINAMARCA","SUBACHOQUE","COL.14.87_1",NA
+"Colombia-Cundinamarca-Suesca","Colombia","CUNDINAMARCA","SUESCA","COL.14.88_1",NA
+"Colombia-Cundinamarca-Supata","Colombia","CUNDINAMARCA","SUPATA","COL.14.89_1",NA
+"Colombia-Cundinamarca-Susa","Colombia","CUNDINAMARCA","SUSA","COL.14.90_1",NA
+"Colombia-Cundinamarca-Sutatausa","Colombia","CUNDINAMARCA","SUTATAUSA","COL.14.91_1",NA
+"Colombia-Cundinamarca-Tabio","Colombia","CUNDINAMARCA","TABIO","COL.14.92_1",NA
+"Colombia-Cundinamarca-Tausa","Colombia","CUNDINAMARCA","TAUSA","COL.14.93_1",NA
+"Colombia-Cundinamarca-Tena","Colombia","CUNDINAMARCA","TENA","COL.14.94_1",NA
+"Colombia-Cundinamarca-Tenjo","Colombia","CUNDINAMARCA","TENJO","COL.14.95_1",NA
+"Colombia-Cundinamarca-Tibacuy","Colombia","CUNDINAMARCA","TIBACUY","COL.14.96_1",NA
+"Colombia-Cundinamarca-Tibirita","Colombia","CUNDINAMARCA","TIBIRITA","COL.14.97_1",NA
+"Colombia-Cundinamarca-Tocaima","Colombia","CUNDINAMARCA","TOCAIMA","COL.14.98_1",NA
+"Colombia-Cundinamarca-Tocancipa","Colombia","CUNDINAMARCA","TOCANCIPA","COL.14.99_1",NA
+"Colombia-Cundinamarca-Topaipi","Colombia","CUNDINAMARCA","TOPAIPI","COL.14.100_1",NA
+"Colombia-Cundinamarca-Ubala","Colombia","CUNDINAMARCA","UBALA","COL.14.101_1",NA
+"Colombia-Cundinamarca-Ubaque","Colombia","CUNDINAMARCA","UBAQUE","COL.14.102_1",NA
+"Colombia-Cundinamarca-Villa_De_San_Diego_De_Ubate","Colombia","CUNDINAMARCA","VILLA DE SAN DIEGO DE UBATE","COL.14.108_1",NA
+"Colombia-Cundinamarca-Une","Colombia","CUNDINAMARCA","UNE","COL.14.103_1",NA
+"Colombia-Cundinamarca-Utica","Colombia","CUNDINAMARCA","UTICA","COL.14.104_1",NA
+"Colombia-Cundinamarca-Vergara","Colombia","CUNDINAMARCA","VERGARA","COL.14.106_1",NA
+"Colombia-Cundinamarca-Viani","Colombia","CUNDINAMARCA","VIANI","COL.14.107_1",NA
+"Colombia-Cundinamarca-Villagomez","Colombia","CUNDINAMARCA","VILLAGOMEZ","COL.14.109_1",NA
+"Colombia-Cundinamarca-Villapinzon","Colombia","CUNDINAMARCA","VILLAPINZON","COL.14.110_1",NA
+"Colombia-Cundinamarca-Villeta","Colombia","CUNDINAMARCA","VILLETA","COL.14.111_1",NA
+"Colombia-Cundinamarca-Viota","Colombia","CUNDINAMARCA","VIOTA","COL.14.112_1",NA
+"Colombia-Cundinamarca-Yacopi","Colombia","CUNDINAMARCA","YACOPI","COL.14.113_1",NA
+"Colombia-Cundinamarca-Zipacon","Colombia","CUNDINAMARCA","ZIPACON","COL.14.114_1",NA
+"Colombia-Cundinamarca-Zipaquira","Colombia","CUNDINAMARCA","ZIPAQUIRA","COL.14.115_1",NA
+"Colombia-Choco-Quibdo","Colombia","CHOCO","QUIBDO","COL.12.16_1",NA
+"Colombia-Choco-Acandi","Colombia","CHOCO","ACANDI","COL.12.1_1",NA
+"Colombia-Choco-Alto_Baudo","Colombia","CHOCO","ALTO BAUDO","COL.12.2_1",NA
+"Colombia-Choco-Atrato","Colombia","CHOCO","ATRATO","COL.12.9_1",NA
+"Colombia-Choco-Bagado","Colombia","CHOCO","BAGADO","COL.12.3_1",NA
+"Colombia-Choco-Bahia_Solano","Colombia","CHOCO","BAHIA SOLANO","COL.12.4_1",NA
+"Colombia-Choco-Bajo_Baudo","Colombia","CHOCO","BAJO BAUDO","COL.12.5_1",NA
+"Colombia-Choco-Belen_De_Bajira","Colombia","CHOCO","BELEN DE BAJIRA","COL.12.17_1",NA
+"Colombia-Choco-Bojaya","Colombia","CHOCO","BOJAYA","COL.12.6_1",NA
+"Colombia-Choco-El_Canton_Del_San_Pablo","Colombia","CHOCO","EL CANTON DEL SAN PABLO","COL.12.8_1",NA
+"Colombia-Choco-Carmen_Del_Darien","Colombia","Chocó","Riosucio","COL.12.17_1",NA
+"Colombia-Choco-Certegui","Colombia","CHOCO","CERTEGUI","COL.12.20_1",NA
+"Colombia-Choco-Condoto","Colombia","CHOCO","CONDOTO","COL.12.7_1",NA
+"Colombia-Choco-El_Carmen_De_Atrato","Colombia","CHOCO","EL CARMEN DE ATRATO","COL.12.9_1",NA
+"Colombia-Choco-El_Litoral_Del_San_Juan","Colombia","CHOCO","EL LITORAL DEL SAN JUAN","COL.12.10_1",NA
+"Colombia-Choco-Istmina","Colombia","CHOCO","ISTMINA","COL.12.11_1",NA
+"Colombia-Choco-Jurado","Colombia","CHOCO","JURADO","COL.12.12_1",NA
+"Colombia-Choco-Lloro","Colombia","CHOCO","LLORO","COL.12.13_1",NA
+"Colombia-Choco-Medio_Atrato","Colombia","CHOCO","MEDIO ATRATO","COL.12.9_1",NA
+"Colombia-Choco-Medio_Baudo","Colombia","Chocó","Bajo Baudó","COL.12.5_1",NA
+"Colombia-Choco-Medio_San_Juan","Colombia","Chocó","Istmina","COL.12.11_1",NA
+"Colombia-Choco-Novita","Colombia","CHOCO","NOVITA","COL.12.14_1",NA
+"Colombia-Choco-Nuqui","Colombia","CHOCO","NUQUI","COL.12.15_1",NA
+"Colombia-Choco-Rio_Iro","Colombia","Chocó","Condoto","COL.12.7_1",NA
+"Colombia-Choco-Rio_Quito","Colombia","Chocó","Quibdó","COL.12.16_1",NA
+"Colombia-Choco-Riosucio","Colombia","CHOCO","RIOSUCIO","COL.12.17_1",NA
+"Colombia-Choco-San_Jose_Del_Palmar","Colombia","CHOCO","SAN JOSE DEL PALMAR","COL.12.18_1",NA
+"Colombia-Choco-Sipi","Colombia","CHOCO","SIPI","COL.12.19_1",NA
+"Colombia-Choco-Tado","Colombia","CHOCO","TADO","COL.12.20_1",NA
+"Colombia-Choco-Unguia","Colombia","CHOCO","UNGUIA","COL.12.21_1",NA
+"Colombia-Choco-Union_Panamericana","Colombia","Chocó","El Cantón del San Pablo","COL.12.8_1",NA
+"Colombia-Huila-Neiva","Colombia","HUILA","NEIVA","COL.17.19_1",NA
+"Colombia-Huila-Acevedo","Colombia","HUILA","ACEVEDO","COL.17.1_1",NA
+"Colombia-Huila-Agrado","Colombia","HUILA","AGRADO","COL.17.2_1",NA
+"Colombia-Huila-Aipe","Colombia","HUILA","AIPE","COL.17.3_1",NA
+"Colombia-Huila-Algeciras","Colombia","HUILA","ALGECIRAS","COL.17.4_1",NA
+"Colombia-Huila-Altamira","Colombia","HUILA","ALTAMIRA","COL.17.5_1",NA
+"Colombia-Huila-Baraya","Colombia","HUILA","BARAYA","COL.17.6_1",NA
+"Colombia-Huila-Campoalegre","Colombia","HUILA","CAMPOALEGRE","COL.17.7_1",NA
+"Colombia-Huila-Colombia","Colombia","HUILA","COLOMBIA","COL.17.8_1",NA
+"Colombia-Huila-Elias","Colombia","HUILA","ELIAS","COL.17.9_1",NA
+"Colombia-Huila-Garzon","Colombia","HUILA","GARZON","COL.17.10_1",NA
+"Colombia-Huila-Gigante","Colombia","HUILA","GIGANTE","COL.17.11_1",NA
+"Colombia-Huila-Guadalupe","Colombia","HUILA","GUADALUPE","COL.17.12_1",NA
+"Colombia-Huila-Hobo","Colombia","HUILA","HOBO","COL.17.13_1",NA
+"Colombia-Huila-Iquira","Colombia","HUILA","IQUIRA","COL.17.14_1",NA
+"Colombia-Huila-Isnos","Colombia","HUILA","ISNOS","COL.17.15_1",NA
+"Colombia-Huila-La_Argentina","Colombia","HUILA","LA ARGENTINA","COL.17.16_1",NA
+"Colombia-Huila-La_Plata","Colombia","HUILA","LA PLATA","COL.17.17_1",NA
+"Colombia-Huila-Nataga","Colombia","HUILA","NATAGA","COL.17.18_1",NA
+"Colombia-Huila-Oporapa","Colombia","HUILA","OPORAPA","COL.17.20_1",NA
+"Colombia-Huila-Paicol","Colombia","HUILA","PAICOL","COL.17.21_1",NA
+"Colombia-Huila-Palermo","Colombia","HUILA","PALERMO","COL.17.22_1",NA
+"Colombia-Huila-Palestina","Colombia","HUILA","PALESTINA","COL.17.23_1",NA
+"Colombia-Huila-Pital","Colombia","HUILA","PITAL","COL.17.24_1",NA
+"Colombia-Huila-Pitalito","Colombia","HUILA","PITALITO","COL.17.25_1",NA
+"Colombia-Huila-Rivera","Colombia","HUILA","RIVERA","COL.17.26_1",NA
+"Colombia-Huila-Saladoblanco","Colombia","HUILA","SALADOBLANCO","COL.17.27_1",NA
+"Colombia-Huila-San_Agustin","Colombia","HUILA","SAN AGUSTIN","COL.17.28_1",NA
+"Colombia-Huila-Santa_Maria","Colombia","HUILA","SANTA MARIA","COL.17.29_1",NA
+"Colombia-Huila-Suaza","Colombia","HUILA","SUAZA","COL.17.30_1",NA
+"Colombia-Huila-Tarqui","Colombia","HUILA","TARQUI","COL.17.31_1",NA
+"Colombia-Huila-Tesalia","Colombia","HUILA","TESALIA","COL.17.34_1",NA
+"Colombia-Huila-Tello","Colombia","HUILA","TELLO","COL.17.32_1",NA
+"Colombia-Huila-Teruel","Colombia","HUILA","TERUEL","COL.17.33_1",NA
+"Colombia-Huila-Timana","Colombia","HUILA","TIMANA","COL.17.35_1",NA
+"Colombia-Huila-Villavieja","Colombia","HUILA","VILLAVIEJA","COL.17.36_1",NA
+"Colombia-Huila-Yaguara","Colombia","HUILA","YAGUARA","COL.17.37_1",NA
+"Colombia-Guajira-Riohacha","Colombia","LA GUAJIRA","RIOHACHA","COL.18.6_1",NA
+"Colombia-Guajira-Albania","Colombia","La Guajira","Maicao","COL.18.4_1",NA
+"Colombia-Guajira-Barrancas","Colombia","LA GUAJIRA","BARRANCAS","COL.18.1_1",NA
+"Colombia-Guajira-Dibulla","Colombia","La Guajira","Riohacha","COL.18.6_1",NA
+"Colombia-Guajira-Distraccion","Colombia","La Guajira","Fonseca","COL.18.3_1",NA
+"Colombia-Guajira-El_Molino","Colombia","LA GUAJIRA","EL MOLINO","COL.18.2_1",NA
+"Colombia-Guajira-Fonseca","Colombia","LA GUAJIRA","FONSECA","COL.18.3_1",NA
+"Colombia-Guajira-Hatonuevo","Colombia","La Guajira","Barrancas","COL.18.1_1",NA
+"Colombia-Guajira-La_Jagua_Del_Pilar","Colombia","La Guajira","Urumita","COL.18.9_1",NA
+"Colombia-Guajira-Maicao","Colombia","LA GUAJIRA","MAICAO","COL.18.4_1",NA
+"Colombia-Guajira-Manaure","Colombia","LA GUAJIRA","MANAURE","COL.18.5_1",NA
+"Colombia-Guajira-San_Juan_Del_Cesar","Colombia","LA GUAJIRA","SAN JUAN DEL CESAR","COL.18.7_1",NA
+"Colombia-Guajira-Uribia","Colombia","LA GUAJIRA","URIBIA","COL.18.8_1",NA
+"Colombia-Guajira-Urumita","Colombia","LA GUAJIRA","URUMITA","COL.18.9_1",NA
+"Colombia-Guajira-Villanueva","Colombia","LA GUAJIRA","VILLANUEVA","COL.18.10_1",NA
+"Colombia-Sta_Marta_DE-Santa_Marta",NA,NA,NA,"COL.19.19_1",NA
+"Colombia-Magdalena-Sitio_Nuevo",NA,NA,NA,"COL.19.17_1",NA
+"Colombia-Magdalena-Algarrobo","Colombia","Magdalena","Ariguaní","COL.19.2_1",NA
+"Colombia-Magdalena-Aracataca","Colombia","MAGDALENA","ARACATACA","COL.19.1_1",NA
+"Colombia-Magdalena-Ariguani","Colombia","MAGDALENA","ARIGUANI","COL.19.2_1",NA
+"Colombia-Magdalena-Cerro_San_Antonio","Colombia","MAGDALENA","CERRO SAN ANTONIO","COL.19.3_1",NA
+"Colombia-Magdalena-Chibolo","Colombia","MAGDALENA","CHIBOLO","COL.19.4_1",NA
+"Colombia-Magdalena-Cienaga","Colombia","MAGDALENA","CIENAGA","COL.19.5_1",NA
+"Colombia-Magdalena-Concordia","Colombia","Magdalena","Cerro de San Antonio","COL.19.3_1",NA
+"Colombia-Magdalena-El_Banco","Colombia","MAGDALENA","EL BANCO","COL.19.6_1",NA
+"Colombia-Magdalena-El_Pinon","Colombia","MAGDALENA","EL PINON","COL.19.7_1",NA
+"Colombia-Magdalena-El_Reten","Colombia","Magdalena","Aracataca","COL.19.1_1",NA
+"Colombia-Magdalena-Fundacion","Colombia","MAGDALENA","FUNDACION","COL.19.8_1",NA
+"Colombia-Magdalena-Guamal","Colombia","MAGDALENA","GUAMAL","COL.19.9_1",NA
+"Colombia-Magdalena-Nueva_Granada","Colombia","Magdalena","Plato","COL.19.12_1",NA
+"Colombia-Magdalena-Pedraza","Colombia","MAGDALENA","PEDRAZA","COL.19.10_1",NA
+"Colombia-Magdalena-Pijino_Del_Carmen","Colombia","Magdalena","Santa Ana","COL.19.18_1",NA
+"Colombia-Magdalena-Pivijay","Colombia","MAGDALENA","PIVIJAY","COL.19.11_1",NA
+"Colombia-Magdalena-Plato","Colombia","MAGDALENA","PLATO","COL.19.12_1",NA
+"Colombia-Magdalena-Puebloviejo","Colombia","MAGDALENA","PUEBLOVIEJO","COL.19.13_1",NA
+"Colombia-Magdalena-Remolino","Colombia","MAGDALENA","REMOLINO","COL.19.14_1",NA
+"Colombia-Magdalena-Sabanas_De_San_Angel","Colombia","Magdalena","Ariguaní","COL.19.2_1",NA
+"Colombia-Magdalena-Salamina","Colombia","MAGDALENA","SALAMINA","COL.19.15_1",NA
+"Colombia-Magdalena-San_Sebastian_De_Buenavista","Colombia","MAGDALENA","SAN SEBASTIAN DE BUENAVISTA","COL.19.16_1",NA
+"Colombia-Magdalena-San_Zenon","Colombia","MAGDALENA","SAN ZENON","COL.19.17_1",NA
+"Colombia-Magdalena-Santa_Ana","Colombia","MAGDALENA","SANTA ANA","COL.19.18_1",NA
+"Colombia-Magdalena-Santa_Barbara_De_Pinto","Colombia","MAGDALENA","SANTA BARBARA DE PINTO","COL.19.18_1",NA
+"Colombia-Magdalena-Sitionuevo","Colombia","Atlántico","Barranquilla","COL.4.2_1",NA
+"Colombia-Magdalena-Tenerife","Colombia","MAGDALENA","TENERIFE","COL.19.20_1",NA
+"Colombia-Magdalena-Zapayan","Colombia","Magdalena","Pedraza","COL.19.10_1",NA
+"Colombia-Magdalena-Zona_Bananera","Colombia","Magdalena","Ciénaga","COL.19.5_1",NA
+"Colombia-Meta-Villavicencio","Colombia","META","VILLAVICENCIO","COL.20.28_1",NA
+"Colombia-Meta-Acacias","Colombia","META","ACACIAS","COL.20.1_1",NA
+"Colombia-Meta-Barranca_De_Upia","Colombia","META","BARRANCA DE UPIA","COL.20.2_1",NA
+"Colombia-Meta-Cabuyaro","Colombia","META","CABUYARO","COL.20.3_1",NA
+"Colombia-Meta-Castilla_La_Nueva","Colombia","META","CASTILLA LA NUEVA","COL.20.4_1",NA
+"Colombia-Meta-Cubarral","Colombia","META","CUBARRAL","COL.20.26_1",NA
+"Colombia-Meta-Cumaral","Colombia","META","CUMARAL","COL.20.5_1",NA
+"Colombia-Meta-El_Calvario","Colombia","META","EL CALVARIO","COL.20.6_1",NA
+"Colombia-Meta-El_Castillo","Colombia","META","EL CASTILLO","COL.20.7_1",NA
+"Colombia-Meta-El_Dorado","Colombia","META","EL DORADO","COL.20.8_1",NA
+"Colombia-Meta-Fuente_De_Oro","Colombia","META","FUENTE DE ORO","COL.20.9_1",NA
+"Colombia-Meta-Granada","Colombia","META","GRANADA","COL.20.10_1",NA
+"Colombia-Meta-Guamal","Colombia","META","GUAMAL","COL.20.11_1",NA
+"Colombia-Meta-Mapiripan","Colombia","META","MAPIRIPAN","COL.20.15_1",NA
+"Colombia-Meta-Mesetas","Colombia","META","MESETAS","COL.20.16_1",NA
+"Colombia-Meta-La_Macarena","Colombia","META","LA MACARENA","COL.20.12_1",NA
+"Colombia-Meta-Uribe","Colombia","META","URIBE","COL.20.13_1",NA
+"Colombia-Meta-Lejanias","Colombia","META","LEJANIAS","COL.20.14_1",NA
+"Colombia-Meta-Puerto_Concordia","Colombia","META","PUERTO CONCORDIA","COL.20.17_1",NA
+"Colombia-Meta-Puerto_Gaitan","Colombia","META","PUERTO GAITAN","COL.20.18_1",NA
+"Colombia-Meta-Puerto_Lopez","Colombia","META","PUERTO LOPEZ","COL.20.20_1",NA
+"Colombia-Meta-Puerto_Lleras","Colombia","META","PUERTO LLERAS","COL.20.19_1",NA
+"Colombia-Meta-Puerto_Rico","Colombia","META","PUERTO RICO","COL.20.21_1",NA
+"Colombia-Meta-Restrepo","Colombia","META","RESTREPO","COL.20.22_1",NA
+"Colombia-Meta-San_Carlos_De_Guaroa","Colombia","META","SAN CARLOS DE GUAROA","COL.20.23_1",NA
+"Colombia-Meta-San_Juan_De_Arama","Colombia","META","SAN JUAN DE ARAMA","COL.20.24_1",NA
+"Colombia-Meta-San_Juanito","Colombia","META","SAN JUANITO","COL.20.25_1",NA
+"Colombia-Meta-San_Martin","Colombia","META","SAN MARTIN","COL.20.27_1",NA
+"Colombia-Meta-Vistahermosa","Colombia","META","VISTAHERMOSA","COL.20.29_1",NA
+"Colombia-Narino-Pasto","Colombia","Nariño","San Juan de Pasto","COL.21.50_1",NA
+"Colombia-Narino-Alban","Colombia","NARINO","ALBAN","COL.21.1_1",NA
+"Colombia-Narino-Aldana","Colombia","NARINO","ALDANA","COL.21.2_1",NA
+"Colombia-Narino-Ancuya","Colombia","NARINO","ANCUYA","COL.21.3_1",NA
+"Colombia-Narino-Arboleda","Colombia","NARINO","ARBOLEDA","COL.21.4_1",NA
+"Colombia-Narino-Barbacoas","Colombia","NARINO","BARBACOAS","COL.21.5_1",NA
+"Colombia-Narino-Belen","Colombia","NARINO","BELEN","COL.21.6_1",NA
+"Colombia-Narino-Buesaco","Colombia","NARINO","BUESACO","COL.21.7_1",NA
+"Colombia-Narino-Colon","Colombia","NARINO","COLON","COL.21.9_1",NA
+"Colombia-Narino-Consaca","Colombia","NARINO","CONSACA","COL.21.10_1",NA
+"Colombia-Narino-Contadero","Colombia","NARINO","CONTADERO","COL.21.11_1",NA
+"Colombia-Narino-Cordoba","Colombia","NARINO","CORDOBA","COL.21.12_1",NA
+"Colombia-Narino-Cuaspud","Colombia","NARINO","CUASPUD","COL.21.13_1",NA
+"Colombia-Narino-Cumbal","Colombia","NARINO","CUMBAL","COL.21.14_1",NA
+"Colombia-Narino-Cumbitara","Colombia","NARINO","CUMBITARA","COL.21.15_1",NA
+"Colombia-Narino-Chachagui","Colombia","NARINO","CHACHAGUI","COL.21.8_1",NA
+"Colombia-Narino-El_Charco","Colombia","NARINO","EL CHARCO","COL.21.16_1",NA
+"Colombia-Narino-El_Penol","Colombia","Nariño","El Tambo","COL.21.19_1",NA
+"Colombia-Narino-El_Rosario","Colombia","NARINO","EL ROSARIO","COL.21.17_1",NA
+"Colombia-Narino-El_Tablon_De_Gomez","Colombia","NARINO","EL TABLON DE GOMEZ","COL.21.18_1",NA
+"Colombia-Narino-El_Tambo","Colombia","NARINO","EL TAMBO","COL.21.19_1",NA
+"Colombia-Narino-Funes","Colombia","NARINO","FUNES","COL.21.21_1",NA
+"Colombia-Narino-Guachucal","Colombia","NARINO","GUACHUCAL","COL.21.22_1",NA
+"Colombia-Narino-Guaitarilla","Colombia","NARINO","GUAITARILLA","COL.21.23_1",NA
+"Colombia-Narino-Gualmatan","Colombia","NARINO","GUALMATAN","COL.21.24_1",NA
+"Colombia-Narino-Iles","Colombia","NARINO","ILES","COL.21.25_1",NA
+"Colombia-Narino-Imues","Colombia","NARINO","IMUES","COL.21.26_1",NA
+"Colombia-Narino-Ipiales","Colombia","NARINO","IPIALES","COL.21.27_1",NA
+"Colombia-Narino-La_Cruz","Colombia","NARINO","LA CRUZ","COL.21.28_1",NA
+"Colombia-Narino-La_Florida","Colombia","NARINO","LA FLORIDA","COL.21.29_1",NA
+"Colombia-Narino-La_Llanada","Colombia","NARINO","LA LLANADA","COL.21.30_1",NA
+"Colombia-Narino-La_Tola","Colombia","NARINO","LA TOLA","COL.21.31_1",NA
+"Colombia-Narino-La_Union","Colombia","NARINO","LA UNION","COL.21.32_1",NA
+"Colombia-Narino-Leiva","Colombia","NARINO","LEIVA","COL.21.33_1",NA
+"Colombia-Narino-Linares","Colombia","NARINO","LINARES","COL.21.34_1",NA
+"Colombia-Narino-Los_Andes","Colombia","NARINO","LOS ANDES","COL.21.35_1",NA
+"Colombia-Narino-Magsi","Colombia","NARINO","MAGSI","COL.21.36_1",NA
+"Colombia-Narino-Mallama","Colombia","NARINO","MALLAMA","COL.21.37_1",NA
+"Colombia-Narino-Mosquera","Colombia","NARINO","MOSQUERA","COL.21.38_1",NA
+"Colombia-Narino-Narino","Colombia","Nariño","San Juan de Pasto","COL.21.50_1",NA
+"Colombia-Narino-Olaya_Herrera","Colombia","NARINO","OLAYA HERRERA","COL.21.39_1",NA
+"Colombia-Narino-Ospina","Colombia","NARINO","OSPINA","COL.21.40_1",NA
+"Colombia-Narino-Francisco_Pizarro","Colombia","NARINO","FRANCISCO PIZARRO","COL.21.20_1",NA
+"Colombia-Narino-Policarpa","Colombia","NARINO","POLICARPA","COL.21.41_1",NA
+"Colombia-Narino-Potosi","Colombia","NARINO","POTOSI","COL.21.42_1",NA
+"Colombia-Narino-Providencia","Colombia","NARINO","PROVIDENCIA","COL.21.43_1",NA
+"Colombia-Narino-Puerres","Colombia","NARINO","PUERRES","COL.21.44_1",NA
+"Colombia-Narino-Pupiales","Colombia","NARINO","PUPIALES","COL.21.45_1",NA
+"Colombia-Narino-Ricaurte","Colombia","NARINO","RICAURTE","COL.21.46_1",NA
+"Colombia-Narino-Roberto_Payan","Colombia","NARINO","ROBERTO PAYAN","COL.21.47_1",NA
+"Colombia-Narino-Samaniego","Colombia","NARINO","SAMANIEGO","COL.21.48_1",NA
+"Colombia-Narino-Sandona","Colombia","NARINO","SANDONA","COL.21.54_1",NA
+"Colombia-Narino-San_Bernardo","Colombia","NARINO","SAN BERNARDO","COL.21.49_1",NA
+"Colombia-Narino-San_Lorenzo","Colombia","NARINO","SAN LORENZO","COL.21.51_1",NA
+"Colombia-Narino-San_Pablo","Colombia","NARINO","SAN PABLO","COL.21.52_1",NA
+"Colombia-Narino-San_Pedro_De_Cartago","Colombia","NARINO","SAN PEDRO DE CARTAGO","COL.21.53_1",NA
+"Colombia-Narino-Santa_Barbara","Colombia","NARINO","SANTA BARBARA","COL.21.55_1",NA
+"Colombia-Narino-Santacruz","Colombia","NARINO","SANTACRUZ","COL.21.56_1",NA
+"Colombia-Narino-Sapuyes","Colombia","NARINO","SAPUYES","COL.21.57_1",NA
+"Colombia-Narino-Taminango","Colombia","NARINO","TAMINANGO","COL.21.58_1",NA
+"Colombia-Narino-Tangua","Colombia","NARINO","TANGUA","COL.21.59_1",NA
+"Colombia-Narino-San_Andres_De_Tumaco","Colombia","NARINO","SAN ANDRES DE TUMACO","COL.21.60_1",NA
+"Colombia-Narino-Tuquerres","Colombia","NARINO","TUQUERRES","COL.21.61_1",NA
+"Colombia-Narino-Yacuanquer","Colombia","NARINO","YACUANQUER","COL.21.62_1",NA
+"Colombia-Norte_Santander-Cucuta","Colombia","NORTE SANTANDER","CUCUTA","COL.22.32_1",NA
+"Colombia-Norte_Santander-Abrego","Colombia","NORTE SANTANDER","ABREGO","COL.22.1_1",NA
+"Colombia-Norte_Santander-Arboledas","Colombia","NORTE SANTANDER","ARBOLEDAS","COL.22.2_1",NA
+"Colombia-Norte_Santander-Bochalema","Colombia","NORTE SANTANDER","BOCHALEMA","COL.22.3_1",NA
+"Colombia-Norte_Santander-Bucarasica","Colombia","NORTE SANTANDER","BUCARASICA","COL.22.4_1",NA
+"Colombia-Norte_Santander-Cacota","Colombia","NORTE SANTANDER","CACOTA","COL.22.6_1",NA
+"Colombia-Norte_Santander-Cachira","Colombia","NORTE SANTANDER","CACHIRA","COL.22.5_1",NA
+"Colombia-Norte_Santander-Chinacota","Colombia","NORTE SANTANDER","CHINACOTA","COL.22.7_1",NA
+"Colombia-Norte_Santander-Chitaga","Colombia","NORTE SANTANDER","CHITAGA","COL.22.8_1",NA
+"Colombia-Norte_Santander-Convencion","Colombia","NORTE SANTANDER","CONVENCION","COL.22.9_1",NA
+"Colombia-Norte_Santander-Cucutilla","Colombia","NORTE SANTANDER","CUCUTILLA","COL.22.10_1",NA
+"Colombia-Norte_Santander-Durania","Colombia","NORTE SANTANDER","DURANIA","COL.22.11_1",NA
+"Colombia-Norte_Santander-El_Carmen","Colombia","NORTE SANTANDER","EL CARMEN","COL.22.12_1",NA
+"Colombia-Norte_Santander-El_Tarra","Colombia","NORTE SANTANDER","EL TARRA","COL.22.13_1",NA
+"Colombia-Norte_Santander-El_Zulia","Colombia","NORTE SANTANDER","EL ZULIA","COL.22.14_1",NA
+"Colombia-Norte_Santander-Gramalote","Colombia","NORTE SANTANDER","GRAMALOTE","COL.22.15_1",NA
+"Colombia-Norte_Santander-Hacari","Colombia","NORTE SANTANDER","HACARI","COL.22.16_1",NA
+"Colombia-Norte_Santander-Herran","Colombia","NORTE SANTANDER","HERRAN","COL.22.17_1",NA
+"Colombia-Norte_Santander-Labateca","Colombia","NORTE SANTANDER","LABATECA","COL.22.20_1",NA
+"Colombia-Norte_Santander-La_Esperanza","Colombia","NORTE SANTANDER","LA ESPERANZA","COL.22.18_1",NA
+"Colombia-Norte_Santander-La_Playa","Colombia","NORTE SANTANDER","LA PLAYA","COL.22.19_1",NA
+"Colombia-Norte_Santander-Los_Patios","Colombia","NORTE SANTANDER","LOS PATIOS","COL.22.21_1",NA
+"Colombia-Norte_Santander-Lourdes","Colombia","NORTE SANTANDER","LOURDES","COL.22.22_1",NA
+"Colombia-Norte_Santander-Mutiscua","Colombia","NORTE SANTANDER","MUTISCUA","COL.22.23_1",NA
+"Colombia-Norte_Santander-Ocana","Colombia","NORTE SANTANDER","OCANA","COL.22.24_1",NA
+"Colombia-Norte_Santander-Pamplona","Colombia","NORTE SANTANDER","PAMPLONA","COL.22.25_1",NA
+"Colombia-Norte_Santander-Pamplonita","Colombia","NORTE SANTANDER","PAMPLONITA","COL.22.26_1",NA
+"Colombia-Norte_Santander-Puerto_Santander","Colombia","NORTE SANTANDER","PUERTO SANTANDER","COL.22.27_1",NA
+"Colombia-Norte_Santander-Ragonvalia","Colombia","NORTE SANTANDER","RAGONVALIA","COL.22.28_1",NA
+"Colombia-Norte_Santander-Salazar","Colombia","NORTE SANTANDER","SALAZAR","COL.22.29_1",NA
+"Colombia-Norte_Santander-San_Calixto","Colombia","NORTE SANTANDER","SAN CALIXTO","COL.22.30_1",NA
+"Colombia-Norte_Santander-San_Cayetano","Colombia","NORTE SANTANDER","SAN CAYETANO","COL.22.31_1",NA
+"Colombia-Norte_Santander-Santiago","Colombia","NORTE SANTANDER","SANTIAGO","COL.22.33_1",NA
+"Colombia-Norte_Santander-Sardinata","Colombia","NORTE SANTANDER","SARDINATA","COL.22.35_1",NA
+"Colombia-Norte_Santander-Silos","Colombia","NORTE SANTANDER","SILOS","COL.22.34_1",NA
+"Colombia-Norte_Santander-Teorama","Colombia","NORTE SANTANDER","TEORAMA","COL.22.36_1",NA
+"Colombia-Norte_Santander-Tibu","Colombia","NORTE SANTANDER","TIBU","COL.22.37_1",NA
+"Colombia-Norte_Santander-Toledo","Colombia","NORTE SANTANDER","TOLEDO","COL.22.38_1",NA
+"Colombia-Norte_Santander-Villa_Caro","Colombia","NORTE SANTANDER","VILLA CARO","COL.22.39_1",NA
+"Colombia-Norte_Santander-Villa_Del_Rosario","Colombia","NORTE SANTANDER","VILLA DEL ROSARIO","COL.22.40_1",NA
+"Colombia-Quindio-Armenia","Colombia","QUINDIO","ARMENIA","COL.24.1_1",NA
+"Colombia-Quindio-Buenavista","Colombia","QUINDIO","BUENAVISTA","COL.24.2_1",NA
+"Colombia-Quindio-Calarca","Colombia","QUINDIO","CALARCA","COL.24.3_1",NA
+"Colombia-Quindio-Circasia","Colombia","QUINDIO","CIRCASIA","COL.24.4_1",NA
+"Colombia-Quindio-Cordoba","Colombia","QUINDIO","CORDOBA","COL.24.5_1",NA
+"Colombia-Quindio-Filandia","Colombia","QUINDIO","FILANDIA","COL.24.6_1",NA
+"Colombia-Quindio-Genova","Colombia","QUINDIO","GENOVA","COL.24.7_1",NA
+"Colombia-Quindio-La_Tebaida","Colombia","QUINDIO","LA TEBAIDA","COL.24.8_1",NA
+"Colombia-Quindio-Montenegro","Colombia","QUINDIO","MONTENEGRO","COL.24.9_1",NA
+"Colombia-Quindio-Pijao","Colombia","QUINDIO","PIJAO","COL.24.10_1",NA
+"Colombia-Quindio-Quimbaya","Colombia","QUINDIO","QUIMBAYA","COL.24.11_1",NA
+"Colombia-Quindio-Salento","Colombia","QUINDIO","SALENTO","COL.24.12_1",NA
+"Colombia-Risaralda-Pereira","Colombia","RISARALDA","PEREIRA","COL.25.10_1",NA
+"Colombia-Risaralda-Apia","Colombia","RISARALDA","APIA","COL.25.1_1",NA
+"Colombia-Risaralda-Balboa","Colombia","RISARALDA","BALBOA","COL.25.2_1",NA
+"Colombia-Risaralda-Belen_De_Umbria","Colombia","RISARALDA","BELEN DE UMBRIA","COL.25.3_1",NA
+"Colombia-Risaralda-Dosquebradas","Colombia","RISARALDA","DOSQUEBRADAS","COL.25.4_1",NA
+"Colombia-Risaralda-Guatica","Colombia","RISARALDA","GUATICA","COL.25.5_1",NA
+"Colombia-Risaralda-La_Celia","Colombia","RISARALDA","LA CELIA","COL.25.6_1",NA
+"Colombia-Risaralda-La_Virginia","Colombia","RISARALDA","LA VIRGINIA","COL.25.7_1",NA
+"Colombia-Risaralda-Marsella","Colombia","RISARALDA","MARSELLA","COL.25.8_1",NA
+"Colombia-Risaralda-Mistrato","Colombia","RISARALDA","MISTRATO","COL.25.9_1",NA
+"Colombia-Risaralda-Pueblo_Rico","Colombia","RISARALDA","PUEBLO RICO","COL.25.11_1",NA
+"Colombia-Risaralda-Quinchia","Colombia","RISARALDA","QUINCHIA","COL.25.12_1",NA
+"Colombia-Risaralda-Santa_Rosa_De_Cabal","Colombia","RISARALDA","SANTA ROSA DE CABAL","COL.25.13_1",NA
+"Colombia-Risaralda-Santuario","Colombia","RISARALDA","SANTUARIO","COL.25.14_1",NA
+"Colombia-Santander-Bucaramanga","Colombia","SANTANDER","BUCARAMANGA","COL.27.9_1",NA
+"Colombia-Santander-Aguada","Colombia","SANTANDER","AGUADA","COL.27.1_1",NA
+"Colombia-Santander-Albania","Colombia","SANTANDER","ALBANIA","COL.27.2_1",NA
+"Colombia-Santander-Aratoca","Colombia","SANTANDER","ARATOCA","COL.27.3_1",NA
+"Colombia-Santander-Barbosa","Colombia","SANTANDER","BARBOSA","COL.27.4_1",NA
+"Colombia-Santander-Barichara","Colombia","SANTANDER","BARICHARA","COL.27.5_1",NA
+"Colombia-Santander-Barrancabermeja","Colombia","SANTANDER","BARRANCABERMEJA","COL.27.6_1",NA
+"Colombia-Santander-Betulia","Colombia","SANTANDER","BETULIA","COL.27.7_1",NA
+"Colombia-Santander-Bolivar","Colombia","SANTANDER","BOLIVAR","COL.27.8_1",NA
+"Colombia-Santander-Cabrera","Colombia","SANTANDER","CABRERA","COL.27.10_1",NA
+"Colombia-Santander-California","Colombia","SANTANDER","CALIFORNIA","COL.27.11_1",NA
+"Colombia-Santander-Capitanejo","Colombia","SANTANDER","CAPITANEJO","COL.27.12_1",NA
+"Colombia-Santander-Carcasi","Colombia","SANTANDER","CARCASI","COL.27.13_1",NA
+"Colombia-Santander-Cepita","Colombia","SANTANDER","CEPITA","COL.27.14_1",NA
+"Colombia-Santander-Cerrito","Colombia","SANTANDER","CERRITO","COL.27.15_1",NA
+"Colombia-Santander-Charala","Colombia","SANTANDER","CHARALA","COL.27.16_1",NA
+"Colombia-Santander-Charta","Colombia","SANTANDER","CHARTA","COL.27.17_1",NA
+"Colombia-Santander-Chima","Colombia","SANTANDER","CHIMA","COL.27.18_1",NA
+"Colombia-Santander-Chipata","Colombia","SANTANDER","CHIPATA","COL.27.19_1",NA
+"Colombia-Santander-Cimitarra","Colombia","SANTANDER","CIMITARRA","COL.27.20_1",NA
+"Colombia-Santander-Concepcion","Colombia","SANTANDER","CONCEPCION","COL.27.21_1",NA
+"Colombia-Santander-Confines","Colombia","SANTANDER","CONFINES","COL.27.22_1",NA
+"Colombia-Santander-Contratacion","Colombia","SANTANDER","CONTRATACION","COL.27.23_1",NA
+"Colombia-Santander-Coromoro","Colombia","SANTANDER","COROMORO","COL.27.24_1",NA
+"Colombia-Santander-Curiti","Colombia","SANTANDER","CURITI","COL.27.25_1",NA
+"Colombia-Santander-El_Carmen_De_Chucuri","Colombia","SANTANDER","EL CARMEN DE CHUCURI","COL.27.26_1",NA
+"Colombia-Santander-El_Guacamayo","Colombia","SANTANDER","EL GUACAMAYO","COL.27.27_1",NA
+"Colombia-Santander-El_Penon","Colombia","SANTANDER","EL PENON","COL.27.28_1",NA
+"Colombia-Santander-El_Playon","Colombia","SANTANDER","EL PLAYON","COL.27.29_1",NA
+"Colombia-Santander-Encino","Colombia","SANTANDER","ENCINO","COL.27.30_1",NA
+"Colombia-Santander-Enciso","Colombia","SANTANDER","ENCISO","COL.27.31_1",NA
+"Colombia-Santander-Florian","Colombia","SANTANDER","FLORIAN","COL.27.32_1",NA
+"Colombia-Santander-Floridablanca","Colombia","SANTANDER","FLORIDABLANCA","COL.27.33_1",NA
+"Colombia-Santander-Galan","Colombia","SANTANDER","GALAN","COL.27.34_1",NA
+"Colombia-Santander-Gambita","Colombia","SANTANDER","GAMBITA","COL.27.35_1",NA
+"Colombia-Santander-Giron","Colombia","SANTANDER","GIRON","COL.27.36_1",NA
+"Colombia-Santander-Guaca","Colombia","SANTANDER","GUACA","COL.27.37_1",NA
+"Colombia-Santander-Guadalupe","Colombia","SANTANDER","GUADALUPE","COL.27.38_1",NA
+"Colombia-Santander-Guapota","Colombia","SANTANDER","GUAPOTA","COL.27.39_1",NA
+"Colombia-Santander-Guavata","Colombia","SANTANDER","GUAVATA","COL.27.40_1",NA
+"Colombia-Santander-Gsepsa","Colombia","SANTANDER","GSEPSA","COL.27.41_1",NA
+"Colombia-Santander-Hato","Colombia","SANTANDER","HATO","COL.27.42_1",NA
+"Colombia-Santander-Jesus_Maria","Colombia","SANTANDER","JESUS MARIA","COL.27.43_1",NA
+"Colombia-Santander-Jordan","Colombia","SANTANDER","JORDAN","COL.27.44_1",NA
+"Colombia-Santander-La_Belleza","Colombia","SANTANDER","LA BELLEZA","COL.27.45_1",NA
+"Colombia-Santander-Landazuri","Colombia","SANTANDER","LANDAZURI","COL.27.47_1",NA
+"Colombia-Santander-La_Paz","Colombia","SANTANDER","LA PAZ","COL.27.46_1",NA
+"Colombia-Santander-Lebrija","Colombia","SANTANDER","LEBRIJA","COL.27.48_1",NA
+"Colombia-Santander-Los_Santos","Colombia","SANTANDER","LOS SANTOS","COL.27.49_1",NA
+"Colombia-Santander-Macaravita","Colombia","SANTANDER","MACARAVITA","COL.27.50_1",NA
+"Colombia-Santander-Malaga","Colombia","SANTANDER","MALAGA","COL.27.51_1",NA
+"Colombia-Santander-Matanza","Colombia","SANTANDER","MATANZA","COL.27.52_1",NA
+"Colombia-Santander-Mogotes","Colombia","SANTANDER","MOGOTES","COL.27.53_1",NA
+"Colombia-Santander-Molagavita","Colombia","SANTANDER","MOLAGAVITA","COL.27.54_1",NA
+"Colombia-Santander-Ocamonte","Colombia","SANTANDER","OCAMONTE","COL.27.55_1",NA
+"Colombia-Santander-Oiba","Colombia","SANTANDER","OIBA","COL.27.56_1",NA
+"Colombia-Santander-Onzaga","Colombia","SANTANDER","ONZAGA","COL.27.57_1",NA
+"Colombia-Santander-Palmar","Colombia","SANTANDER","PALMAR","COL.27.58_1",NA
+"Colombia-Santander-Palmas_Del_Socorro","Colombia","SANTANDER","PALMAS DEL SOCORRO","COL.27.59_1",NA
+"Colombia-Santander-Paramo","Colombia","SANTANDER","PARAMO","COL.27.60_1",NA
+"Colombia-Santander-Piedecuesta","Colombia","SANTANDER","PIEDECUESTA","COL.27.61_1",NA
+"Colombia-Santander-Pinchote","Colombia","SANTANDER","PINCHOTE","COL.27.62_1",NA
+"Colombia-Santander-Puente_Nacional","Colombia","SANTANDER","PUENTE NACIONAL","COL.27.63_1",NA
+"Colombia-Santander-Puerto_Parra","Colombia","SANTANDER","PUERTO PARRA","COL.27.64_1",NA
+"Colombia-Santander-Puerto_Wilches","Colombia","SANTANDER","PUERTO WILCHES","COL.27.65_1",NA
+"Colombia-Santander-Rionegro","Colombia","SANTANDER","RIONEGRO","COL.27.66_1",NA
+"Colombia-Santander-Sabana_De_Torres","Colombia","SANTANDER","SABANA DE TORRES","COL.27.67_1",NA
+"Colombia-Santander-San_Andres","Colombia","SANTANDER","SAN ANDRES","COL.27.68_1",NA
+"Colombia-Santander-San_Benito","Colombia","SANTANDER","SAN BENITO","COL.27.69_1",NA
+"Colombia-Santander-San_Gil","Colombia","SANTANDER","SAN GIL","COL.27.70_1",NA
+"Colombia-Santander-San_Joaquin","Colombia","SANTANDER","SAN JOAQUIN","COL.27.71_1",NA
+"Colombia-Santander-San_Jose_De_Miranda","Colombia","SANTANDER","SAN JOSE DE MIRANDA","COL.27.72_1",NA
+"Colombia-Santander-San_Miguel","Colombia","SANTANDER","SAN MIGUEL","COL.27.73_1",NA
+"Colombia-Santander-San_Vicente_De_Chucuri","Colombia","SANTANDER","SAN VICENTE DE CHUCURI","COL.27.74_1",NA
+"Colombia-Santander-Santa_Barbara","Colombia","SANTANDER","SANTA BARBARA","COL.27.75_1",NA
+"Colombia-Santander-Santa_Helena_Del_Opon","Colombia","SANTANDER","SANTA HELENA DEL OPON","COL.27.76_1",NA
+"Colombia-Santander-Simacota","Colombia","SANTANDER","SIMACOTA","COL.27.77_1",NA
+"Colombia-Santander-Socorro","Colombia","SANTANDER","SOCORRO","COL.27.78_1",NA
+"Colombia-Santander-Suaita","Colombia","SANTANDER","SUAITA","COL.27.79_1",NA
+"Colombia-Santander-Sucre","Colombia","SANTANDER","SUCRE","COL.27.80_1",NA
+"Colombia-Santander-Surata","Colombia","SANTANDER","SURATA","COL.27.81_1",NA
+"Colombia-Santander-Tona","Colombia","SANTANDER","TONA","COL.27.82_1",NA
+"Colombia-Santander-Valle_De_San_Jose","Colombia","SANTANDER","VALLE DE SAN JOSE","COL.27.83_1",NA
+"Colombia-Santander-Velez","Colombia","SANTANDER","VELEZ","COL.27.84_1",NA
+"Colombia-Santander-Vetas","Colombia","SANTANDER","VETAS","COL.27.85_1",NA
+"Colombia-Santander-Villanueva","Colombia","SANTANDER","VILLANUEVA","COL.27.86_1",NA
+"Colombia-Santander-Zapatoca","Colombia","SANTANDER","ZAPATOCA","COL.27.87_1",NA
+"Colombia-Sucre-Sincelejo","Colombia","SUCRE","SINCELEJO","COL.28.21_1",NA
+"Colombia-Sucre-Buenavista","Colombia","SUCRE","BUENAVISTA","COL.28.1_1",NA
+"Colombia-Sucre-Caimito","Colombia","SUCRE","CAIMITO","COL.28.2_1",NA
+"Colombia-Sucre-Coloso","Colombia","SUCRE","COLOSO","COL.28.4_1",NA
+"Colombia-Sucre-Corozal","Colombia","SUCRE","COROZAL","COL.28.5_1",NA
+"Colombia-Sucre-Covenas","Colombia","Sucre","Tolú","COL.28.23_1",NA
+"Colombia-Sucre-Chalan","Colombia","SUCRE","CHALAN","COL.28.3_1",NA
+"Colombia-Sucre-El_Roble","Colombia","Sucre","Corozal","COL.28.5_1",NA
+"Colombia-Sucre-Galeras","Colombia","SUCRE","GALERAS","COL.28.6_1",NA
+"Colombia-Sucre-Guaranda","Colombia","SUCRE","GUARANDA","COL.28.7_1",NA
+"Colombia-Sucre-La_Union","Colombia","SUCRE","LA UNION","COL.28.8_1",NA
+"Colombia-Sucre-Los_Palmitos","Colombia","SUCRE","LOS PALMITOS","COL.28.9_1",NA
+"Colombia-Sucre-Majagual","Colombia","SUCRE","MAJAGUAL","COL.28.10_1",NA
+"Colombia-Sucre-Morroa","Colombia","SUCRE","MORROA","COL.28.11_1",NA
+"Colombia-Sucre-Ovejas","Colombia","SUCRE","OVEJAS","COL.28.12_1",NA
+"Colombia-Sucre-Palmito","Colombia","SUCRE","PALMITO","COL.28.9_1",NA
+"Colombia-Sucre-Sampues","Colombia","SUCRE","SAMPUES","COL.28.13_1",NA
+"Colombia-Sucre-San_Benito_Abad","Colombia","SUCRE","SAN BENITO ABAD","COL.28.15_1",NA
+"Colombia-Sucre-San_Juan_De_Betulia","Colombia","SUCRE","SAN JUAN DE BETULIA","COL.28.16_1",NA
+"Colombia-Sucre-San_Marcos","Colombia","SUCRE","SAN MARCOS","COL.28.17_1",NA
+"Colombia-Sucre-San_Onofre","Colombia","SUCRE","SAN ONOFRE","COL.28.18_1",NA
+"Colombia-Sucre-San_Pedro","Colombia","SUCRE","SAN PEDRO","COL.28.19_1",NA
+"Colombia-Sucre-San_Luis_De_Since","Colombia","SUCRE","SAN LUIS DE SINCE","COL.28.20_1",NA
+"Colombia-Sucre-Sucre","Colombia","SUCRE","SUCRE","COL.28.22_1",NA
+"Colombia-Sucre-Santiago_De_Tolu","Colombia","SUCRE","SANTIAGO DE TOLU","COL.28.23_1",NA
+"Colombia-Sucre-Tolu_Viejo","Colombia","SUCRE","TOLU VIEJO","COL.28.24_1",NA
+"Colombia-Tolima-Ibague","Colombia","TOLIMA","IBAGUE","COL.29.22_1",NA
+"Colombia-Tolima-Alpujarra","Colombia","TOLIMA","ALPUJARRA","COL.29.1_1",NA
+"Colombia-Tolima-Alvarado","Colombia","TOLIMA","ALVARADO","COL.29.2_1",NA
+"Colombia-Tolima-Ambalema","Colombia","TOLIMA","AMBALEMA","COL.29.3_1",NA
+"Colombia-Tolima-Anzoategui","Colombia","TOLIMA","ANZOATEGUI","COL.29.4_1",NA
+"Colombia-Tolima-Armero","Colombia","TOLIMA","ARMERO","COL.29.5_1",NA
+"Colombia-Tolima-Ataco","Colombia","TOLIMA","ATACO","COL.29.6_1",NA
+"Colombia-Tolima-Cajamarca","Colombia","TOLIMA","CAJAMARCA","COL.29.7_1",NA
+"Colombia-Tolima-Carmen_De_Apicala","Colombia","TOLIMA","CARMEN DE APICALA","COL.29.8_1",NA
+"Colombia-Tolima-Casabianca","Colombia","TOLIMA","CASABIANCA","COL.29.9_1",NA
+"Colombia-Tolima-Chaparral","Colombia","TOLIMA","CHAPARRAL","COL.29.10_1",NA
+"Colombia-Tolima-Coello","Colombia","TOLIMA","COELLO","COL.29.11_1",NA
+"Colombia-Tolima-Coyaima","Colombia","TOLIMA","COYAIMA","COL.29.12_1",NA
+"Colombia-Tolima-Cunday","Colombia","TOLIMA","CUNDAY","COL.29.13_1",NA
+"Colombia-Tolima-Dolores","Colombia","TOLIMA","DOLORES","COL.29.14_1",NA
+"Colombia-Tolima-Espinal","Colombia","TOLIMA","ESPINAL","COL.29.15_1",NA
+"Colombia-Tolima-Falan","Colombia","TOLIMA","FALAN","COL.29.16_1",NA
+"Colombia-Tolima-Flandes","Colombia","TOLIMA","FLANDES","COL.29.17_1",NA
+"Colombia-Tolima-Fresno","Colombia","TOLIMA","FRESNO","COL.29.18_1",NA
+"Colombia-Tolima-Guamo","Colombia","TOLIMA","GUAMO","COL.29.19_1",NA
+"Colombia-Tolima-Herveo","Colombia","TOLIMA","HERVEO","COL.29.20_1",NA
+"Colombia-Tolima-Honda","Colombia","TOLIMA","HONDA","COL.29.21_1",NA
+"Colombia-Tolima-Icononzo","Colombia","TOLIMA","ICONONZO","COL.29.23_1",NA
+"Colombia-Tolima-Lerida","Colombia","TOLIMA","LERIDA","COL.29.24_1",NA
+"Colombia-Tolima-Libano","Colombia","TOLIMA","LIBANO","COL.29.25_1",NA
+"Colombia-Tolima-Mariquita","Colombia","TOLIMA","MARIQUITA","COL.29.40_1",NA
+"Colombia-Tolima-Melgar","Colombia","TOLIMA","MELGAR","COL.29.26_1",NA
+"Colombia-Tolima-Murillo","Colombia","TOLIMA","MURILLO","COL.29.27_1",NA
+"Colombia-Tolima-Natagaima","Colombia","TOLIMA","NATAGAIMA","COL.29.28_1",NA
+"Colombia-Tolima-Ortega","Colombia","TOLIMA","ORTEGA","COL.29.29_1",NA
+"Colombia-Tolima-Palocabildo","Colombia","Tolima","Falán","COL.29.16_1",NA
+"Colombia-Tolima-Piedras","Colombia","TOLIMA","PIEDRAS","COL.29.30_1",NA
+"Colombia-Tolima-Planadas","Colombia","TOLIMA","PLANADAS","COL.29.31_1",NA
+"Colombia-Tolima-Prado","Colombia","TOLIMA","PRADO","COL.29.32_1",NA
+"Colombia-Tolima-Purificacion","Colombia","TOLIMA","PURIFICACION","COL.29.33_1",NA
+"Colombia-Tolima-Rioblanco","Colombia","TOLIMA","RIOBLANCO","COL.29.34_1",NA
+"Colombia-Tolima-Roncesvalles","Colombia","TOLIMA","RONCESVALLES","COL.29.35_1",NA
+"Colombia-Tolima-Rovira","Colombia","TOLIMA","ROVIRA","COL.29.36_1",NA
+"Colombia-Tolima-Saldana","Colombia","TOLIMA","SALDANA","COL.29.37_1",NA
+"Colombia-Tolima-San_Antonio","Colombia","TOLIMA","SAN ANTONIO","COL.29.38_1",NA
+"Colombia-Tolima-San_Luis","Colombia","TOLIMA","SAN LUIS","COL.29.39_1",NA
+"Colombia-Tolima-Santa_Isabel","Colombia","TOLIMA","SANTA ISABEL","COL.29.41_1",NA
+"Colombia-Tolima-Suarez","Colombia","TOLIMA","SUAREZ","COL.29.42_1",NA
+"Colombia-Tolima-Valle_De_San_Juan","Colombia","TOLIMA","VALLE DE SAN JUAN","COL.29.43_1",NA
+"Colombia-Tolima-Venadillo","Colombia","TOLIMA","VENADILLO","COL.29.44_1",NA
+"Colombia-Tolima-Villahermosa","Colombia","TOLIMA","VILLAHERMOSA","COL.29.45_1",NA
+"Colombia-Tolima-Villarrica","Colombia","TOLIMA","VILLARRICA","COL.29.46_1",NA
+"Colombia-Valle_Del_Cauca-Cali","Colombia","VALLE DEL CAUCA","CALI","COL.30.32_1",NA
+"Colombia-Valle_Del_Cauca-Alcala","Colombia","VALLE DEL CAUCA","ALCALA","COL.30.1_1",NA
+"Colombia-Valle_Del_Cauca-Andalucia","Colombia","VALLE DEL CAUCA","ANDALUCIA","COL.30.2_1",NA
+"Colombia-Valle_Del_Cauca-Ansermanuevo","Colombia","VALLE DEL CAUCA","ANSERMANUEVO","COL.30.3_1",NA
+"Colombia-Valle_Del_Cauca-Argelia","Colombia","VALLE DEL CAUCA","ARGELIA","COL.30.4_1",NA
+"Colombia-Valle_Del_Cauca-Bolivar","Colombia","VALLE DEL CAUCA","BOLIVAR","COL.30.5_1",NA
+"Colombia-Valle_Del_Cauca-Buenaventura","Colombia","VALLE DEL CAUCA","BUENAVENTURA","COL.30.6_1",NA
+"Colombia-Valle_Del_Cauca-Guadalajara_De_Buga","Colombia","VALLE DEL CAUCA","GUADALAJARA DE BUGA","COL.30.20_1",NA
+"Colombia-Valle_Del_Cauca-Bugalagrande","Colombia","VALLE DEL CAUCA","BUGALAGRANDE","COL.30.7_1",NA
+"Colombia-Valle_Del_Cauca-Caicedonia","Colombia","VALLE DEL CAUCA","CAICEDONIA","COL.30.8_1",NA
+"Colombia-Valle_Del_Cauca-Calima","Colombia","VALLE DEL CAUCA","CALIMA","COL.30.9_1",NA
+"Colombia-Valle_Del_Cauca-Candelaria","Colombia","VALLE DEL CAUCA","CANDELARIA","COL.30.10_1",NA
+"Colombia-Valle_Del_Cauca-Cartago","Colombia","VALLE DEL CAUCA","CARTAGO","COL.30.11_1",NA
+"Colombia-Valle_Del_Cauca-Dagua","Colombia","VALLE DEL CAUCA","DAGUA","COL.30.12_1",NA
+"Colombia-Valle_Del_Cauca-El_Aguila","Colombia","VALLE DEL CAUCA","EL AGUILA","COL.30.13_1",NA
+"Colombia-Valle_Del_Cauca-El_Cairo","Colombia","VALLE DEL CAUCA","EL CAIRO","COL.30.14_1",NA
+"Colombia-Valle_Del_Cauca-El_Cerrito","Colombia","VALLE DEL CAUCA","EL CERRITO","COL.30.15_1",NA
+"Colombia-Valle_Del_Cauca-El_Dovio","Colombia","VALLE DEL CAUCA","EL DOVIO","COL.30.16_1",NA
+"Colombia-Valle_Del_Cauca-Florida","Colombia","VALLE DEL CAUCA","FLORIDA","COL.30.17_1",NA
+"Colombia-Valle_Del_Cauca-Ginebra","Colombia","VALLE DEL CAUCA","GINEBRA","COL.30.18_1",NA
+"Colombia-Valle_Del_Cauca-Guacari","Colombia","VALLE DEL CAUCA","GUACARI","COL.30.19_1",NA
+"Colombia-Valle_Del_Cauca-Jamundi","Colombia","VALLE DEL CAUCA","JAMUNDI","COL.30.21_1",NA
+"Colombia-Valle_Del_Cauca-La_Cumbre","Colombia","VALLE DEL CAUCA","LA CUMBRE","COL.30.22_1",NA
+"Colombia-Valle_Del_Cauca-La_Union","Colombia","VALLE DEL CAUCA","LA UNION","COL.30.23_1",NA
+"Colombia-Valle_Del_Cauca-La_Victoria","Colombia","VALLE DEL CAUCA","LA VICTORIA","COL.30.24_1",NA
+"Colombia-Valle_Del_Cauca-Obando","Colombia","VALLE DEL CAUCA","OBANDO","COL.30.25_1",NA
+"Colombia-Valle_Del_Cauca-Palmira","Colombia","VALLE DEL CAUCA","PALMIRA","COL.30.26_1",NA
+"Colombia-Valle_Del_Cauca-Pradera","Colombia","VALLE DEL CAUCA","PRADERA","COL.30.27_1",NA
+"Colombia-Valle_Del_Cauca-Restrepo","Colombia","VALLE DEL CAUCA","RESTREPO","COL.30.28_1",NA
+"Colombia-Valle_Del_Cauca-Riofrio","Colombia","VALLE DEL CAUCA","RIOFRIO","COL.30.29_1",NA
+"Colombia-Valle_Del_Cauca-Roldanillo","Colombia","VALLE DEL CAUCA","ROLDANILLO","COL.30.30_1",NA
+"Colombia-Valle_Del_Cauca-San_Pedro","Colombia","VALLE DEL CAUCA","SAN PEDRO","COL.30.31_1",NA
+"Colombia-Valle_Del_Cauca-Sevilla","Colombia","VALLE DEL CAUCA","SEVILLA","COL.30.33_1",NA
+"Colombia-Valle_Del_Cauca-Toro","Colombia","VALLE DEL CAUCA","TORO","COL.30.34_1",NA
+"Colombia-Valle_Del_Cauca-Trujillo","Colombia","VALLE DEL CAUCA","TRUJILLO","COL.30.35_1",NA
+"Colombia-Valle_Del_Cauca-Tulua","Colombia","VALLE DEL CAUCA","TULUA","COL.30.36_1",NA
+"Colombia-Valle_Del_Cauca-Ulloa","Colombia","VALLE DEL CAUCA","ULLOA","COL.30.37_1",NA
+"Colombia-Valle_Del_Cauca-Versalles","Colombia","VALLE DEL CAUCA","VERSALLES","COL.30.38_1",NA
+"Colombia-Valle_Del_Cauca-Vijes","Colombia","VALLE DEL CAUCA","VIJES","COL.30.39_1",NA
+"Colombia-Valle_Del_Cauca-Yotoco","Colombia","VALLE DEL CAUCA","YOTOCO","COL.30.40_1",NA
+"Colombia-Valle_Del_Cauca-Yumbo","Colombia","VALLE DEL CAUCA","YUMBO","COL.30.41_1",NA
+"Colombia-Valle_Del_Cauca-Zarzal","Colombia","VALLE DEL CAUCA","ZARZAL","COL.30.42_1",NA
+"Colombia-Arauca-Arauca","Colombia","ARAUCA","ARAUCA","COL.3.1_1",NA
+"Colombia-Arauca-Arauquita","Colombia","ARAUCA","ARAUQUITA","COL.3.2_1",NA
+"Colombia-Arauca-Cravo_Norte","Colombia","ARAUCA","CRAVO NORTE","COL.3.3_1",NA
+"Colombia-Arauca-Fortul","Colombia","ARAUCA","FORTUL","COL.3.4_1",NA
+"Colombia-Arauca-Puerto_Rondon","Colombia","ARAUCA","PUERTO RONDON","COL.3.5_1",NA
+"Colombia-Arauca-Saravena","Colombia","ARAUCA","SARAVENA","COL.3.6_1",NA
+"Colombia-Arauca-Tame","Colombia","ARAUCA","TAME","COL.3.7_1",NA
+"Colombia-Casanare-Yopal","Colombia","CASANARE","YOPAL","COL.9.19_1",NA
+"Colombia-Casanare-Aguazul","Colombia","CASANARE","AGUAZUL","COL.9.1_1",NA
+"Colombia-Casanare-Chameza","Colombia","CASANARE","CHAMEZA","COL.9.2_1",NA
+"Colombia-Casanare-Hato_Corozal","Colombia","CASANARE","HATO COROZAL","COL.9.3_1",NA
+"Colombia-Casanare-La_Salina","Colombia","CASANARE","LA SALINA","COL.9.4_1",NA
+"Colombia-Casanare-Mani","Colombia","CASANARE","MANI","COL.9.5_1",NA
+"Colombia-Casanare-Monterrey","Colombia","CASANARE","MONTERREY","COL.9.6_1",NA
+"Colombia-Casanare-Nunchia","Colombia","CASANARE","NUNCHIA","COL.9.7_1",NA
+"Colombia-Casanare-Orocue","Colombia","CASANARE","OROCUE","COL.9.8_1",NA
+"Colombia-Casanare-Paz_De_Ariporo","Colombia","CASANARE","PAZ DE ARIPORO","COL.9.9_1",NA
+"Colombia-Casanare-Pore","Colombia","CASANARE","PORE","COL.9.10_1",NA
+"Colombia-Casanare-Recetor","Colombia","CASANARE","RECETOR","COL.9.11_1",NA
+"Colombia-Casanare-Sabanalarga","Colombia","CASANARE","SABANALARGA","COL.9.12_1",NA
+"Colombia-Casanare-Sacama","Colombia","CASANARE","SACAMA","COL.9.13_1",NA
+"Colombia-Casanare-San_Luis_De_Palenque","Colombia","CASANARE","SAN LUIS DE PALENQUE","COL.9.14_1",NA
+"Colombia-Casanare-Tamara","Colombia","CASANARE","TAMARA","COL.9.15_1",NA
+"Colombia-Casanare-Tauramena","Colombia","CASANARE","TAURAMENA","COL.9.16_1",NA
+"Colombia-Casanare-Trinidad","Colombia","CASANARE","TRINIDAD","COL.9.17_1",NA
+"Colombia-Casanare-Villanueva","Colombia","CASANARE","VILLANUEVA","COL.9.18_1",NA
+"Colombia-Putumayo-Mocoa","Colombia","PUTUMAYO","MOCOA","COL.23.8_1",NA
+"Colombia-Putumayo-Colon","Colombia","PUTUMAYO","COLON","COL.23.1_1",NA
+"Colombia-Putumayo-Orito","Colombia","PUTUMAYO","ORITO","COL.23.2_1",NA
+"Colombia-Putumayo-Puerto_Asis","Colombia","PUTUMAYO","PUERTO ASIS","COL.23.3_1",NA
+"Colombia-Putumayo-Puerto_Caicedo","Colombia","PUTUMAYO","PUERTO CAICEDO","COL.23.4_1",NA
+"Colombia-Putumayo-Puerto_Guzman","Colombia","PUTUMAYO","PUERTO GUZMAN","COL.23.5_1",NA
+"Colombia-Putumayo-Leguizamo","Colombia","PUTUMAYO","LEGUIZAMO","COL.23.6_1",NA
+"Colombia-Putumayo-Sibundoy","Colombia","PUTUMAYO","SIBUNDOY","COL.23.10_1",NA
+"Colombia-Putumayo-San_Francisco","Colombia","PUTUMAYO","SAN FRANCISCO","COL.23.7_1",NA
+"Colombia-Putumayo-San_Miguel","Colombia","Putumayo","Valle del Guamuez","COL.23.11_1",NA
+"Colombia-Putumayo-Santiago","Colombia","PUTUMAYO","SANTIAGO","COL.23.9_1",NA
+"Colombia-Putumayo-Valle_Del_Guamuez","Colombia","PUTUMAYO","VALLE DEL GUAMUEZ","COL.23.11_1",NA
+"Colombia-Putumayo-Villagarzon","Colombia","PUTUMAYO","VILLAGARZON","COL.23.12_1",NA
+"Colombia-San_Andres-San_Andres","Colombia","SAN ANDRES","SAN ANDRES","COL.26.3_1",NA
+"Colombia-San_Andres-Providencia","Colombia","SAN ANDRES","PROVIDENCIA","COL.26.2_1",NA
+"Colombia-Amazonas-Leticia","Colombia","AMAZONAS","LETICIA","COL.1.4_1",NA
+"Colombia-Amazonas-El_Encanto","Colombia","AMAZONAS","EL ENCANTO","COL.1.1_1",NA
+"Colombia-Amazonas-La_Chorrera","Colombia","AMAZONAS","LA CHORRERA","COL.1.2_1",NA
+"Colombia-Amazonas-La_Pedrera","Colombia","AMAZONAS","LA PEDRERA","COL.1.3_1",NA
+"Colombia-Amazonas-La_Victoria","Colombia","Amazonas","Mirití-Paraná","COL.1.5_1",NA
+"Colombia-Amazonas-Miriti_Parana","Colombia","AMAZONAS","MIRITI PARANA","COL.1.5_1",NA
+"Colombia-Amazonas-Puerto_Alegria","Colombia","Amazonas","El Encanto","COL.1.1_1",NA
+"Colombia-Amazonas-Puerto_Arica","Colombia","Amazonas","Tarapacá","COL.1.8_1",NA
+"Colombia-Amazonas-Puerto_Narino","Colombia","AMAZONAS","PUERTO NARINO","COL.1.6_1",NA
+"Colombia-Amazonas-Puerto_Santander","Colombia","AMAZONAS","PUERTO SANTANDER","COL.1.7_1",NA
+"Colombia-Amazonas-Tarapaca","Colombia","AMAZONAS","TARAPACA","COL.1.8_1",NA
+"Colombia-Guainia-Inirida","Colombia","GUAINIA","INIRIDA","COL.15.6_1",NA
+"Colombia-Guainia-Barranco_Minas","Colombia","GUAINIA","BARRANCO MINAS","COL.15.1_1",NA
+"Colombia-Guainia-Mapiripana","Colombia","Guainía","Puerto Colombia","COL.15.5_1",NA
+"Colombia-Guainia-San_Felipe","Colombia","GUAINIA","SAN FELIPE","COL.15.7_1",NA
+"Colombia-Guainia-Puerto_Colombia","Colombia","GUAINIA","PUERTO COLOMBIA","COL.15.5_1",NA
+"Colombia-Guainia-La_Guadalupe","Colombia","GUAINIA","LA GUADALUPE","COL.15.3_1",NA
+"Colombia-Guainia-Cacahual","Colombia","GUAINIA","CACAHUAL","COL.15.2_1",NA
+"Colombia-Guainia-Pana_Pana","Colombia","GUAINIA","PANA PANA","COL.15.4_1",NA
+"Colombia-Guainia-Morichal","Colombia","Guainía","Puerto Inírida","COL.15.6_1",NA
+"Colombia-Guaviare-San_Jose_Del_Guaviare","Colombia","GUAVIARE","SAN JOSE DEL GUAVIARE","COL.16.4_1",NA
+"Colombia-Guaviare-Calamar","Colombia","GUAVIARE","CALAMAR","COL.16.1_1",NA
+"Colombia-Guaviare-El_Retorno","Colombia","GUAVIARE","EL RETORNO","COL.16.2_1",NA
+"Colombia-Guaviare-Miraflores","Colombia","GUAVIARE","MIRAFLORES","COL.16.3_1",NA
+"Colombia-Vaupes-Mitu","Colombia","VAUPES","MITU","COL.31.2_1",NA
+"Colombia-Vaupes-Caruru","Colombia","VAUPES","CARURU","COL.31.1_1",NA
+"Colombia-Vaupes-Pacoa","Colombia","VAUPES","PACOA","COL.31.3_1",NA
+"Colombia-Vaupes-Taraira","Colombia","VAUPES","TARAIRA","COL.31.5_1",NA
+"Colombia-Vaupes-Papunaua","Colombia","VAUPES","PAPUNAUA","COL.31.4_1",NA
+"Colombia-Vaupes-Yavarate","Colombia","VAUPES","YAVARATE","COL.31.6_1",NA
+"Colombia-Vichada-Puerto_Carreno","Colombia","VICHADA","PUERTO CARRENO","COL.32.3_1",NA
+"Colombia-Vichada-La_Primavera","Colombia","VICHADA","LA PRIMAVERA","COL.32.2_1",NA
+"Colombia-Vichada-Santa_Rosalia","Colombia","VICHADA","SANTA ROSALIA","COL.32.6_1",NA
+"Colombia-Vichada-Cumaribo","Colombia","VICHADA","CUMARIBO","COL.32.1_1",NA
+"Colombia-Bogota-Bogota",NA,NA,NA,"COL.14.79_1",NA
+"Colombia-Bogota-Bogota_DC",NA,NA,NA,"COL.14.79_1",NA
+"Colombia-Bogota-Usaquen_Los_Cedros","Colombia","BOGOTA","USAQUEN LOS CEDROS","COL.14.79_1",NA
+"Colombia-Bogota-Usaquen_Santa_Barbara","Colombia","BOGOTA","USAQUEN SANTA BARBARA","COL.14.79_1",NA
+"Colombia-Bogota-Barrios_Unidos_Los_Andes","Colombia","BOGOTA","BARRIOS UNIDOS LOS ANDES","COL.14.79_1",NA
+"Colombia-Bogota-Barrios_Unidos_12_De_Octubre","Colombia","BOGOTA","BARRIOS UNIDOS 12 DE OCTUBRE","COL.14.79_1",NA
+"Colombia-Bogota-San_Cristobal_Sociego","Colombia","BOGOTA","SAN CRISTOBAL SOCIEGO","COL.14.79_1",NA
+"Colombia-Bogota-Tunjuelito_Venecia","Colombia","BOGOTA","TUNJUELITO VENECIA","COL.14.79_1",NA
+"Colombia-Bogota-Puente_Aranda_San_Rafael","Colombia","BOGOTA","PUENTE ARANDA SAN RAFAEL","COL.14.79_1",NA
+"Colombia-Bogota-Kennedy_Americas","Colombia","BOGOTA","KENNEDY AMERICAS","COL.14.79_1",NA
+"Colombia-Bogota-Kennedy_Kennedy_Central","Colombia","BOGOTA","KENNEDY KENNEDY CENTRAL","COL.14.79_1",NA
+"Colombia-Bogota-Tunjuelito_Tunjuelito","Colombia","BOGOTA","TUNJUELITO TUNJUELITO","COL.14.79_1",NA
+"Colombia-Bogota-Ciudad_Bolivar_San_Francisco","Colombia","BOGOTA","CIUDAD BOLIVAR SAN FRANCISCO","COL.14.79_1",NA
+"Colombia-Bogota-Engativa_Engativa","Colombia","BOGOTA","ENGATIVA ENGATIVA","COL.14.79_1",NA
+"Colombia-Bogota-Fontibon_Fontibon","Colombia","BOGOTA","FONTIBON FONTIBON","COL.14.79_1",NA
+"Colombia-Bogota-Bosa_Bosa_Central","Colombia","BOGOTA","BOSA BOSA CENTRAL","COL.14.79_1",NA
+"Colombia-Bogota-Bosa_Tintal_Sur","Colombia","BOGOTA","BOSA TINTAL SUR","COL.14.79_1",NA
+"Colombia-Bogota-La_Candelaria_La_Candelaria","Colombia","BOGOTA","LA CANDELARIA LA CANDELARIA","COL.14.79_1",NA
+"Colombia-Bogota-Chapinero_Chico_Lago","Colombia","BOGOTA","CHAPINERO CHICO LAGO","COL.14.79_1",NA
+"Colombia-Bogota-Chapinero_Chapinero","Colombia","BOGOTA","CHAPINERO CHAPINERO","COL.14.79_1",NA
+"Colombia-Bogota-Teusaquillo_Teusaquillo","Colombia","BOGOTA","TEUSAQUILLO TEUSAQUILLO","COL.14.79_1",NA
+"Colombia-Bogota-Teusaquillo_La_Esmeralda","Colombia","BOGOTA","TEUSAQUILLO LA ESMERALDA","COL.14.79_1",NA
+"Colombia-Bogota-Teusaquillo_Quinta_Paredes","Colombia","BOGOTA","TEUSAQUILLO QUINTA PAREDES","COL.14.79_1",NA
+"Colombia-Bogota-Teusaquillo_Ciudad_Salitre_Oriental","Colombia","BOGOTA","TEUSAQUILLO CIUDAD SALITRE ORIENTAL","COL.14.79_1",NA
+"Colombia-Sucre-Tolu","Colombia","SUCRE","TOLU","COL.28.23_1",NA
+"Colombia-Sucre-Toluviejo","Colombia","SUCRE","TOLUVIEJO","COL.28.24_1",NA
+"Colombia-Tolima-Armero_Guayabal",NA,NA,NA,"COL.29.5_1",NA
+"Colombia-Valle","Colombia","VALLE DEL CAUCA",NA,NA,"COL.30_1"
+"Colombia-Bolivar","Colombia","BOLIVAR",NA,NA,"COL.5_1"
+"Colombia-Norte_Santander","Colombia","NORTE DE SANTANDER",NA,NA,"COL.22_1"
+"Colombia-Barranquilla","Colombia","ATLANTICO",NA,NA,"COL.4_1"
+"Colombia-Huila","Colombia","HUILA",NA,NA,"COL.17_1"
+"Colombia-Santander","Colombia","SANTANDER",NA,NA,"COL.27_1"
+"Colombia-Cordoba","Colombia","CORDOBA",NA,NA,"COL.13_1"
+"Colombia-Meta","Colombia","META",NA,NA,"COL.20_1"
+"Colombia-Tolima","Colombia","TOLIMA",NA,NA,"COL.29_1"
+"Colombia-Atlantico","Colombia","ATLANTICO",NA,NA,"COL.4_1"
+"Colombia-Cesar","Colombia","CESAR",NA,NA,"COL.11_1"
+"Colombia-Antioquia","Colombia","ANTIOQUIA",NA,NA,"COL.2_1"
+"Colombia-Casanare","Colombia","CASANARE",NA,NA,"COL.9_1"
+"Colombia-Santa_Marta","Colombia","MAGDALENA",NA,NA,"COL.19_1"
+"Colombia-Sucre","Colombia","SUCRE",NA,NA,"COL.28_1"
+"Colombia-Magdalena","Colombia","MAGDALENA",NA,NA,"COL.19_1"
+"Colombia-Bogota","Colombia","CUNDINAMARCA",NA,NA,"COL.14_1"
+"Colombia-Caqueta","Colombia","CAQUETA",NA,NA,"COL.8_1"
+"Colombia-Cundinamarca","Colombia","CUNDINAMARCA",NA,NA,"COL.14_1"
+"Colombia-Arauca","Colombia","ARAUCA",NA,NA,"COL.3_1"
+"Colombia-Guajira","Colombia","LA GUAJIRA",NA,NA,"COL.18_1"
+"Colombia-Risaralda","Colombia","RISARALDA",NA,NA,"COL.25_1"
+"Colombia-Putumayo","Colombia","PUTUMAYO",NA,NA,"COL.23_1"
+"Colombia-Cartagena","Colombia","BOLIVAR",NA,NA,"COL.5_1"
+"Colombia-Cauca","Colombia","CAUCA",NA,NA,"COL.10_1"
+"Colombia-Quindio","Colombia","QUINDIO",NA,NA,"COL.24_1"
+"Colombia-Caldas","Colombia","CALDAS",NA,NA,"COL.7_1"
+"Colombia-Amazonas","Colombia","AMAZONAS",NA,NA,"COL.1_1"
+"Colombia-Boyaca","Colombia","BOYACA",NA,NA,"COL.6_1"
+"Colombia-San_Andres","Colombia","SAN ANDRES Y PROVIDENCIA",NA,NA,"COL.26_1"
+"Colombia-Buenaventura","Colombia","VALLE DEL CAUCA",NA,NA,"COL.30_1"
+"Colombia-Narino","Colombia","NARINO",NA,NA,"COL.21_1"
+"Colombia-Guaviare","Colombia","GUAVIARE",NA,NA,"COL.16_1"
+"Colombia-Vichada","Colombia","VICHADA",NA,NA,"COL.32_1"
+"Colombia-Choco","Colombia","CHOCO",NA,NA,"COL.12_1"
+"Colombia-Vaupes","Colombia","VAUPES",NA,NA,"COL.31_1"
+"Colombia-Guainia","Colombia","GUAINIA",NA,NA,"COL.15_1"

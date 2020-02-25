@@ -93,7 +93,7 @@ write.csv(key.arg, "../../Argentina/AR_GADM_Key.csv", row.names = F)
 # Case data is at level of the state (NAME_1)
 # Note there is also data at the level of the region for Norte, Nordest, Sudeste,
 # Sul, & Centro (incorrectly categorized as NAME_0). These are being ignored 
-# becuase they are coarser than states.
+# becuase they are coarser than states and do not correspond to a GADM level.
 
 zika.bra <- read.csv("../../Brazil/BR_Places.csv") %>%
   tidyr::separate(location, into = c("NAME_0", "NAME_1", "NAME_2"), 
@@ -136,8 +136,6 @@ write.csv(key.bra, "../../Brazil/BR_GADM_Key.csv", row.names = F)
 zika.col <- read.csv("../../Colombia/CO_Places.csv") %>%
   tidyr::separate(location, into=c("NAME_0", "NAME_1", "NAME_2"), 
                   sep = "-", remove = F) %>% 
-  dplyr::filter(NAME_0 == "Colombia") %>%
-  filter(location_type == "municipality") %>%
   mutate(NAME_1 = gsub("_", " ", NAME_1)) %>%
   mutate(NAME_1 = toupper(NAME_1)) %>%
   mutate(NAME_2 = gsub("_", " ", NAME_2)) %>%
@@ -209,21 +207,81 @@ georef.gid <- do.call(rbind.data.frame, over(col.missing.gid.shp, col.shp, retur
 # join with those that were just misspelled
 col.corrected <- col.coords %>%
   filter(!(is.na(GID_2)|GID_2 == "")) %>%
-  select(NAME_0, NAME_1, NAME_2, GID_2) %>%
+  select(location, NAME_0, NAME_1, NAME_2, GID_2) %>%
   bind_rows(georef.gid) %>%
   select(location, NAME_0, NAME_1, NAME_2, GID_2)
 
 #now join with the 900-ish that were already correct
-col.key <- gid.correct %>%
+col.key2 <- gid.correct %>%
   select(location,  NAME_0, NAME_1, NAME_2, GID_2) %>%
   bind_rows(col.corrected) %>%
-  distinct()
+  distinct() 
+
+#go through and do this for the ADM1 level in colombia to join with this later
+zika.col.1 <- read.csv("../../Colombia/CO_Places.csv") %>%
+  tidyr::separate(location, into=c("NAME_0", "NAME_1", "NAME_2"), 
+                  sep = "-", remove = F) %>% 
+  mutate(NAME_1 = gsub("_", " ", NAME_1)) %>%
+  mutate(NAME_1 = toupper(NAME_1)) %>%
+  filter(location_type == "province") %>%
+  #drop unknowns & imported
+  filter(NAME_1 != "UNKNOWN") %>%
+  filter(NAME_1 != "DESCONOCIDO") %>%
+  filter(NAME_1 != "EXTERIOR") %>%
+  #adjust for some which are mislabeled
+  mutate(NAME_1 = case_when(
+    NAME_1 == "BARRANQUILLA" ~ "ATLANTICO", #this is the capital of atlantico
+    NAME_1 == "BOGOTA" ~ "CUNDINAMARCA", #in this Cundinamarca dept
+    NAME_1 == "BUENAVENTURA" ~ "VALLE DEL CAUCA",
+    NAME_1 == "CARTAGENA" ~ "BOLIVAR",
+    NAME_1 == "GUAJIRA" ~ "LA GUAJIRA",
+    NAME_1 == "NORTE SANTANDER" ~ "NORTE DE SANTANDER",
+    NAME_1 == "SAN ANDRES" ~ "SAN ANDRES Y PROVIDENCIA",
+    NAME_1 == "SANTA MARTA" ~ "MAGDALENA",
+    NAME_1 == "VALLE" ~ "VALLE DEL CAUCA",
+    TRUE ~ NAME_1
+  ))
+
+#join with GID1
+gadm.col.1 <- gadm.data %>%
+  filter(GID_0 == "COL") %>%
+  select(NAME_0, NAME_1, GID_1) %>%
+  distinct() %>%
+  #drop accents and capitalize
+  mutate(NAME_1 = toupper(gsub("`|\\'", "", iconv(NAME_1, to="ASCII//TRANSLIT")))) %>%
+  mutate(NAME_1 = gsub("\\~", "", NAME_1)) %>%
+  mutate(NAME_1 = gsub("\\^", "", NAME_1))
+
+#join
+zika.col.join.1 <- left_join(zika.col.1, gadm.col.1, by = c("NAME_0" = "NAME_0", "NAME_1" = "NAME_1")) %>%
+  select(location,  NAME_0, NAME_1, GID_1)
+
+#combine with gadm level 2 data
+col.key.all <- bind_rows(col.key2, zika.col.join.1)
+
+#there are some extras so bind this back with the initial locations from CO_Places
+col.location.key <- read.csv("../../Colombia/CO_Places.csv") %>%
+  select(location) %>%
+  left_join(col.key.all, by  = "location") %>%
+  #manually fix the last couple
+  mutate(GID_2 = case_when(
+    location == "Colombia-Cundinamarca-Rafael_Reyes_Apulo" ~ "COL.14.5_1",
+    location  == "Colombia-Sta_Marta_DE-Santa_Marta" ~ "COL.19.19_1",
+    location == "Colombia-Magdalena-Sitio_Nuevo" ~ "COL.19.17_1", #actually in San Zenon
+    location == "Colombia-Tolima-Armero_Guayabal" ~ "COL.29.5_1",
+    location == "Colombia-Bogota-Bogota" ~ "COL.14.79_1",
+    location == "Colombia-Bogota-Bogota_DC" ~ "COL.14.79_1",
+    TRUE ~ GID_2
+  ))
+
+#how many are missing
+missing <- filter(col.location.key, is.na(GID_1) & is.na(GID_2)) #all unknowns
 
 #' note that three are still missing. One was mistakenly at the country level,
 #' and the others were not found through georeferencing.
 
 #save key
-write.csv(col.key, "../../Colombia/CO_GADM_Key.csv", row.names = F)
+write.csv(col.location.key, "../../Colombia/CO_GADM_Key.csv", row.names = F)
 
 #### Dominican Republic ####
 
