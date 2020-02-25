@@ -31,3 +31,14 @@ col.keys <- read.csv("../../Colombia/CO_GADM_Key.csv")
 sum(!(col.places$location %in% col.keys$location))  #Zero means all the locations are in the keys
 #investigate missing
 col.places[!(col.places$location %in% col.keys$location),] #unknown locations do not have a GID associated with them
+
+#### Dominican Republic ####
+
+dr.places <- read.csv("../../Dominican_Republic/DO_Places.csv")
+dr.keys <- read.csv("../../Dominican_Republic/DO_GADM_Key.csv")
+
+sum(!(dr.places$location %in% dr.keys$location))  #Zero means all the locations are in the keys
+#investigate missing
+dr.places[!(dr.places$location %in% dr.keys$location),] #unknown locations do not have a GID associated with them
+
+

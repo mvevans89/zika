@@ -280,17 +280,20 @@ missing <- filter(col.location.key, is.na(GID_1) & is.na(GID_2)) #all unknowns
 #' note that three are still missing. One was mistakenly at the country level,
 #' and the others were not found through georeferencing.
 
+col.location.key <- filter(col.location.key, !(is.na(GID_1) & is.na(GID_2)))
+
 #save key
 write.csv(col.location.key, "../../Colombia/CO_GADM_Key.csv", row.names = F)
 
 #### Dominican Republic ####
 
-# Cases are at the municipality level (NAME_2)
+# Finest scale data are at the municipality level (NAME_2)
+# There are also data at the province level (NAME_1)
 # However most data are from Santiago Rodriguez which is ADM level 1 (GID_1 = DOM.29)
 
 zika.dom <- read.csv("../../Dominican_Republic/DO_Places.csv") %>%
   tidyr::separate(location, into = c("NAME_0", "NAME_1", "NAME_2"), 
-                  sep = "-", remove = F) %>% #ignore miriti-paran warnings
+                  sep = "-", remove = F) %>%
   mutate(NAME_0 = "Dominican Republic") %>%
   filter(location_type == "municipality") %>%
   mutate(NAME_1 = gsub("_", " ", NAME_1)) %>%
@@ -309,15 +312,22 @@ zika.dom <- read.csv("../../Dominican_Republic/DO_Places.csv") %>%
     NAME_2 == "ENSUENO" ~ "SANTIAGO DE LOS CABALLEROS",
     NAME_2 == "PUERTO PLATA" ~ "LUPERON",
     NAME_2 == "COMPOSTELA" ~ "AZUA DE COMPOSTELA",
+    NAME_1 == "ENSANCHE OZAMA" ~ "SANTO DOMINGO ESTE",
+    NAME_1 == "LAS CANAS" ~ "CONCEPCION DE LA VEGA",
+    NAME_1 == "LAS MINAS NORTE" ~ "SANTO DOMINGO ESTE",
     TRUE ~ NAME_2
   )) %>%
   mutate(NAME_1 = case_when(
     NAME_1 == "JIMANI DE INDEPENDENCIA" ~ "INDEPENDENCIA",
-    NAME_1 %in% c("SANTO DOMINGO NORTE", "SANTO DOMINGO ESTE", "SANTO DOMINGO OESTE") ~ "SANTO DOMINGO",
+    NAME_1 %in% c("SANTO DOMINGO NORTE", "SANTO DOMINGO ESTE", "SANTO DOMINGO OESTE", "ENSANCHE OZAMA", "LAS MINAS NORTE") ~ "SANTO DOMINGO",
     NAME_1 == "SANTA CRUZ" ~ "BARAHONA",
     NAME_1 == "LUPERON" ~ "PUERTO PLATA",
+    NAME_1 == "LAS CANAS" ~ "LA VEGA",
     TRUE ~ NAME_1
-  ))
+  )) %>%
+  #drop provinces
+  filter(NAME_2 != "RODRIGUEZ") %>%
+  filter(!is.na(NAME_2)) #drops Santo Domingo province
 
 gadm.dom <- gadm.data %>%
   filter(GID_0 == "DOM") %>%
@@ -331,18 +341,61 @@ gadm.dom <- gadm.data %>%
 
 #join
 zika.dom.join <- zika.dom %>%
-  dplyr::filter(NAME_2 != "RODRIGUEZ") %>%
+  #dplyr::filter(NAME_2 != "RODRIGUEZ") %>%
   left_join(gadm.dom, by = c("NAME_0" = "NAME_0", "NAME_1" = "NAME_1", "NAME_2" = "NAME_2"))
 
 #check it worked
 sum(is.na(zika.dom.join$GID_2)) # success == 0
 
+# Now do the same for province level case data
+zika.dom1 <- read.csv("../../Dominican_Republic/DO_Places.csv") %>%
+  filter(location_type == "province") %>%
+  tidyr::separate(location, into = c("NAME_0", "NAME_1", "NAME_2"), 
+                  sep = "-", remove = F) %>%
+  mutate(NAME_1 = gsub("_", " ", NAME_1)) %>%
+  mutate(NAME_1 = toupper(NAME_1)) %>%
+  mutate(NAME_1 = case_when(
+    NAME_1 == "JIMANI DE INDEPENDENCIA" ~ "INDEPENDENCIA",
+    NAME_1 %in% c("SANTO DOMINGO NORTE", "SANTO DOMINGO ESTE", "SANTO DOMINGO OESTE") ~ "SANTO DOMINGO",
+    NAME_1 == "SANTA CRUZ" ~ "BARAHONA",
+    NAME_1 == "LUPERON" ~ "PUERTO PLATA",
+    NAME_1 == "BAORUCO" ~ "BAHORUCO",
+    NAME_1 == "EL SEIBO" ~ "EL SEYBO",
+    NAME_1 == "ELIAS PINA" ~ "LA ESTRELLETA",
+    NAME_1 == "HERMANAS MIRABAL" ~ "SALCEDO",
+    TRUE ~ NAME_1
+  )) %>%
+  mutate(NAME_0 = "Dominican Republic") %>%
+  #drop imported & other
+  filter(NAME_1 != "EXTRANJERA") %>%
+  filter(NAME_1 != "OTHER")
+
+gadm.dom1 <- gadm.data %>%
+  filter(GID_0 == "DOM") %>%
+  select(NAME_0, NAME_1, GID_1) %>%
+  distinct() %>%
+  #drop accents and capitalize
+  mutate(NAME_1 = toupper(gsub("`|\\'", "", iconv(NAME_1, to="ASCII//TRANSLIT")))) %>%
+  mutate(NAME_1 = gsub("~", "", NAME_1)) 
+
+zika.dom.join1 <- zika.dom1 %>%
+  left_join(gadm.dom1, by = c("NAME_0" = "NAME_0", "NAME_1" = "NAME_1"))
+
 # get unique key and save
-key.dom <- zika.dom.join %>%
+key.dom2 <- zika.dom.join %>%
   select(location, NAME_0, NAME_1, NAME_2, GID_2) %>%
   distinct()
+key.dom1 <- zika.dom.join1 %>%
+  select(location, NAME_0, NAME_1, GID_1)
 
-write.csv(key.dom, "../../Dominican_Republic/DO_GADM_Key.csv", row.names = F)
+key.dom.all <- bind_rows(key.dom1, key.dom2) %>%
+  #add Santo Domingo and Santiago Rodriguez provinces
+  bind_rows(data.frame(location = c("Dominican_Republic-Santo_Domingo", "Dominican_Republic-Santiago-Rodriguez"),
+                       NAME_0 = "Dominican Republic",
+                       NAME_1 = c("SANTO DOMINGO", "SANTIAGO RODRIGUEZ"),
+                       GID_1 = c("DOM.31_1", "DOM.29_1")))
+
+write.csv(key.dom.all, "../../Dominican_Republic/DO_GADM_Key.csv", row.names = F)
 
 #### Ecuador ####
 

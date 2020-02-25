@@ -1,13 +1,52 @@
-"location","NAME_0","NAME_1","NAME_2","GID_2"
-"Dominican_Republic-Azua-Compostela","Dominican Republic","AZUA","AZUA DE COMPOSTELA","DOM.1.1_1"
-"Dominican_Republic-Distrito_Nacional","Dominican Republic","DISTRITO NACIONAL","DISTRITO NACIONAL","DOM.5.1_1"
-"Dominican_Republic-Jimani_de_Independencia","Dominican Republic","INDEPENDENCIA","JIMANI","DOM.10.3_1"
-"Dominican_Republic-Luperon-Puerto_Plata","Dominican Republic","PUERTO PLATA","LUPERON","DOM.21.6_1"
-"Dominican_Republic-Santa_Cruz-Barahona","Dominican Republic","BARAHONA","SANTA CRUZ DE BARAHONA","DOM.3.10_1"
-"Dominican_Republic-Santiago-Caballeros","Dominican Republic","SANTIAGO","SANTIAGO DE LOS CABALLEROS","DOM.30.6_1"
-"Dominican_Republic-Santiago-Ensueno","Dominican Republic","SANTIAGO","SANTIAGO DE LOS CABALLEROS","DOM.30.6_1"
-"Dominican_Republic-Santo_Domingo_Norte","Dominican Republic","SANTO DOMINGO","SANTO DOMINGO NORTE","DOM.31.6_1"
-"Dominican_Republic-Santo_Domingo_Este","Dominican Republic","SANTO DOMINGO","SANTO DOMINGO ESTE","DOM.31.5_1"
-"Dominican_Republic-Santo_Domingo_Oeste","Dominican Republic","SANTO DOMINGO","SANTO DOMINGO OESTE","DOM.31.7_1"
-"Dominican_Republic-Santo_Domingo_Este-Los_Corales_del_Sur","Dominican Republic","SANTO DOMINGO","SANTO DOMINGO ESTE","DOM.31.5_1"
-"Dominican_Republic-Santo_Domingo_Este-Herrera","Dominican Republic","SANTO DOMINGO","SANTO DOMINGO ESTE","DOM.31.5_1"
+"location","NAME_0","NAME_1","GID_1","NAME_2","GID_2"
+"Dominican_Republic-Barahona","Dominican Republic","BARAHONA","DOM.3_1",NA,NA
+"Dominican_Republic-Independencia","Dominican Republic","INDEPENDENCIA","DOM.10_1",NA,NA
+"Dominican_Republic-Puerto Plata","Dominican Republic","PUERTO PLATA","DOM.21_1",NA,NA
+"Dominican_Republic-Distrito_Nacional","Dominican Republic","DISTRITO NACIONAL","DOM.5_1",NA,NA
+"Dominican_Republic-Azua","Dominican Republic","AZUA","DOM.1_1",NA,NA
+"Dominican_Republic-Baoruco","Dominican Republic","BAHORUCO","DOM.2_1",NA,NA
+"Dominican_Republic-Barahona","Dominican Republic","BARAHONA","DOM.3_1",NA,NA
+"Dominican_Republic-Dajabon","Dominican Republic","DAJABON","DOM.4_1",NA,NA
+"Dominican_Republic-Duarte","Dominican Republic","DUARTE","DOM.6_1",NA,NA
+"Dominican_Republic-Elias_Pina","Dominican Republic","LA ESTRELLETA","DOM.12_1",NA,NA
+"Dominican_Republic-El_Seibo","Dominican Republic","EL SEYBO","DOM.7_1",NA,NA
+"Dominican_Republic-Espaillat","Dominican Republic","ESPAILLAT","DOM.8_1",NA,NA
+"Dominican_Republic-Independencia","Dominican Republic","INDEPENDENCIA","DOM.10_1",NA,NA
+"Dominican_Republic-La_Altagracia","Dominican Republic","LA ALTAGRACIA","DOM.11_1",NA,NA
+"Dominican_Republic-La_Romana","Dominican Republic","LA ROMANA","DOM.13_1",NA,NA
+"Dominican_Republic-La_Vega","Dominican Republic","LA VEGA","DOM.14_1",NA,NA
+"Dominican_Republic-Maria_Trinidad_Sanchez","Dominican Republic","MARIA TRINIDAD SANCHEZ","DOM.15_1",NA,NA
+"Dominican_Republic-Monte_Cristi","Dominican Republic","MONTE CRISTI","DOM.17_1",NA,NA
+"Dominican_Republic-Pedernales","Dominican Republic","PEDERNALES","DOM.19_1",NA,NA
+"Dominican_Republic-Peravia","Dominican Republic","PERAVIA","DOM.20_1",NA,NA
+"Dominican_Republic-Puerto_Plata","Dominican Republic","PUERTO PLATA","DOM.21_1",NA,NA
+"Dominican_Republic-Hermanas_Mirabal","Dominican Republic","SALCEDO","DOM.22_1",NA,NA
+"Dominican_Republic-Samana","Dominican Republic","SAMANA","DOM.23_1",NA,NA
+"Dominican_Republic-San_Cristobal","Dominican Republic","SAN CRISTOBAL","DOM.24_1",NA,NA
+"Dominican_Republic-San_Juan","Dominican Republic","SAN JUAN","DOM.26_1",NA,NA
+"Dominican_Republic-San_Pedro_de_Macoris","Dominican Republic","SAN PEDRO DE MACORIS","DOM.27_1",NA,NA
+"Dominican_Republic-Sanchez_Ramirez","Dominican Republic","SANCHEZ RAMIREZ","DOM.28_1",NA,NA
+"Dominican_Republic-Santiago","Dominican Republic","SANTIAGO","DOM.30_1",NA,NA
+"Dominican_Republic-Valverde","Dominican Republic","VALVERDE","DOM.32_1",NA,NA
+"Dominican_Republic-Monsenor_Nouel","Dominican Republic","MONSENOR NOUEL","DOM.16_1",NA,NA
+"Dominican_Republic-Monte_Plata","Dominican Republic","MONTE PLATA","DOM.18_1",NA,NA
+"Dominican_Republic-Hato_Mayor","Dominican Republic","HATO MAYOR","DOM.9_1",NA,NA
+"Dominican_Republic-San_Jose_de_Ocoa","Dominican Republic","SAN JOSE DE OCOA","DOM.25_1",NA,NA
+"Dominican_Republic-Santo_Domingo","Dominican Republic","SANTO DOMINGO","DOM.31_1",NA,NA
+"Dominican_Republic-Azua-Compostela","Dominican Republic","AZUA",NA,"AZUA DE COMPOSTELA","DOM.1.1_1"
+"Dominican_Republic-Distrito_Nacional","Dominican Republic","DISTRITO NACIONAL",NA,"DISTRITO NACIONAL","DOM.5.1_1"
+"Dominican_Republic-Ensanche_Ozama","Dominican Republic","SANTO DOMINGO",NA,"SANTO DOMINGO ESTE","DOM.31.5_1"
+"Dominican_Republic-Jimani_de_Independencia","Dominican Republic","INDEPENDENCIA",NA,"JIMANI","DOM.10.3_1"
+"Dominican_Republic-Las_Canas","Dominican Republic","LA VEGA",NA,"CONCEPCION DE LA VEGA","DOM.14.1_1"
+"Dominican_Republic-Las_Minas_Norte","Dominican Republic","SANTO DOMINGO",NA,"SANTO DOMINGO ESTE","DOM.31.5_1"
+"Dominican_Republic-Luperon-Puerto_Plata","Dominican Republic","PUERTO PLATA",NA,"LUPERON","DOM.21.6_1"
+"Dominican_Republic-Santa_Cruz-Barahona","Dominican Republic","BARAHONA",NA,"SANTA CRUZ DE BARAHONA","DOM.3.10_1"
+"Dominican_Republic-Santiago-Caballeros","Dominican Republic","SANTIAGO",NA,"SANTIAGO DE LOS CABALLEROS","DOM.30.6_1"
+"Dominican_Republic-Santiago-Ensueno","Dominican Republic","SANTIAGO",NA,"SANTIAGO DE LOS CABALLEROS","DOM.30.6_1"
+"Dominican_Republic-Santo_Domingo_Norte","Dominican Republic","SANTO DOMINGO",NA,"SANTO DOMINGO NORTE","DOM.31.6_1"
+"Dominican_Republic-Santo_Domingo_Este","Dominican Republic","SANTO DOMINGO",NA,"SANTO DOMINGO ESTE","DOM.31.5_1"
+"Dominican_Republic-Santo_Domingo_Oeste","Dominican Republic","SANTO DOMINGO",NA,"SANTO DOMINGO OESTE","DOM.31.7_1"
+"Dominican_Republic-Santo_Domingo_Este-Los_Corales_del_Sur","Dominican Republic","SANTO DOMINGO",NA,"SANTO DOMINGO ESTE","DOM.31.5_1"
+"Dominican_Republic-Santo_Domingo_Este-Herrera","Dominican Republic","SANTO DOMINGO",NA,"SANTO DOMINGO ESTE","DOM.31.5_1"
+"Dominican_Republic-Santo_Domingo","Dominican Republic","SANTO DOMINGO","DOM.31_1",NA,NA
+"Dominican_Republic-Santiago-Rodriguez","Dominican Republic","SANTIAGO RODRIGUEZ","DOM.29_1",NA,NA
