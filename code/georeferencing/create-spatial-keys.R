@@ -685,10 +685,9 @@ write.csv(key.mex, "../../Mexico/MX_GADM_Key.csv", row.names = F)
 
 
 #### Nicaragua ####
-#this doesn't include the 'cities'
 
-zika.nic <- read.csv("../../Nicaragua/NI_Places.csv", stringsAsFactors = F) %>%
-  filter(location_type == "municipality") %>%
+zika.nic2 <- read.csv("../../Nicaragua/NI_Places.csv", stringsAsFactors = F) %>%
+  filter(location_type %in% c("municipality", "district")) %>%
   tidyr::separate(location, into=c("NAME_0", "NAME_1", "NAME_2"), sep = "-", remove = F) %>%
   mutate(NAME_1 = toupper(gsub("_", " ", NAME_1))) %>%
   mutate(NAME_2 = toupper(gsub("_", " ", NAME_2))) %>%
@@ -699,10 +698,11 @@ zika.nic <- read.csv("../../Nicaragua/NI_Places.csv", stringsAsFactors = F) %>%
     NAME_2 == "QUETZALGUAQUE" ~ "QUEZALGUAQUE",
     NAME_2 == "CIUDAD SANDINO" ~ "MANAGUA", #in managua city
     NAME_2 == "CARDENAS" ~ "TOLA",
+    NAME_2 %in% c("DISTRITO I", "DISTRITO II", "DISTRITO III", "DISTRITO IV", "DISTRITO V") ~ "MANAGUA", #in managua city
     TRUE ~ NAME_2
   ))
 
-gadm.nic <- gadm.data %>%
+gadm.nic2 <- gadm.data %>%
   filter(GID_0 == "NIC") %>%
   select(NAME_0, NAME_1, NAME_2,GID_2) %>%
   distinct() %>%
@@ -717,14 +717,35 @@ gadm.nic <- gadm.data %>%
 
 
 # join on the finest scale possible for each row
-zika.nic.join <- left_join(zika.nic, gadm.nic, 
-                           by = c("NAME_0" = "NAME_0", "NAME_1" = "NAME_1", "NAME_2" = "NAME_2"))
+zika.nic.join2 <- left_join(zika.nic2, gadm.nic2, 
+                           by = c("NAME_0" = "NAME_0", "NAME_1" = "NAME_1", "NAME_2" = "NAME_2")) %>%
+  select(location, NAME_0, NAME_1, NAME_2, GID_2)
 
 #check it worked
-sum(is.na(zika.nic.join$GID_2)) #success==0
+sum(is.na(zika.nic.join2$GID_2)) #success==0
 
-#save
-key.nic <- select(zika.nic.join,location, NAME_0, NAME_1, NAME_2, GID_2)
+# Do the same for ADM1 (city and district)
+zika.nic1 <- read.csv("../../Nicaragua/NI_Places.csv", stringsAsFactors = F) %>%
+  filter(location_type %in% c("city")) %>%
+  tidyr::separate(location, into=c("NAME_0", "NAME_1"), sep = "-", remove = F) %>%
+  mutate(NAME_1 = toupper(gsub("_", " ", NAME_1))) %>%
+  #drop the Other category
+  filter(NAME_1 != "OTHER") 
+
+gadm.nic1 <- gadm.data %>%
+  filter(GID_0 == "NIC") %>%
+  select(NAME_0, NAME_1,GID_1) %>%
+  distinct() %>%
+  #drop accents and capitalize
+  mutate(NAME_1 = toupper(gsub("`|\\'", "", iconv(NAME_1, to="ASCII//TRANSLIT")))) %>%
+  mutate(NAME_1 = gsub("\\~", "", NAME_1)) %>%
+  mutate(NAME_1 = gsub("\\^", "", NAME_1))
+
+zika.nic.join1 <- left_join(zika.nic1, gadm.nic1, 
+                            by = c("NAME_0" = "NAME_0", "NAME_1" = "NAME_1")) %>%
+  select(location, NAME_0, NAME_1,GID_1)
+
+key.nic <- bind_rows(zika.nic.join1, zika.nic.join2)
 
 write.csv(key.nic, "../../Nicaragua/NI_GADM_Key.csv", row.names = F)
 

@@ -85,3 +85,19 @@ ha.keys <- read.csv("../../Haiti/HA_GADM_Key.csv")
 sum(!(ha.places$location %in% ha.keys$location))  #Zero means all the locations are in the keys
 #investigate missing
 ha.places[!(ha.places$location %in% ha.keys$location),] #the missing data are regions that are larger than ADM1 in the GADM data
+
+#### Mexico ####
+mx.places <- read.csv("../../Mexico/MX_Places.csv")
+mx.keys <- read.csv("../../Mexico/MX_GADM_Key.csv")
+
+sum(!(mx.places$location %in% mx.keys$location))  #Zero means all the locations are in the keys
+#investigate missing
+mx.places[!(mx.places$location %in% mx.keys$location),] #the missing data are regions that are larger than ADM1 in the GADM data
+
+#### Nicaragua ####
+ni.places <- read.csv("../../Nicaragua/NI_Places.csv")
+ni.keys <- read.csv("../../Nicaragua/NI_GADM_Key.csv")
+
+sum(!(ni.places$location %in% ni.keys$location))  #Zero means all the locations are in the keys
+#investigate missing
+ni.places[!(ni.places$location %in% ni.keys$location),] # 

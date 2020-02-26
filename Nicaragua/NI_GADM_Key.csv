@@ -1,10 +1,25 @@
-"location","NAME_0","NAME_1","NAME_2","GID_2"
-"Nicaragua-Chinandega-San_Pedro_del_Norte","Nicaragua","CHINANDEGA","SAN PEDRO DEL NORTE","NIC.5.10_1"
-"Nicaragua-Leon-Quetzalguaque","Nicaragua","LEON","QUEZALGUAQUE","NIC.11.8_1"
-"Nicaragua-Leon-Telica","Nicaragua","LEON","TELICA","NIC.11.10_1"
-"Nicaragua-Managua-Ciudad_Sandino","Nicaragua","MANAGUA","MANAGUA","NIC.13.2_1"
-"Nicaragua-Masaya-Masatepe","Nicaragua","MASAYA","MASATEPE","NIC.14.3_1"
-"Nicaragua-Masaya-Nindiri","Nicaragua","MASAYA","NINDIRI","NIC.14.6_1"
-"Nicaragua-Masaya-San_Juan_de_Oriente","Nicaragua","MASAYA","SAN JUAN DE ORIENTE","NIC.14.8_1"
-"Nicaragua-Nueva_Segovia-Ocotal","Nicaragua","NUEVA SEGOVIA","OCOTAL","NIC.16.8_1"
-"Nicaragua-Rivas-Cardenas","Nicaragua","RIVAS","TOLA","NIC.18.8_1"
+"location","NAME_0","NAME_1","GID_1","NAME_2","GID_2"
+"Nicaragua-Chinandega","Nicaragua","CHINANDEGA","NIC.5_1",NA,NA
+"Nicaragua-Leon","Nicaragua","LEON","NIC.11_1",NA,NA
+"Nicaragua-Managua","Nicaragua","MANAGUA","NIC.13_1",NA,NA
+"Nicaragua-Matagalpa","Nicaragua","MATAGALPA","NIC.15_1",NA,NA
+"Nicaragua-Rivas","Nicaragua","RIVAS","NIC.18_1",NA,NA
+"Nicaragua-Masaya","Nicaragua","MASAYA","NIC.14_1",NA,NA
+"Nicaragua-Carazo","Nicaragua","CARAZO","NIC.4_1",NA,NA
+"Nicaragua-Granada","Nicaragua","GRANADA","NIC.8_1",NA,NA
+"Nicaragua-Nueva_Segovia","Nicaragua","NUEVA SEGOVIA","NIC.16_1",NA,NA
+"Nicaragua-Jinotega","Nicaragua","JINOTEGA","NIC.9_1",NA,NA
+"Nicaragua-Chinandega-San_Pedro_del_Norte","Nicaragua","CHINANDEGA",NA,"SAN PEDRO DEL NORTE","NIC.5.10_1"
+"Nicaragua-Leon-Quetzalguaque","Nicaragua","LEON",NA,"QUEZALGUAQUE","NIC.11.8_1"
+"Nicaragua-Leon-Telica","Nicaragua","LEON",NA,"TELICA","NIC.11.10_1"
+"Nicaragua-Managua-Ciudad_Sandino","Nicaragua","MANAGUA",NA,"MANAGUA","NIC.13.2_1"
+"Nicaragua-Managua-Distrito_I","Nicaragua","MANAGUA",NA,"MANAGUA","NIC.13.2_1"
+"Nicaragua-Managua-Distrito_II","Nicaragua","MANAGUA",NA,"MANAGUA","NIC.13.2_1"
+"Nicaragua-Managua-Distrito_III","Nicaragua","MANAGUA",NA,"MANAGUA","NIC.13.2_1"
+"Nicaragua-Managua-Distrito_IV","Nicaragua","MANAGUA",NA,"MANAGUA","NIC.13.2_1"
+"Nicaragua-Managua-Distrito_V","Nicaragua","MANAGUA",NA,"MANAGUA","NIC.13.2_1"
+"Nicaragua-Masaya-Masatepe","Nicaragua","MASAYA",NA,"MASATEPE","NIC.14.3_1"
+"Nicaragua-Masaya-Nindiri","Nicaragua","MASAYA",NA,"NINDIRI","NIC.14.6_1"
+"Nicaragua-Masaya-San_Juan_de_Oriente","Nicaragua","MASAYA",NA,"SAN JUAN DE ORIENTE","NIC.14.8_1"
+"Nicaragua-Nueva_Segovia-Ocotal","Nicaragua","NUEVA SEGOVIA",NA,"OCOTAL","NIC.16.8_1"
+"Nicaragua-Rivas-Cardenas","Nicaragua","RIVAS",NA,"TOLA","NIC.18.8_1"

@@ -42,7 +42,7 @@ Join level: ADM_0, "country"
 
 Join level: ADM_1, "municipality"
 
-Some reported locations did not match the ADM boundaries or were reported at a finer scale (ADM_2) than others. These were georeferenced following the deparment maps: https://guiadeguatemala.wordpress.com/guia-general-de-guatemala/. One potential issue is thathe region Peten matches the municipality Peten in name, so these cases could be double counted if they were reported at both levels.
+Some reported locations did not match the ADM boundaries or were reported at a finer scale (ADM_2) than others. These were georeferenced following the deparment maps: https://guiadeguatemala.wordpress.com/guia-general-de-guatemala/. One potential issue is that the region Peten matches the municipality Peten in name, so these cases could be double counted if they were reported at both levels.
 
 ## Haiti
 
@@ -56,7 +56,7 @@ Join level: ADM_1, "state"
 
 Join level: ADM_2, "municipality"
 
-This dataset also had locations listed as cities, which were not georeferenced as they seem to be a larger polygon than the municipalities.
+This dataset also had locations listed as city or district. The city was actually ADM1 level and were georeferenced as such. The districts are within Managua the city, and so were assigned the ADM2 level for that polygon(NIC.13.2_1).
 
 ## Panama
 
