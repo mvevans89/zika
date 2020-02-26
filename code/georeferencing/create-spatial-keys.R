@@ -440,11 +440,44 @@ zika.ecu.join <- left_join(zika.ecu, gadm.ecu,
 sum(is.na(zika.ecu.join$GID_2)) #success == 0
 
 # get unique key and save
-key.ecu <- zika.ecu.join %>%
+key.ecu2 <- zika.ecu.join %>%
   select(location, NAME_0, NAME_1, NAME_2, GID_2) %>%
   distinct()
 
-write.csv(key.ecu, "../../Ecuador/EC_GADM_Key.csv", row.names = F)
+## Now go through the provinces
+zika.ecu1 <- read.csv("../../Ecuador/EC_Places.csv") %>%
+  filter(location_type == "province") %>%
+  tidyr::separate(location, into=c("NAME_0", "NAME_1", "NAME_2"), sep = "-", remove = F) %>%
+  # fix province to match GADM data
+  mutate(NAME_1 = gsub("_", " ", NAME_1)) %>%
+  mutate(NAME_1 = toupper(NAME_1)) %>%
+
+  mutate(NAME_1 = case_when(
+    NAME_1 == "ORELLANA JOYA DE LOS SACHAS" ~ "ORELLANA",
+    NAME_1 == "LOS RIOS" & NAME_2 == "JARAMIJO" ~ "MANABI",
+    TRUE ~ NAME_1
+  ))
+
+gadm.ecu1 <- gadm.data %>%
+  filter(GID_0 == "ECU") %>%
+  select(NAME_0, NAME_1, GID_1) %>%
+  distinct() %>%
+  #drop accents and capitalize
+  mutate(NAME_1 = toupper(gsub("`|\\'", "", iconv(NAME_1, to="ASCII//TRANSLIT")))) %>%
+  mutate(NAME_1 = gsub("~", "", NAME_1)) 
+
+zika.ecu.join1 <- left_join(zika.ecu1, gadm.ecu1, 
+                           by = c("NAME_0" = "NAME_0", "NAME_1" = "NAME_1"))
+
+key.ecu1 <- zika.ecu.join1 %>%
+  select(location, NAME_0, NAME_1, GID_1) %>%
+  distinct()
+
+#join adm1 and adm2 and save
+
+key.ecu.all <- bind_rows(key.ecu1, key.ecu2)
+
+write.csv(key.ecu.all, "../../Ecuador/EC_GADM_Key.csv", row.names = F)
 
 #### El Salvador ####
 

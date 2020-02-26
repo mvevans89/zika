@@ -41,4 +41,12 @@ sum(!(dr.places$location %in% dr.keys$location))  #Zero means all the locations 
 #investigate missing
 dr.places[!(dr.places$location %in% dr.keys$location),] #unknown locations do not have a GID associated with them
 
+#### Ecuador ####
+
+ec.places <- read.csv("../../Ecuador/EC_Places.csv")
+ec.keys <- read.csv("../../Ecuador/EC_GADM_Key.csv")
+
+sum(!(ec.places$location %in% ec.keys$location))  #Zero means all the locations are in the keys
+#investigate missing
+ec.places[!(ec.places$location %in% ec.keys$location),] #only country level data that is missing
 
