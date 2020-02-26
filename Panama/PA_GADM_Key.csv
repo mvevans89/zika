@@ -1,75 +1,95 @@
-"location","NAME_0","NAME_1","NAME_2","NAME_3","GID_3"
-"Panama-Kuna_Yala-Acuatupu","PANAMA","Kuna Yala","Kuna Yala","Narganá","PAN.8.1.2_1"
-"Panama-Kuna_Yala-Mulatupu","PANAMA","Kuna Yala","Kuna Yala","Tubualá","PAN.8.1.4_1"
-"Panama-Kuna_Yala-Ogobsucum","PANAMA","Kuna Yala","Kuna Yala","Ailigandí","PAN.8.1.1_1"
-"Panama-Kuna_Yala-Ustupu","PANAMA","Kuna Yala","Kuna Yala","Ailigandí","PAN.8.1.1_1"
-"Panama-Kuna_Yala-Achutupu","PANAMA","Kuna Yala","Kuna Yala","Ailigandí","PAN.8.1.1_1"
-"Panama-Kuna_Yala-Pto_Obaldia","PANAMA","KUNA YALA","KUNA YALA","PUERTO OBALDIA","PAN.8.1.3_1"
-"Panama-Kuna_Yala-Nargana","PANAMA","KUNA YALA","KUNA YALA","NARGANA","PAN.8.1.2_1"
-"Panama-Kuna_Yala-Corazon_de_Jesus","PANAMA","Kuna Yala","Kuna Yala","Narganá","PAN.8.1.2_1"
-"Panama-Kuna_Yala-Rio_Azucar","PANAMA","Kuna Yala","Kuna Yala","Narganá","PAN.8.1.2_1"
-"Panama-Kuna_Yala-Rio_Sidra","PANAMA","Kuna Yala","Kuna Yala","Narganá","PAN.8.1.2_1"
-"Panama-Kuna_Yala-Carti_Sugdup","PANAMA","Kuna Yala","Kuna Yala","Narganá","PAN.8.1.2_1"
-"Panama-Kuna_Yala-Ailigandi","PANAMA","KUNA YALA","KUNA YALA","AILIGANDI","PAN.8.1.1_1"
-"Panama-Kuna_Yala-Ailitupu","PANAMA","Kuna Yala","Kuna Yala","Narganá","PAN.8.1.2_1"
-"Panama-Kuna_Yala-Nalugena","PANAMA","Kuna Yala","Kuna Yala","Narganá","PAN.8.1.2_1"
-"Panama-Kuna_Yala-Mamitupu","PANAMA","Kuna Yala","Kuna Yala","Ailigandí","PAN.8.1.1_1"
-"Panama-Kuna_Yala-Wichubhula","PANAMA","Kuna Yala","Kuna Yala","Narganá","PAN.8.1.2_1"
-"Panama-Kuna_Yala-Naranjo_Chico","PANAMA","Kuna Yala","Kuna Yala","Narganá","PAN.8.1.2_1"
-"Panama-Metro-Tocumen","PANAMA","PANAMA","PANAMA","TOCUMEN","PAN.12.6.19_1"
-"Panama-Metro-SanFrancisco","PANAMA","PANAMA","PANAMA","SAN FRANCISCO","PAN.12.6.16_1"
-"Panama-Metro-Man_anitas","PANAMA","Panamá","Panamá","Tocumen","PAN.12.6.19_1"
-"Panama-Metro-Calidonia","PANAMA","PANAMA","PANAMA","LA EXPOSICION O CALIDONIA","PAN.12.6.8_1"
-"Panama-Metro-Juan_Diaz","PANAMA","PANAMA","PANAMA","JUAN DIAZ","PAN.12.6.7_1"
-"Panama-Metro-Parque_Lefevre","PANAMA","PANAMA","PANAMA","PARQUE LEFEVRE","PAN.12.6.11_1"
-"Panama-Metro-Santa_Ana","PANAMA","PANAMA","PANAMA","SANTA ANA","PAN.12.6.18_1"
-"Panama-Metro-Rio_Abajo","PANAMA","PANAMA","PANAMA","RIO ABAJO","PAN.12.6.14_1"
-"Panama-Metro-Pueblo_Nuevo","PANAMA","PANAMA","PANAMA","PUEBLO NUEVO","PAN.12.6.13_1"
-"Panama-Metro-Chorrillo","PANAMA","PANAMA","PANAMA","EL CHORRILLO","PAN.12.6.6_1"
-"Panama-Metro-Bella_Vista","PANAMA","PANAMA","PANAMA","BELLA VISTA","PAN.12.6.2_1"
-"Panama-Metro-Bethania","PANAMA","PANAMA","PANAMA","BETANIA","PAN.12.6.3_1"
-"Panama-Metro-Ancon","PANAMA","PANAMA","PANAMA","ANCON","PAN.12.6.1_1"
-"Panama-Metro-San_Felipe","PANAMA","PANAMA","PANAMA","SAN FELIPE","PAN.12.6.15_1"
-"Panama-Metro-Pedregal","PANAMA","PANAMA","PANAMA","PEDREGAL","PAN.12.6.12_1"
-"Panama-Metro-24_de_Diciembre","PANAMA","Panamá","Panamá","Pacora","PAN.12.6.10_1"
-"Panama-Metro-Clayton","PANAMA","Panamá","Panamá","Ancón","PAN.12.6.1_1"
-"Panama-Metro-Costa_del_Este","PANAMA","Panamá","Panamá","Parque Lefevre","PAN.12.6.11_1"
-"Panama-Metro-Taboga","PANAMA","PANAMA OESTE","TABOGA","TABOGA","PAN.11.7.3_1"
-"Panama-Metro-Arnulfo_Arias","PANAMA","PANAMA","SAN MIGUELITO","ARNULFO ARIAS","PAN.12.7.2_1"
-"Panama-Metro-Gamboa","PANAMA","Colón","Colón","Cristóbal","PAN.4.2.6_1"
-"Panama-Metro-Veracruz","PANAMA","PANAMA OESTE","ARRAIJAN","VERACRUZ","PAN.11.1.5_1"
-"Panama-Panama_Oeste-Gorgona","PANAMA","PANAMA OESTE","CHAME","NUEVA GORGONA","PAN.11.3.8_1"
-"Panama-Panama_Oeste-Guadalupe","PANAMA","PANAMA OESTE","LA CHORRERA","GUADALUPE","PAN.11.4.8_1"
-"Panama-Panama_Oeste-Arraija_n","PANAMA","PANAMA OESTE","ARRAIJAN","ARRAIJAN","PAN.11.1.1_1"
-"Panama-Panama_Oeste-Playa_Leona","PANAMA","PANAMA OESTE","LA CHORRERA","PLAYA LEONA","PAN.11.4.16_1"
-"Panama-Panama_Oeste-El_Coco","PANAMA","PANAMA OESTE","LA CHORRERA","EL COCO","PAN.11.4.6_1"
-"Panama-Panama_Oeste-La_Mitra","PANAMA","Panamá Oeste","La Chorrera","Playa Leona","PAN.11.4.16_1"
-"Panama-Panama_Oeste-Vista_Alegre","PANAMA","PANAMA OESTE","ARRAIJAN","VISTA ALEGRE","PAN.11.1.6_1"
-"Panama-Panama_Norte-las_cumbres","PANAMA","PANAMA","PANAMA","LAS CUMBRES","PAN.12.6.9_1"
-"Panama-Panama_Norte-Chilibre","PANAMA","PANAMA","PANAMA","CHILIBRE","PAN.12.6.4_1"
-"Panama-Panama_Norte-Ernesto_Cordoba","PANAMA","Panamá","Panamá","Las Cumbres","PAN.12.6.9_1"
-"Panama-Colon-Salamanca","PANAMA","COLON","COLON","SALAMANCA","PAN.4.2.12_1"
-"Panama-Colon-San_Juan","PANAMA","COLON","COLON","SAN JUAN","PAN.4.2.13_1"
-"Panama-San_Miguelito-Villas_del_Golf","PANAMA","Panamá","San Miguelito","José Domingo Espinar","PAN.12.7.5_1"
-"Panama-San_Miguelito-San_Jose","PANAMA","Panamá","San Miguelito","Amelia Denis de Icaza","PAN.12.7.1_1"
-"Panama-San_Miguelito-Quintas_de_Montichello","PANAMA","Panamá","San Miguelito","Rufina Alfaro","PAN.12.7.8_1"
-"Panama-San_Miguelito-Mano_de_Piedra","PANAMA","PANAMA","SAN MIGUELITO","ARNULFO ARIAS","PAN.12.7.2_1"
-"Panama-San_Miguelito-Samaria","PANAMA","PANAMA","SAN MIGUELITO","BELISARIO PORRAS","PAN.12.7.4_1"
-"Panama-San_Miguelito-Altos_de_Panama","PANAMA","Panamá","Panamá","Ancón","PAN.12.6.1_1"
-"Panama-San_Miguelito-Camino_Real","PANAMA","Panamá","San Miguelito","Rufina Alfaro","PAN.12.7.8_1"
-"Panama-San_Miguelito-Condado_del_Rey","PANAMA","Panamá","Panamá","Ancón","PAN.12.6.1_1"
-"Panama-San_Miguelito-Villa_Lucre","PANAMA","Panamá","San Miguelito","Mateo Iturralde","PAN.12.7.6_1"
-"Panama-San_Miguelito-Brisas_del_Golf","PANAMA","Panamá","San Miguelito","Rufina Alfaro","PAN.12.7.8_1"
-"Panama-San_Miguelito-Victoriano_Lorenzo","PANAMA","PANAMA","SAN MIGUELITO","VICTORIANO LORENZO","PAN.12.7.9_1"
-"Panama-San_Miguelito-Omar_Torrijos","PANAMA","PANAMA","SAN MIGUELITO","OMAR TORRIJOS","PAN.12.7.7_1"
-"Panama-San_Miguelito-Ojo_de_Agua","PANAMA","Panamá","San Miguelito","Omar Torrijos","PAN.12.7.7_1"
-"Panama-San_Miguelito-Villa_Guadalupe","PANAMA","Panamá","San Miguelito","Mateo Iturralde","PAN.12.7.6_1"
-"Panama-San_Los_Santos-La_Villa","PANAMA","LOS SANTOS","LOS SANTOS","LA VILLA DE LOS SANTOS","PAN.9.3.5_1"
-"Panama-Darien-Rio_Congo","PANAMA","DARIEN","CHEPIGANA","RIO CONGO","PAN.5.1.9_1"
-"Panama-Herrera-Chitre","PANAMA","HERRERA","CHITRE","CHITRE","PAN.7.1.1_1"
-"Panama-Costa_del_Este","PANAMA","Panamá","Panamá","Parque Lefevre","PAN.12.6.11_1"
-"Panama-P.Este-Las_Margaritas","PANAMA","PANAMA","CHEPO","LAS MARGARITAS","PAN.12.2.6_1"
-"Panama-Veraguas-Santiago","PANAMA","VERAGUES","SANTIAGO","SANTIAGO","PAN.13.10.8_1"
-"Panama-Bocas_del_Toro-Bastimento","PANAMA","BOCAS DEL TORO","BOCAS DEL TORO","BASTIMENTOS","PAN.1.1.1_1"
-"Panama-Bocas_del_Toro-Bocas_del_Toro","PANAMA","BOCAS DEL TORO","BOCAS DEL TORO","BOCAS DEL TORO","PAN.1.1.2_1"
-"Panama-Cocle-Rio_Hato","PANAMA","COCLE","ANTON","RIO HATO","PAN.3.2.8_1"
+"location","NAME_0","NAME_1","GID_1","NAME_2","NAME_3","GID_3","GID_2"
+"Panama-San_Miguelito","PANAMA","PANAMA","PAN.12_1",NA,NA,NA,NA
+"Panama-Chiriqui","PANAMA","CHIRIQUI","PAN.2_1",NA,NA,NA,NA
+"Panama-Kuna_Yala","PANAMA","KUNA YALA","PAN.8_1",NA,NA,NA,NA
+"Panama-Metro","PANAMA","PANAMA","PAN.12_1",NA,NA,NA,NA
+"Panama-P_Oeste","PANAMA","PANAMA OESTE","PAN.11_1",NA,NA,NA,NA
+"Panama-Darien","PANAMA","DARIEN","PAN.5_1",NA,NA,NA,NA
+"Panama-Herrera","PANAMA","HERRERA","PAN.7_1",NA,NA,NA,NA
+"Panama-Ngabe_Bugle","PANAMA","NGOBE BUGLE","PAN.10_1",NA,NA,NA,NA
+"Panama-Veraguas","PANAMA","VERAGUAS","PAN.13_1",NA,NA,NA,NA
+"Panama-Panama_Norte","PANAMA","PANAMA","PAN.12_1",NA,NA,NA,NA
+"Panama-Panama_Este","PANAMA","PANAMA","PAN.12_1",NA,NA,NA,NA
+"Panama-Bocas_del_Toro","PANAMA","BOCAS DEL TORO","PAN.1_1",NA,NA,NA,NA
+"Panama-Panama_Oeste","PANAMA","PANAMA OESTE","PAN.11_1",NA,NA,NA,NA
+"Panama-Los_Santos","PANAMA","LOS SANTOS","PAN.9_1",NA,NA,NA,NA
+"Panama-Cocle","PANAMA","COCLE","PAN.3_1",NA,NA,NA,NA
+"Panama-Colon","PANAMA","COLON","PAN.4_1",NA,NA,NA,NA
+"Panama-Kuna_Yala-Acuatupu","PANAMA","Kuna Yala",NA,"Kuna Yala","Narganá","PAN.8.1.2_1",NA
+"Panama-Kuna_Yala-Mulatupu","PANAMA","Kuna Yala",NA,"Kuna Yala","Tubualá","PAN.8.1.4_1",NA
+"Panama-Kuna_Yala-Ogobsucum","PANAMA","Kuna Yala",NA,"Kuna Yala","Ailigandí","PAN.8.1.1_1",NA
+"Panama-Kuna_Yala-Ustupu","PANAMA","Kuna Yala",NA,"Kuna Yala","Ailigandí","PAN.8.1.1_1",NA
+"Panama-Kuna_Yala-Achutupu","PANAMA","Kuna Yala",NA,"Kuna Yala","Ailigandí","PAN.8.1.1_1",NA
+"Panama-Kuna_Yala-Pto_Obaldia","PANAMA","KUNA YALA",NA,"KUNA YALA","PUERTO OBALDIA","PAN.8.1.3_1",NA
+"Panama-Kuna_Yala-Playon_Chico","PANAMA","KUNA YALA",NA,"KUNA YALA","NARGANA","PAN.8.1.2_1",NA
+"Panama-Kuna_Yala-Nargana","PANAMA","KUNA YALA",NA,"KUNA YALA","NARGANA","PAN.8.1.2_1",NA
+"Panama-Kuna_Yala-Corazon_de_Jesus","PANAMA","Kuna Yala",NA,"Kuna Yala","Narganá","PAN.8.1.2_1",NA
+"Panama-Kuna_Yala-Rio_Azucar","PANAMA","Kuna Yala",NA,"Kuna Yala","Narganá","PAN.8.1.2_1",NA
+"Panama-Kuna_Yala-Rio_Sidra","PANAMA","Kuna Yala",NA,"Kuna Yala","Narganá","PAN.8.1.2_1",NA
+"Panama-Kuna_Yala-Carti_Sugdup","PANAMA","Kuna Yala",NA,"Kuna Yala","Narganá","PAN.8.1.2_1",NA
+"Panama-Kuna_Yala-Ailigandi","PANAMA","KUNA YALA",NA,"KUNA YALA","AILIGANDI","PAN.8.1.1_1",NA
+"Panama-Kuna_Yala-Ailitupu","PANAMA","Kuna Yala",NA,"Kuna Yala","Narganá","PAN.8.1.2_1",NA
+"Panama-Kuna_Yala-Nalugena","PANAMA","Kuna Yala",NA,"Kuna Yala","Narganá","PAN.8.1.2_1",NA
+"Panama-Kuna_Yala-Mamitupu","PANAMA","Kuna Yala",NA,"Kuna Yala","Ailigandí","PAN.8.1.1_1",NA
+"Panama-Kuna_Yala-Wichubhula","PANAMA","Kuna Yala",NA,"Kuna Yala","Narganá","PAN.8.1.2_1",NA
+"Panama-Kuna_Yala-Soledad_Miria","PANAMA","KUNA YALA",NA,"KUNA YALA","NARGANA","PAN.8.1.2_1",NA
+"Panama-Kuna_Yala-Soledad_Miriam","PANAMA","KUNA YALA",NA,"KUNA YALA","NARGANA","PAN.8.1.2_1",NA
+"Panama-Kuna_Yala-Naranjo_Chico","PANAMA","Kuna Yala",NA,"Kuna Yala","Narganá","PAN.8.1.2_1",NA
+"Panama-Metro-Tocumen","PANAMA","PANAMA",NA,"PANAMA","TOCUMEN","PAN.12.6.19_1",NA
+"Panama-Metro-SanFrancisco","PANAMA","PANAMA",NA,"PANAMA","SAN FRANCISCO","PAN.12.6.16_1",NA
+"Panama-Metro-Man_anitas","PANAMA","Panamá",NA,"Panamá","Tocumen","PAN.12.6.19_1",NA
+"Panama-Metro-Calidonia","PANAMA","PANAMA",NA,"PANAMA","LA EXPOSICION O CALIDONIA","PAN.12.6.8_1",NA
+"Panama-Metro-Juan_Diaz","PANAMA","PANAMA",NA,"PANAMA","JUAN DIAZ","PAN.12.6.7_1",NA
+"Panama-Metro-Parque_Lefevre","PANAMA","PANAMA",NA,"PANAMA","PARQUE LEFEVRE","PAN.12.6.11_1",NA
+"Panama-Metro-Santa_Ana","PANAMA","PANAMA",NA,"PANAMA","SANTA ANA","PAN.12.6.18_1",NA
+"Panama-Metro-Rio_Abajo","PANAMA","PANAMA",NA,"PANAMA","RIO ABAJO","PAN.12.6.14_1",NA
+"Panama-Metro-Pueblo_Nuevo","PANAMA","PANAMA",NA,"PANAMA","PUEBLO NUEVO","PAN.12.6.13_1",NA
+"Panama-Metro-Chorrillo","PANAMA","PANAMA",NA,"PANAMA","EL CHORRILLO","PAN.12.6.6_1",NA
+"Panama-Metro-Bella_Vista","PANAMA","PANAMA",NA,"PANAMA","BELLA VISTA","PAN.12.6.2_1",NA
+"Panama-Metro-Bethania","PANAMA","PANAMA",NA,"PANAMA","BETANIA","PAN.12.6.3_1",NA
+"Panama-Metro-Ancon","PANAMA","PANAMA",NA,"PANAMA","ANCON","PAN.12.6.1_1",NA
+"Panama-Metro-San_Felipe","PANAMA","PANAMA",NA,"PANAMA","SAN FELIPE","PAN.12.6.15_1",NA
+"Panama-Metro-Pedregal","PANAMA","PANAMA",NA,"PANAMA","PEDREGAL","PAN.12.6.12_1",NA
+"Panama-Metro-24_de_Diciembre","PANAMA","Panamá",NA,"Panamá","Pacora","PAN.12.6.10_1",NA
+"Panama-Metro-Clayton","PANAMA","Panamá",NA,"Panamá","Ancón","PAN.12.6.1_1",NA
+"Panama-Metro-Costa_del_Este","PANAMA","Panamá",NA,"Panamá","Parque Lefevre","PAN.12.6.11_1",NA
+"Panama-Metro-Taboga","PANAMA","PANAMA OESTE",NA,"TABOGA","TABOGA","PAN.11.7.3_1",NA
+"Panama-Metro-Arnulfo_Arias","PANAMA","PANAMA",NA,"SAN MIGUELITO","ARNULFO ARIAS","PAN.12.7.2_1",NA
+"Panama-Metro-Gamboa","PANAMA","Colón",NA,"Colón","Cristóbal","PAN.4.2.6_1",NA
+"Panama-Metro-Veracruz","PANAMA","PANAMA OESTE",NA,"ARRAIJAN","VERACRUZ","PAN.11.1.5_1",NA
+"Panama-Panama_Oeste-Gorgona","PANAMA","PANAMA OESTE",NA,"CHAME","NUEVA GORGONA","PAN.11.3.8_1",NA
+"Panama-Panama_Oeste-Guadalupe","PANAMA","PANAMA OESTE",NA,"LA CHORRERA","GUADALUPE","PAN.11.4.8_1",NA
+"Panama-Panama_Oeste-Arraija_n","PANAMA","PANAMA OESTE",NA,"ARRAIJAN","ARRAIJAN","PAN.11.1.1_1",NA
+"Panama-Panama_Oeste-Playa_Leona","PANAMA","PANAMA OESTE",NA,"LA CHORRERA","PLAYA LEONA","PAN.11.4.16_1",NA
+"Panama-Panama_Oeste-El_Coco","PANAMA","PANAMA OESTE",NA,"LA CHORRERA","EL COCO","PAN.11.4.6_1",NA
+"Panama-Panama_Oeste-La_Mitra","PANAMA","Panamá Oeste",NA,"La Chorrera","Playa Leona","PAN.11.4.16_1",NA
+"Panama-Panama_Oeste-Vista_Alegre","PANAMA","PANAMA OESTE",NA,"ARRAIJAN","VISTA ALEGRE","PAN.11.1.6_1",NA
+"Panama-Panama_Norte-las_cumbres","PANAMA","PANAMA",NA,"PANAMA","LAS CUMBRES","PAN.12.6.9_1",NA
+"Panama-Panama_Norte-Chilibre","PANAMA","PANAMA",NA,"PANAMA","CHILIBRE","PAN.12.6.4_1",NA
+"Panama-Panama_Norte-Ernesto_Cordoba","PANAMA","Panamá",NA,"Panamá","Las Cumbres","PAN.12.6.9_1",NA
+"Panama-Colon-Salamanca","PANAMA","COLON",NA,"COLON","SALAMANCA","PAN.4.2.12_1",NA
+"Panama-Colon-San_Juan","PANAMA","COLON",NA,"COLON","SAN JUAN","PAN.4.2.13_1",NA
+"Panama-San_Miguelito-Villas_del_Golf","PANAMA","Panamá",NA,"San Miguelito","José Domingo Espinar","PAN.12.7.5_1",NA
+"Panama-San_Miguelito-San_Jose","PANAMA","Panamá",NA,"San Miguelito","Amelia Denis de Icaza","PAN.12.7.1_1",NA
+"Panama-San_Miguelito-Quintas_de_Montichello","PANAMA","Panamá",NA,"San Miguelito","Rufina Alfaro","PAN.12.7.8_1",NA
+"Panama-San_Miguelito-Mano_de_Piedra","PANAMA","PANAMA",NA,"SAN MIGUELITO","ARNULFO ARIAS","PAN.12.7.2_1",NA
+"Panama-San_Miguelito-Samaria","PANAMA","PANAMA",NA,"SAN MIGUELITO","BELISARIO PORRAS","PAN.12.7.4_1",NA
+"Panama-San_Miguelito-Altos_de_Panama","PANAMA","Panamá",NA,"Panamá","Ancón","PAN.12.6.1_1",NA
+"Panama-San_Miguelito-Camino_Real","PANAMA","Panamá",NA,"San Miguelito","Rufina Alfaro","PAN.12.7.8_1",NA
+"Panama-San_Miguelito-Condado_del_Rey","PANAMA","Panamá",NA,"Panamá","Ancón","PAN.12.6.1_1",NA
+"Panama-San_Miguelito-Villa_Lucre","PANAMA","Panamá",NA,"San Miguelito","Mateo Iturralde","PAN.12.7.6_1",NA
+"Panama-San_Miguelito-Brisas_del_Golf","PANAMA","Panamá",NA,"San Miguelito","Rufina Alfaro","PAN.12.7.8_1",NA
+"Panama-San_Miguelito-Victoriano_Lorenzo","PANAMA","PANAMA",NA,"SAN MIGUELITO","VICTORIANO LORENZO","PAN.12.7.9_1",NA
+"Panama-San_Miguelito-Omar_Torrijos","PANAMA","PANAMA",NA,"SAN MIGUELITO","OMAR TORRIJOS","PAN.12.7.7_1",NA
+"Panama-San_Miguelito-Ojo_de_Agua","PANAMA","Panamá",NA,"San Miguelito","Omar Torrijos","PAN.12.7.7_1",NA
+"Panama-San_Miguelito-Villa_Guadalupe","PANAMA","Panamá",NA,"San Miguelito","Mateo Iturralde","PAN.12.7.6_1",NA
+"Panama-San_Los_Santos-La_Villa","PANAMA","LOS SANTOS",NA,"LOS SANTOS","LA VILLA DE LOS SANTOS","PAN.9.3.5_1",NA
+"Panama-Darien-Rio_Congo","PANAMA","DARIEN",NA,"CHEPIGANA","RIO CONGO","PAN.5.1.9_1",NA
+"Panama-Herrera-Chitre","PANAMA","HERRERA",NA,"CHITRE","CHITRE","PAN.7.1.1_1",NA
+"Panama-Costa_del_Este","PANAMA","Panamá",NA,"Panamá","Parque Lefevre","PAN.12.6.11_1",NA
+"Panama-P.Este-Las_Margaritas","PANAMA","PANAMA",NA,"CHEPO","LAS MARGARITAS","PAN.12.2.6_1",NA
+"Panama-Veraguas-Santiago","PANAMA","VERAGUES",NA,"SANTIAGO","SANTIAGO","PAN.13.10.8_1",NA
+"Panama-Bocas_del_Toro-Bastimento","PANAMA","BOCAS DEL TORO",NA,"BOCAS DEL TORO","BASTIMENTOS","PAN.1.1.1_1",NA
+"Panama-Bocas_del_Toro-Bocas_del_Toro","PANAMA","BOCAS DEL TORO",NA,"BOCAS DEL TORO","BOCAS DEL TORO","PAN.1.1.2_1",NA
+"Panama-Cocle-Rio_Hato","PANAMA","COCLE",NA,"ANTON","RIO HATO","PAN.3.2.8_1",NA
+"Panama-Panama_Oeste-La_Chorrera","PANAMA","PANAMA OESTE",NA,"LA CHORRERA",NA,NA,"PAN.11.4_1"

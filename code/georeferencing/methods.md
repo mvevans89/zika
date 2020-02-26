@@ -64,6 +64,8 @@ Join level: ADM_3, "county"
 
 The Panama data has an issue in that some data is reported at the level of GID3 and others at GID2, and others at the level of a small town or neighborhood. For small towns/islands, the places have  been georeferenced manually by MV Evans in February 2019 and saved in `zika-panama-manual.csv`. These coordinates are then used to find out what GID3 shapefile they fall within and data should be aggregated up to GID_3 values before use.
 
+There is also data reported at the "province" level, which corresponds to [MoH regions](http://www.minsa.gob.pa/regiones-de-salud). These generally correspond with GID1, except that the Panama province is split into smaller aggregations by the MoH. I have combined these all to the Panama province level here.
+
 ## Puerto Rico
 
 Join level: ADM_1,  "municipality"

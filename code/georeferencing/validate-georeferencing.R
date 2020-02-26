@@ -100,4 +100,12 @@ ni.keys <- read.csv("../../Nicaragua/NI_GADM_Key.csv")
 
 sum(!(ni.places$location %in% ni.keys$location))  #Zero means all the locations are in the keys
 #investigate missing
-ni.places[!(ni.places$location %in% ni.keys$location),] # 
+ni.places[!(ni.places$location %in% ni.keys$location),] # county and other are missing but shouldn't be included
+
+#### Panama ####
+pa.places <- read.csv("../../Panama/PA_Places.csv")
+pa.keys <- read.csv("../../Panama/PA_GADM_Key.csv")
+
+sum(!(pa.places$location %in% pa.keys$location))  #Zero means all the locations are in the keys
+#investigate missing
+pa.places[!(pa.places$location %in% pa.keys$location),] # missing unknowns and imported

@@ -757,7 +757,7 @@ write.csv(key.nic, "../../Nicaragua/NI_GADM_Key.csv", row.names = F)
 #' and summed up to get ADM level 3 values.
 
 zika.pan <- read.csv("../../Panama/PA_Places.csv", stringsAsFactors = F) %>%
-  dplyr::filter(location_type == "county") %>%
+  dplyr::filter(location_type == "county" ) %>% 
   #the second bit of the name is actually NAME_3 for Panama becuase they are counties
   tidyr::separate(location, into=c("NAME_0", "NAME_1", "NAME_3"), sep = "-", remove = F) %>% 
   # fix accent issue
@@ -820,7 +820,45 @@ sum(is.na(zika.pan.join$GID_3)) #success == 0
 key.pan <- select(zika.pan.join, location, NAME_0 = NAME_0.y, NAME_1 = NAME_1.y, NAME_2, NAME_3 = NAME_3.y, GID_3) %>%
   filter(!is.na(GID_3))
 
-write.csv(key.pan, "../../Panama/PA_GADM_Key.csv", row.names = F)
+#There is also data reported at the province level (ADM1) that needs to be georeferenced
+zika.pan1 <-  read.csv("../../Panama/PA_Places.csv", stringsAsFactors = F) %>%
+  dplyr::filter(location_type == "province") %>%
+  #the second bit of the name is actually NAME_3 for Panama becuase they are counties
+  tidyr::separate(location, into=c("NAME_0", "NAME_1"), sep = "-", remove = F) %>% 
+  # fix accent issue
+  mutate(NAME_0 = toupper(NAME_0)) %>%
+  mutate(NAME_1 = toupper(gsub("`|\\'", "", iconv(NAME_1, to="ASCII//TRANSLIT")))) %>%
+  mutate(NAME_1 = gsub("_", " ", NAME_1)) %>%
+  #drop imported
+  filter(NAME_1 != "IMPORTADOS") %>%
+  #most correspond to ADM1, but some are within Panama province
+  mutate(NAME_1 = case_when(
+    NAME_1  %in% c("SAN MIGUELITO", "METRO", "PANAMA NORTE", "PANAMA ESTE") ~ "PANAMA",
+    NAME_1 == "P OESTE" ~ "PANAMA OESTE",
+    NAME_1 == "NGABE BUGLE" ~ "NGOBE BUGLE",
+    TRUE ~ NAME_1
+  )) 
+
+gadm.pan1 <- gadm.data %>%
+  filter(GID_0 == "PAN") %>%
+  select(NAME_0, NAME_1, GID_1) %>%
+  distinct() %>%
+  #drop accents and capitalize
+  mutate(NAME_0 = toupper(NAME_0)) %>%
+  mutate(NAME_1 = toupper(gsub("`|\\'", "", iconv(NAME_1, to="ASCII//TRANSLIT")))) %>%
+  mutate(NAME_1 = gsub("~", "", NAME_1))
+
+zika.pan.join1 <- left_join(zika.pan1, gadm.pan1,  by = c("NAME_0", "NAME_1")) %>%
+  select(location, NAME_0, NAME_1, GID_1)
+
+#combine all
+key.pan.all <- bind_rows(zika.pan.join1, key.pan)
+#manually add La Chorrera because it is a GID_2
+la.chorerra <- data.frame(location = "Panama-Panama_Oeste-La_Chorrera", NAME_0 = "PANAMA", NAME_1 = "PANAMA OESTE", NAME_2 = "LA CHORRERA", GID_2 = "PAN.11.4_1")
+
+key.pan.all <- bind_rows(key.pan.all, la.chorerra)
+
+write.csv(key.pan.all, "../../Panama/PA_GADM_Key.csv", row.names = F)
 
 #### Puerto Rico ####
 
