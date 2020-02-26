@@ -50,3 +50,38 @@ sum(!(ec.places$location %in% ec.keys$location))  #Zero means all the locations 
 #investigate missing
 ec.places[!(ec.places$location %in% ec.keys$location),] #only country level data that is missing
 
+#### El Salvador ####
+
+sv.places <- read.csv("../../El_Salvador/SV_Places.csv")
+sv.keys <- read.csv("../../El_Salvador/SV_GADM_Key.csv")
+
+sum(!(sv.places$location %in% sv.keys$location))  #Zero means all the locations are in the keys
+#investigate missing
+sv.places[!(sv.places$location %in% sv.keys$location),] #only country level data that is missing
+
+#### France ####
+
+fr.places <- read.csv("../../France/FR_Places.csv")
+fr.keys <- read.csv("../../France/FR_GADM_Key.csv")
+
+sum(!(fr.places$location %in% fr.keys$location))  #Zero means all the locations are in the keys
+#investigate missing
+fr.places[!(fr.places$location %in% fr.keys$location),] #only country level data that is missing
+
+#### Guatemala ####
+
+gt.places <- read.csv("../../Guatemala/GT_Places.csv")
+gt.keys <- read.csv("../../Guatemala/GT_GADM_Key.csv")
+
+sum(!(gt.places$location %in% gt.keys$location))  #Zero means all the locations are in the keys
+#investigate missing
+gt.places[!(gt.places$location %in% gt.keys$location),] #the missing data are regions that are larger than ADM1 in the GADM data
+
+#### Haiti ####
+
+ha.places <- read.csv("../../Haiti/HA_Places.csv")
+ha.keys <- read.csv("../../Haiti/HA_GADM_Key.csv")
+
+sum(!(ha.places$location %in% ha.keys$location))  #Zero means all the locations are in the keys
+#investigate missing
+ha.places[!(ha.places$location %in% ha.keys$location),] #the missing data are regions that are larger than ADM1 in the GADM data

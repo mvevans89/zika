@@ -612,14 +612,39 @@ gadm.hti <- gadm.data %>%
   mutate(NAME_3 = gsub("-", " ", NAME_3))
 
 # join on the finest scale possible for each row
-zika.hti.join <- left_join(zika.hti, gadm.hti, 
-                           by = c("NAME_0" = "NAME_0", "NAME_1" = "NAME_1","NAME_3" = "NAME_3"))
+zika.hti.join2 <- left_join(zika.hti, gadm.hti, 
+                           by = c("NAME_0" = "NAME_0", "NAME_1" = "NAME_1","NAME_3" = "NAME_3")) %>%
+  select(location,  NAME_0, NAME_1, NAME_2, NAME_3, GID_3)
 
 #check it worked
-sum(is.na(zika.hti.join$GID_3)) #success==0
+sum(is.na(zika.hti.join2$GID_3)) #success==0
 
-#select columns and save
-hti.key <- select(zika.hti.join, location, NAME_0, NAME_1, NAME_2, NAME_3, GID_3)
+#Haiti also reports data at the level of the province, ADM1
+zika.hti1 <- read.csv("../../Haiti/HA_Places.csv", stringsAsFactors = F) %>%
+  filter(location_type == "province") %>%
+  tidyr::separate(location, into=c("NAME_0", "NAME_1"), sep = "-", remove = F) %>%
+  mutate(NAME_1 = toupper(gsub("_", " ", NAME_1))) %>%
+  #adjust typos & spellings
+  mutate(NAME_1 = case_when(
+    NAME_1 == "ARTIBONITE" ~ "LARTIBONITE",
+    NAME_1 == "GRANDE ANSE" ~ "GRANDANSE",
+    TRUE ~ NAME_1
+  ))
+
+gadm.hti1 <- gadm.data %>%
+  filter(GID_0 == "HTI") %>%
+  select(NAME_0, NAME_1, GID_1) %>%
+  distinct() %>%
+  #drop accents and capitalize
+  mutate(NAME_1 = toupper(gsub("`|\\'", "", iconv(NAME_1, to="ASCII//TRANSLIT")))) %>%
+  mutate(NAME_1 = gsub("~", "", NAME_1)) %>%
+  mutate(NAME_1 = gsub("-", " ", NAME_1))
+
+zika.hti.join1 <- left_join(zika.hti1, gadm.hti1, 
+                           by = c("NAME_0" = "NAME_0", "NAME_1" = "NAME_1")) %>%
+  select(location, NAME_0, NAME_1, GID_1)
+
+hti.key <- bind_rows(zika.hti.join1, zika.hti.join2)
 
 write.csv(hti.key, "../../Haiti/HA_GADM_Key.csv", row.names = F)
 
