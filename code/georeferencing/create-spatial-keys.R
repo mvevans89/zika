@@ -870,7 +870,7 @@ zika.pr <- read.csv("../../Puerto_Rico/PR_Places.csv", stringsAsFactors = F) %>%
   mutate(NAME_0 = toupper(gsub("_", " ", NAME_0)))  %>%
   select(-country)
   
-#there are weird issues with accents that I can't get to work in R, so I fixing them manually (poor form, I know)
+#there are weird issues with accents that I can't get to work in R, so I'm fixing them manually (poor form, I know)
 zika.pr$NAME_1[6] <- "AÑASCO"
 zika.pr$NAME_1[11] <- "BAYAMÓN"
 zika.pr$NAME_1[15] <- "CANÓVANAS"
@@ -927,16 +927,35 @@ gadm.usa <- gadm.data %>%
   distinct() 
 
 #join
-zika.usa.join <- left_join(zika.usa, gadm.usa, 
-                           by = c("NAME_0" = "NAME_0", "NAME_1" = "NAME_1", "NAME_2" = "NAME_2")) 
-
-sum(is.na(zika.usa.join$GID_2)) # success == 0
-
-# get unique key and save
-key.usa <- zika.usa.join %>%
+usa.join2 <- left_join(zika.usa, gadm.usa, 
+                           by = c("NAME_0" = "NAME_0", "NAME_1" = "NAME_1", "NAME_2" = "NAME_2")) %>%
   select(location, NAME_0, NAME_1, NAME_2, GID_2) %>%
   distinct()
 
+sum(is.na(usa.join2$GID_2)) # success == 0
+
+
+#now georeference the states
+zika.usa1 <- read.csv("../../United_States/US_Places.csv") %>%
+  dplyr::filter(location_type %in% c("state")) %>%
+  mutate(NAME_0 = "United States") %>%
+  rename(NAME_1 = "state_province") %>%
+  mutate(NAME_1 = gsub("_", " ", NAME_1)) %>%
+  select(location, NAME_0, NAME_1)
+
+gadm.usa1 <- gadm.data %>%
+  filter(GID_0 == "USA") %>%
+  select(NAME_0, NAME_1, GID_1) %>%
+  distinct() 
+
+usa.join1 <- left_join(zika.usa1, gadm.usa1, by = c("NAME_0", "NAME_1"))
+
+#create data for American Somoa (PR and USVI already have their own better data)
+asm <- data.frame(location = "United_States-American_Samoa", NAME_0 = "United States", NAME_1 = "AMERICAN SOMOA", GID_0 = "ASM")
+
+#combine with county data
+key.usa <- bind_rows(usa.join1, usa.join2, asm) 
+  
 write.csv(key.usa, "../../United_States/US_GADM_Key.csv", row.names = F)
   
 #### US Minor Islands ####

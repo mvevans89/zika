@@ -1,68 +1,120 @@
-"location","NAME_0","NAME_1","NAME_2","GID_2"
-"United_States-Florida-Alachua_County","United States","Florida","Alachua","USA.10.1_1"
-"United_States-Florida-Baker_County","United States","Florida","Baker","USA.10.2_1"
-"United_States-Florida-Bay_County","United States","Florida","Bay","USA.10.3_1"
-"United_States-Florida-Bradford_County","United States","Florida","Bradford","USA.10.4_1"
-"United_States-Florida-Brevard_County","United States","Florida","Brevard","USA.10.5_1"
-"United_States-Florida-Broward_County","United States","Florida","Broward","USA.10.6_1"
-"United_States-Florida-Calhoun_County","United States","Florida","Calhoun","USA.10.7_1"
-"United_States-Florida-Charlotte_County","United States","Florida","Charlotte","USA.10.8_1"
-"United_States-Florida-Citrus_County","United States","Florida","Citrus","USA.10.9_1"
-"United_States-Florida-Clay_County","United States","Florida","Clay","USA.10.10_1"
-"United_States-Florida-Collier_County","United States","Florida","Collier","USA.10.11_1"
-"United_States-Florida-Columbia_County","United States","Florida","Columbia","USA.10.12_1"
-"United_States-Florida-DeSoto_County","United States","Florida","Desoto","USA.10.13_1"
-"United_States-Florida-Dixie_County","United States","Florida","Dixie","USA.10.14_1"
-"United_States-Florida-Duval_County","United States","Florida","Duval","USA.10.15_1"
-"United_States-Florida-Escambia_County","United States","Florida","Escambia","USA.10.16_1"
-"United_States-Florida-Flagler_County","United States","Florida","Flagler","USA.10.17_1"
-"United_States-Florida-Franklin_County","United States","Florida","Franklin","USA.10.18_1"
-"United_States-Florida-Gadsden_County","United States","Florida","Gadsden","USA.10.19_1"
-"United_States-Florida-Gilchrist_County","United States","Florida","Gilchrist","USA.10.20_1"
-"United_States-Florida-Glades_County","United States","Florida","Glades","USA.10.21_1"
-"United_States-Florida-Gulf_County","United States","Florida","Gulf","USA.10.22_1"
-"United_States-Florida-Hamilton_County","United States","Florida","Hamilton","USA.10.23_1"
-"United_States-Florida-Hardee_County","United States","Florida","Hardee","USA.10.24_1"
-"United_States-Florida-Hendry_County","United States","Florida","Hendry","USA.10.25_1"
-"United_States-Florida-Hernando_County","United States","Florida","Hernando","USA.10.26_1"
-"United_States-Florida-Highlands_County","United States","Florida","Highlands","USA.10.27_1"
-"United_States-Florida-Hillsborough_County","United States","Florida","Hillsborough","USA.10.28_1"
-"United_States-Florida-Holmes_County","United States","Florida","Holmes","USA.10.29_1"
-"United_States-Florida-IndianRiver_County","United States","Florida","Indian River","USA.10.30_1"
-"United_States-Florida-Jackson_County","United States","Florida","Jackson","USA.10.31_1"
-"United_States-Florida-Jefferson_County","United States","Florida","Jefferson","USA.10.32_1"
-"United_States-Florida-Lafayette_County","United States","Florida","Lafayette","USA.10.33_1"
-"United_States-Florida-Lake_County","United States","Florida","Lake","USA.10.34_1"
-"United_States-Florida-Lee_County","United States","Florida","Lee","USA.10.35_1"
-"United_States-Florida-Leon_County","United States","Florida","Leon","USA.10.36_1"
-"United_States-Florida-Levy_County","United States","Florida","Levy","USA.10.37_1"
-"United_States-Florida-Liberty_County","United States","Florida","Liberty","USA.10.38_1"
-"United_States-Florida-Madison_County","United States","Florida","Madison","USA.10.39_1"
-"United_States-Florida-Manatee_County","United States","Florida","Manatee","USA.10.40_1"
-"United_States-Florida-Marion_County","United States","Florida","Marion","USA.10.41_1"
-"United_States-Florida-Martin_County","United States","Florida","Martin","USA.10.42_1"
-"United_States-Florida-Miami_Dade_County","United States","Florida","Miami-Dade","USA.10.43_1"
-"United_States-Florida-Monroe_County","United States","Florida","Monroe","USA.10.44_1"
-"United_States-Florida-Nassau_County","United States","Florida","Nassau","USA.10.45_1"
-"United_States-Florida-Okaloosa_County","United States","Florida","Okaloosa","USA.10.46_1"
-"United_States-Florida-Okeechobee_County","United States","Florida","Okeechobee","USA.10.47_1"
-"United_States-Florida-Orange_County","United States","Florida","Orange","USA.10.48_1"
-"United_States-Florida-Osceola_County","United States","Florida","Osceola","USA.10.49_1"
-"United_States-Florida-PalmBeach_County","United States","Florida","Palm Beach","USA.10.50_1"
-"United_States-Florida-Pasco_County","United States","Florida","Pasco","USA.10.51_1"
-"United_States-Florida-Pinellas_County","United States","Florida","Pinellas","USA.10.52_1"
-"United_States-Florida-Polk_County","United States","Florida","Polk","USA.10.53_1"
-"United_States-Florida-Putnam_County","United States","Florida","Putnam","USA.10.54_1"
-"United_States-Florida-SantaRosa_County","United States","Florida","Santa Rosa","USA.10.57_1"
-"United_States-Florida-Sarasota_County","United States","Florida","Sarasota","USA.10.58_1"
-"United_States-Florida-Seminole_County","United States","Florida","Seminole","USA.10.59_1"
-"United_States-Florida-StJohns_County","United States","Florida","Saint Johns","USA.10.55_1"
-"United_States-Florida-StLucie_County","United States","Florida","Saint Lucie","USA.10.56_1"
-"United_States-Florida-Sumter_County","United States","Florida","Sumter","USA.10.60_1"
-"United_States-Florida-Suwannee_County","United States","Florida","Suwannee","USA.10.61_1"
-"United_States-Florida-Taylor_County","United States","Florida","Taylor","USA.10.62_1"
-"United_States-Florida-Union_County","United States","Florida","Union","USA.10.63_1"
-"United_States-Florida-Volusia_County","United States","Florida","Volusia","USA.10.64_1"
-"United_States-Florida-Wakulla_County","United States","Florida","Wakulla","USA.10.65_1"
-"United_States-Florida-Walton_County","United States","Florida","Walton","USA.10.66_1"
-"United_States-Florida-Washington_County","United States","Florida","Washington","USA.10.67_1"
+"location","NAME_0","NAME_1","GID_1","NAME_2","GID_2","GID_0"
+"United_States-Alaska","United States","Alaska","USA.2_1",NA,NA,NA
+"United_States-Alabama","United States","Alabama","USA.1_1",NA,NA,NA
+"United_States-Arizona","United States","Arizona","USA.3_1",NA,NA,NA
+"United_States-Arkansas","United States","Arkansas","USA.4_1",NA,NA,NA
+"United_States-California","United States","California","USA.5_1",NA,NA,NA
+"United_States-Colorado","United States","Colorado","USA.6_1",NA,NA,NA
+"United_States-Connecticut","United States","Connecticut","USA.7_1",NA,NA,NA
+"United_States-Delaware","United States","Delaware","USA.8_1",NA,NA,NA
+"United_States-District_of_Columbia","United States","District of Columbia","USA.9_1",NA,NA,NA
+"United_States-Florida","United States","Florida","USA.10_1",NA,NA,NA
+"United_States-Georgia","United States","Georgia","USA.11_1",NA,NA,NA
+"United_States-Hawaii","United States","Hawaii","USA.12_1",NA,NA,NA
+"United_States-Illinois","United States","Illinois","USA.14_1",NA,NA,NA
+"United_States-Indiana","United States","Indiana","USA.15_1",NA,NA,NA
+"United_States-Iowa","United States","Iowa","USA.16_1",NA,NA,NA
+"United_States-Idaho","United States","Idaho","USA.13_1",NA,NA,NA
+"United_States-Kansas","United States","Kansas","USA.17_1",NA,NA,NA
+"United_States-Kentucky","United States","Kentucky","USA.18_1",NA,NA,NA
+"United_States-Louisiana","United States","Louisiana","USA.19_1",NA,NA,NA
+"United_States-Maine","United States","Maine","USA.20_1",NA,NA,NA
+"United_States-Maryland","United States","Maryland","USA.21_1",NA,NA,NA
+"United_States-Massachusetts","United States","Massachusetts","USA.22_1",NA,NA,NA
+"United_States-Michigan","United States","Michigan","USA.23_1",NA,NA,NA
+"United_States-Minnesota","United States","Minnesota","USA.24_1",NA,NA,NA
+"United_States-Mississippi","United States","Mississippi","USA.25_1",NA,NA,NA
+"United_States-Missouri","United States","Missouri","USA.26_1",NA,NA,NA
+"United_States-Montana","United States","Montana","USA.27_1",NA,NA,NA
+"United_States-Nebraska","United States","Nebraska","USA.28_1",NA,NA,NA
+"United_States-Nevada","United States","Nevada","USA.29_1",NA,NA,NA
+"United_States-New_Hampshire","United States","New Hampshire","USA.30_1",NA,NA,NA
+"United_States-New_Jersey","United States","New Jersey","USA.31_1",NA,NA,NA
+"United_States-New_Mexico","United States","New Mexico","USA.32_1",NA,NA,NA
+"United_States-New_York","United States","New York","USA.33_1",NA,NA,NA
+"United_States-North_Carolina","United States","North Carolina","USA.34_1",NA,NA,NA
+"United_States-North_Dakota","United States","North Dakota","USA.35_1",NA,NA,NA
+"United_States-Ohio","United States","Ohio","USA.36_1",NA,NA,NA
+"United_States-Oklahoma","United States","Oklahoma","USA.37_1",NA,NA,NA
+"United_States-Oregon","United States","Oregon","USA.38_1",NA,NA,NA
+"United_States-Pennsylvania","United States","Pennsylvania","USA.39_1",NA,NA,NA
+"United_States-Rhode_Island","United States","Rhode Island","USA.40_1",NA,NA,NA
+"United_States-South_Carolina","United States","South Carolina","USA.41_1",NA,NA,NA
+"United_States-South_Dakota","United States","South Dakota","USA.42_1",NA,NA,NA
+"United_States-Tennessee","United States","Tennessee","USA.43_1",NA,NA,NA
+"United_States-Texas","United States","Texas","USA.44_1",NA,NA,NA
+"United_States-Utah","United States","Utah","USA.45_1",NA,NA,NA
+"United_States-Vermont","United States","Vermont","USA.46_1",NA,NA,NA
+"United_States-Virginia","United States","Virginia","USA.47_1",NA,NA,NA
+"United_States-Washington","United States","Washington","USA.48_1",NA,NA,NA
+"United_States-West_Virginia","United States","West Virginia","USA.49_1",NA,NA,NA
+"United_States-Wyoming","United States","Wyoming","USA.51_1",NA,NA,NA
+"United_States-Wisconsin","United States","Wisconsin","USA.50_1",NA,NA,NA
+"United_States-Florida-Alachua_County","United States","Florida",NA,"Alachua","USA.10.1_1",NA
+"United_States-Florida-Baker_County","United States","Florida",NA,"Baker","USA.10.2_1",NA
+"United_States-Florida-Bay_County","United States","Florida",NA,"Bay","USA.10.3_1",NA
+"United_States-Florida-Bradford_County","United States","Florida",NA,"Bradford","USA.10.4_1",NA
+"United_States-Florida-Brevard_County","United States","Florida",NA,"Brevard","USA.10.5_1",NA
+"United_States-Florida-Broward_County","United States","Florida",NA,"Broward","USA.10.6_1",NA
+"United_States-Florida-Calhoun_County","United States","Florida",NA,"Calhoun","USA.10.7_1",NA
+"United_States-Florida-Charlotte_County","United States","Florida",NA,"Charlotte","USA.10.8_1",NA
+"United_States-Florida-Citrus_County","United States","Florida",NA,"Citrus","USA.10.9_1",NA
+"United_States-Florida-Clay_County","United States","Florida",NA,"Clay","USA.10.10_1",NA
+"United_States-Florida-Collier_County","United States","Florida",NA,"Collier","USA.10.11_1",NA
+"United_States-Florida-Columbia_County","United States","Florida",NA,"Columbia","USA.10.12_1",NA
+"United_States-Florida-DeSoto_County","United States","Florida",NA,"Desoto","USA.10.13_1",NA
+"United_States-Florida-Dixie_County","United States","Florida",NA,"Dixie","USA.10.14_1",NA
+"United_States-Florida-Duval_County","United States","Florida",NA,"Duval","USA.10.15_1",NA
+"United_States-Florida-Escambia_County","United States","Florida",NA,"Escambia","USA.10.16_1",NA
+"United_States-Florida-Flagler_County","United States","Florida",NA,"Flagler","USA.10.17_1",NA
+"United_States-Florida-Franklin_County","United States","Florida",NA,"Franklin","USA.10.18_1",NA
+"United_States-Florida-Gadsden_County","United States","Florida",NA,"Gadsden","USA.10.19_1",NA
+"United_States-Florida-Gilchrist_County","United States","Florida",NA,"Gilchrist","USA.10.20_1",NA
+"United_States-Florida-Glades_County","United States","Florida",NA,"Glades","USA.10.21_1",NA
+"United_States-Florida-Gulf_County","United States","Florida",NA,"Gulf","USA.10.22_1",NA
+"United_States-Florida-Hamilton_County","United States","Florida",NA,"Hamilton","USA.10.23_1",NA
+"United_States-Florida-Hardee_County","United States","Florida",NA,"Hardee","USA.10.24_1",NA
+"United_States-Florida-Hendry_County","United States","Florida",NA,"Hendry","USA.10.25_1",NA
+"United_States-Florida-Hernando_County","United States","Florida",NA,"Hernando","USA.10.26_1",NA
+"United_States-Florida-Highlands_County","United States","Florida",NA,"Highlands","USA.10.27_1",NA
+"United_States-Florida-Hillsborough_County","United States","Florida",NA,"Hillsborough","USA.10.28_1",NA
+"United_States-Florida-Holmes_County","United States","Florida",NA,"Holmes","USA.10.29_1",NA
+"United_States-Florida-IndianRiver_County","United States","Florida",NA,"Indian River","USA.10.30_1",NA
+"United_States-Florida-Jackson_County","United States","Florida",NA,"Jackson","USA.10.31_1",NA
+"United_States-Florida-Jefferson_County","United States","Florida",NA,"Jefferson","USA.10.32_1",NA
+"United_States-Florida-Lafayette_County","United States","Florida",NA,"Lafayette","USA.10.33_1",NA
+"United_States-Florida-Lake_County","United States","Florida",NA,"Lake","USA.10.34_1",NA
+"United_States-Florida-Lee_County","United States","Florida",NA,"Lee","USA.10.35_1",NA
+"United_States-Florida-Leon_County","United States","Florida",NA,"Leon","USA.10.36_1",NA
+"United_States-Florida-Levy_County","United States","Florida",NA,"Levy","USA.10.37_1",NA
+"United_States-Florida-Liberty_County","United States","Florida",NA,"Liberty","USA.10.38_1",NA
+"United_States-Florida-Madison_County","United States","Florida",NA,"Madison","USA.10.39_1",NA
+"United_States-Florida-Manatee_County","United States","Florida",NA,"Manatee","USA.10.40_1",NA
+"United_States-Florida-Marion_County","United States","Florida",NA,"Marion","USA.10.41_1",NA
+"United_States-Florida-Martin_County","United States","Florida",NA,"Martin","USA.10.42_1",NA
+"United_States-Florida-Miami_Dade_County","United States","Florida",NA,"Miami-Dade","USA.10.43_1",NA
+"United_States-Florida-Monroe_County","United States","Florida",NA,"Monroe","USA.10.44_1",NA
+"United_States-Florida-Nassau_County","United States","Florida",NA,"Nassau","USA.10.45_1",NA
+"United_States-Florida-Okaloosa_County","United States","Florida",NA,"Okaloosa","USA.10.46_1",NA
+"United_States-Florida-Okeechobee_County","United States","Florida",NA,"Okeechobee","USA.10.47_1",NA
+"United_States-Florida-Orange_County","United States","Florida",NA,"Orange","USA.10.48_1",NA
+"United_States-Florida-Osceola_County","United States","Florida",NA,"Osceola","USA.10.49_1",NA
+"United_States-Florida-PalmBeach_County","United States","Florida",NA,"Palm Beach","USA.10.50_1",NA
+"United_States-Florida-Pasco_County","United States","Florida",NA,"Pasco","USA.10.51_1",NA
+"United_States-Florida-Pinellas_County","United States","Florida",NA,"Pinellas","USA.10.52_1",NA
+"United_States-Florida-Polk_County","United States","Florida",NA,"Polk","USA.10.53_1",NA
+"United_States-Florida-Putnam_County","United States","Florida",NA,"Putnam","USA.10.54_1",NA
+"United_States-Florida-SantaRosa_County","United States","Florida",NA,"Santa Rosa","USA.10.57_1",NA
+"United_States-Florida-Sarasota_County","United States","Florida",NA,"Sarasota","USA.10.58_1",NA
+"United_States-Florida-Seminole_County","United States","Florida",NA,"Seminole","USA.10.59_1",NA
+"United_States-Florida-StJohns_County","United States","Florida",NA,"Saint Johns","USA.10.55_1",NA
+"United_States-Florida-StLucie_County","United States","Florida",NA,"Saint Lucie","USA.10.56_1",NA
+"United_States-Florida-Sumter_County","United States","Florida",NA,"Sumter","USA.10.60_1",NA
+"United_States-Florida-Suwannee_County","United States","Florida",NA,"Suwannee","USA.10.61_1",NA
+"United_States-Florida-Taylor_County","United States","Florida",NA,"Taylor","USA.10.62_1",NA
+"United_States-Florida-Union_County","United States","Florida",NA,"Union","USA.10.63_1",NA
+"United_States-Florida-Volusia_County","United States","Florida",NA,"Volusia","USA.10.64_1",NA
+"United_States-Florida-Wakulla_County","United States","Florida",NA,"Wakulla","USA.10.65_1",NA
+"United_States-Florida-Walton_County","United States","Florida",NA,"Walton","USA.10.66_1",NA
+"United_States-Florida-Washington_County","United States","Florida",NA,"Washington","USA.10.67_1",NA
+"United_States-American_Samoa","United States","AMERICAN SOMOA",NA,NA,NA,"ASM"
