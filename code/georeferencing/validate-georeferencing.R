@@ -124,4 +124,13 @@ us.keys <- read.csv("../../United_States/US_GADM_Key.csv")
 
 sum(!(us.places$location %in% us.keys$location))  #Zero means all the locations are in the keys
 #investigate missing
-us.places[!(us.places$location %in% us.keys$location),] # missing unknowns and imported
+us.places[!(us.places$location %in% us.keys$location),] # 
+
+#### US Virgin Islands ####
+vi.places <- read.csv("../../USVI/USVI_Places.csv")
+vi.keys <- read.csv("../../USVI/USVI_GADM_Key.csv")
+
+sum(!(vi.places$location %in% vi.keys$location))  #Zero means all the locations are in the keys
+#investigate missing
+vi.places[!(vi.places$location %in% vi.keys$location),] # 
+

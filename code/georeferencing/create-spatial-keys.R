@@ -957,27 +957,6 @@ asm <- data.frame(location = "United_States-American_Samoa", NAME_0 = "United St
 key.usa <- bind_rows(usa.join1, usa.join2, asm) 
   
 write.csv(key.usa, "../../United_States/US_GADM_Key.csv", row.names = F)
-  
-#### US Minor Islands ####
-# Puerto Rico and Virgin Islands have their own section, so this is just American Somoa
-zika.asm <- read.csv("../../United_States/US_Places.csv") %>%
-  dplyr::filter(location == "United_States-US_Virgin_Islands")
-
-
-#other islands!
-gadm.asm <- gadm.data %>%
-  filter(GID_0 == "ASM") %>%
-  select(NAME_0, GID_0) %>%
-  distinct() %>%
-  #drop accents and capitalize
-  mutate(NAME_0 = toupper(NAME_0))
-
-
-#join
-zika.asm.join <- data.frame(location = zika.asm$location, NAME_0 = "American Somoa", GID_0 = "ASM")
-
-#not sure where this should be saved to
-
 
 #### US VI ####
 
@@ -1008,6 +987,8 @@ sum(is.na(zika.vir.join$GID_1))
 # get unique key and save
 key.vir <- zika.vir.join %>%
   select(location, NAME_0, NAME_1, GID_1) %>%
-  distinct()
+  distinct() %>%
+  #add in row for the whole territory
+  bind_rows(data.frame(location = "United_States_Virgin_Islands", NAME_0 = "VIRGIN ISLANDS, U.S.", GID_0 = "VIR"))
 
 write.csv(key.vir, "../../USVI/USVI_GADM_Key.csv", row.names = F)
